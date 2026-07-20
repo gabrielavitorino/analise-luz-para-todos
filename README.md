@@ -25,18 +25,6 @@ Portal de Dados Abertos do Ministério de Minas e Energia:
 
 A coleta é realizada diretamente dos endereços oficiais pelo script `src/download_data.py`.
 
-## Tecnologias
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Plotly
-- Streamlit
-- Jupyter/Google Colab
-- Tableau Public
-- GitHub Actions
-
 ## Estrutura
 
 ```text
@@ -123,10 +111,6 @@ streamlit run dashboard/streamlit/app.py
 ## Automação
 
 O workflow `.github/workflows/atualizar-dados.yml` executa o pipeline mensalmente e também pode ser iniciado manualmente na aba **Actions** do GitHub.
-
-## Aplicação junto à comunidade
-
-Os resultados serão apresentados à comunidade local de Limeira/SP. Após a apresentação, será aplicado um questionário de avaliação para verificar a clareza das visualizações, a compreensão dos dados e a utilidade da solução.
 
 ## Autoria
 
