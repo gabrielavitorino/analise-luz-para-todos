@@ -112,6 +112,14 @@ streamlit run dashboard/streamlit/app.py
 
 O workflow `.github/workflows/atualizar-dados.yml` executa o pipeline mensalmente e também pode ser iniciado manualmente na aba **Actions** do GitHub.
 
+## Dashboard interativo
+
+O dashboard apresenta indicadores e visualizações sobre os domicílios
+atendidos pelo Programa Luz para Todos, permitindo análises por ano,
+região, estado e município.
+
+[🔗 Acessar o dashboard no Looker Studio](https://datastudio.google.com/s/sYzXwRaIcyM)
+
 ## Autoria
 
 Gabriela Vitorino — CST em Banco de Dados.
