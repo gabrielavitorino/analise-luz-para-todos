@@ -3,384 +3,388 @@ PA,Norte,Santarém,22159
 PA,Norte,Barcarena,20619
 PA,Norte,Novo Repartimento,18024
 RO,Norte,Porto Velho,17073
+PA,Norte,Cametá,15965
 PA,Norte,Breves,14791
 PA,Norte,Acará,14462
-PA,Norte,Cametá,13925
 PA,Norte,Moju,13669
-AC,Norte,Rio Branco,12971
 AM,Norte,Manaus,11995
 PA,Norte,Marabá,11163
 AM,Norte,Itacoatiara,11006
 PA,Norte,Pacajá,10996
-BA,Nordeste,Monte Santo,10380
-PI,Nordeste,Teresina,10226
+AC,Norte,Rio Branco,10445
+BA,Nordeste,Monte Santo,10403
+PI,Nordeste,Teresina,10252
 AM,Norte,Manacapuru,10155
 PA,Norte,Abaetetuba,9676
 BA,Nordeste,Vitória da Conquista,9580
-BA,Nordeste,Juazeiro,9422
+BA,Nordeste,Juazeiro,9427
 PA,Norte,Tomé-Açu,9356
 PA,Norte,Itupiranga,8991
 PA,Norte,Viseu,8775
 PA,Norte,Tailândia,8609
-MA,Nordeste,Codó,8481
-PA,Norte,Monte Alegre,8298
-PA,Norte,São Félix do Xingu,8211
+MA,Nordeste,Codó,8503
+PA,Norte,Monte Alegre,8494
+PA,Norte,São Félix do Xingu,8355
 PA,Norte,Castanhal,8046
 PA,Norte,Bragança,7908
 PA,Norte,Igarapé-Miri,7824
+AC,Norte,Cruzeiro do Sul,7771
 AM,Norte,Parintins,7539
 AM,Norte,Careiro,7393
 PA,Norte,Oriximiná,7241
-BA,Nordeste,Casa Nova,7180
-MA,Nordeste,Caxias,7077
+BA,Nordeste,Casa Nova,7189
+MA,Nordeste,Caxias,7096
 AM,Norte,Iranduba,7020
-MA,Nordeste,Grajaú,7006
-BA,Nordeste,Ipirá,6923
+MA,Nordeste,Grajaú,7018
+BA,Nordeste,Ipirá,6924
 PA,Norte,Portel,6909
-MA,Nordeste,São Luís,6874
-PA,Norte,Baião,6707
+MA,Nordeste,São Luís,6875
+PA,Norte,Baião,6713
 PA,Norte,Uruará,6706
 PA,Norte,Altamira,6705
 PA,Norte,Oeiras do Pará,6671
-MA,Nordeste,Barreirinhas,6624
+MA,Nordeste,Barreirinhas,6631
 PA,Norte,Augusto Corrêa,6566
-MA,Nordeste,Amarante do Maranhão,6561
+MA,Nordeste,Amarante do Maranhão,6564
 PA,Norte,Medicilândia,6541
-MA,Nordeste,Timon,6484
+MA,Nordeste,Timon,6508
+BA,Nordeste,Campo Formoso,6435
 RO,Norte,Machadinho Doeste,6431
-BA,Nordeste,Campo Formoso,6408
 BA,Nordeste,Porto Seguro,6389
-PA,Norte,Paragominas,6349
-BA,Nordeste,Valença,6336
+PA,Norte,Paragominas,6347
+BA,Nordeste,Valença,6340
 MA,Nordeste,Buriticupu,6212
-PA,Norte,Alenquer,6187
+PA,Norte,Alenquer,6188
 PA,Norte,Goianésia do Pará,6179
+AC,Norte,Sena Madureira,6164
 BA,Nordeste,Araci,6155
 BA,Nordeste,Euclides da Cunha,6153
-AC,Norte,Cruzeiro do Sul,6095
 PA,Norte,Curralinho,6029
+PA,Norte,Óbidos,6022
 PA,Norte,Tracuateua,6006
 PA,Norte,Conceição do Araguaia,6006
-PA,Norte,Óbidos,6004
-BA,Nordeste,Barra,5980
+BA,Nordeste,Barra,6002
 BA,Nordeste,Itapicuru,5883
-BA,Nordeste,Tucano,5877
-BA,Nordeste,Feira de Santana,5832
+BA,Nordeste,Tucano,5878
+BA,Nordeste,Feira de Santana,5833
 PA,Norte,Itaituba,5785
 CE,Nordeste,Itapipoca,5767
 AM,Norte,Rio Preto da Eva,5732
 AM,Norte,Autazes,5723
 RR,Norte,Cantá,5723
-PA,Norte,Juruti,5704
-BA,Nordeste,Jacobina,5702
+BA,Nordeste,Jacobina,5711
+PA,Norte,Juruti,5699
 BA,Nordeste,Campo Alegre de Lourdes,5652
-MA,Nordeste,Chapadinha,5617
-AP,Norte,Macapá,5612
-BA,Nordeste,Conceição do Coité,5568
+MA,Nordeste,Chapadinha,5646
+AP,Norte,Macapá,5644
+BA,Nordeste,Conceição do Coité,5570
 PA,Norte,Santa Maria das Barreiras,5554
-PA,Norte,Muaná,5484
+PA,Norte,Muaná,5488
+PA,Norte,Gurupá,5487
 PA,Norte,Santo Antônio do Tauá,5467
 PA,Norte,Capitão Poço,5425
-MA,Nordeste,São José de Ribamar,5410
+MA,Nordeste,São José de Ribamar,5412
 AM,Norte,Manicoré,5373
-MA,Nordeste,Santa Luzia,5366
-MA,Nordeste,Balsas,5303
+MA,Nordeste,Santa Luzia,5368
+MA,Nordeste,Balsas,5312
 MT,Centro-Oeste,Confresa,5238
 PA,Norte,Maracanã,5140
 PA,Norte,Breu Branco,5099
 RS,Sul,Canguçu,5099
-BA,Nordeste,Macaúbas,5082
+AC,Norte,Tarauacá,5086
+BA,Nordeste,Macaúbas,5083
 PA,Norte,Anapu,5077
+MA,Nordeste,Barra do Corda,5076
 AM,Norte,Presidente Figueiredo,5054
-BA,Nordeste,Itiúba,5047
-MA,Nordeste,Barra do Corda,5033
-AC,Norte,Sena Madureira,4972
+BA,Nordeste,Itiúba,5052
 PA,Norte,Melgaço,4901
 PA,Norte,São Domingos do Capim,4873
 PE,Nordeste,Ouricuri,4865
 PA,Norte,São Sebastião da Boa Vista,4859
-BA,Nordeste,Pilão Arcado,4813
-BA,Nordeste,Itaberaba,4759
-PA,Norte,Gurupá,4703
-BA,Nordeste,Serrinha,4675
+BA,Nordeste,Pilão Arcado,4831
+BA,Nordeste,Itaberaba,4760
+BA,Nordeste,Serrinha,4676
 MA,Nordeste,Paço do Lumiar,4670
-AC,Norte,Tarauacá,4603
+BA,Nordeste,Caetité,4602
 RO,Norte,Nova Mamoré,4602
-BA,Nordeste,Caetité,4599
 PA,Norte,São Miguel do Guamá,4575
 BA,Nordeste,Bom Jesus da Lapa,4558
-BA,Nordeste,Seabra,4492
+BA,Nordeste,Seabra,4496
 PA,Norte,Marapanim,4474
 MT,Centro-Oeste,Aripuanã,4440
+PI,Nordeste,Paulistana,4420
 MG,Sudeste,São Francisco,4412
-PI,Nordeste,Paulistana,4405
 BA,Nordeste,Ribeira do Pombal,4396
 SE,Nordeste,Porto da Folha,4346
 SP,Sudeste,Ibiúna,4342
 SE,Nordeste,Poço Redondo,4313
 PA,Norte,Benevides,4269
-BA,Nordeste,Remanso,4244
-MA,Nordeste,Pinheiro,4242
+BA,Nordeste,Remanso,4266
+AC,Norte,Porto Acre,4248
+MA,Nordeste,Pinheiro,4244
 BA,Nordeste,Ilhéus,4242
-MA,Nordeste,Estreito,4218
+MA,Nordeste,Estreito,4224
+MA,Nordeste,Parnarama,4215
 PA,Norte,Bujaru,4214
-MA,Nordeste,Parnarama,4203
 BA,Nordeste,Cansanção,4200
 MT,Centro-Oeste,Colniza,4181
-MA,Nordeste,Vargem Grande,4148
-PA,Norte,Prainha,4141
-BA,Nordeste,Quijingue,4119
-PI,Nordeste,São Raimundo Nonato,4101
-PA,Norte,Santana do Araguaia,4083
+MA,Nordeste,Vargem Grande,4166
+BA,Nordeste,Quijingue,4157
+PA,Norte,Prainha,4142
+PI,Nordeste,São Raimundo Nonato,4106
+PA,Norte,Santana do Araguaia,4094
 PA,Norte,Placas,4079
 AM,Norte,Boca do Acre,4076
-BA,Nordeste,Curaçá,4042
-MA,Nordeste,Viana,4026
+BA,Nordeste,Curaçá,4044
+MA,Nordeste,Viana,4035
 AM,Norte,Barreirinha,4007
 MA,Nordeste,Pedro do Rosário,3986
 BA,Nordeste,Anagé,3957
+AC,Norte,Brasiléia,3955
 RO,Norte,Cacoal,3932
 PE,Nordeste,Petrolina,3889
 MS,Centro-Oeste,Ponta Porã,3876
 PA,Norte,Tucuruí,3851
-BA,Nordeste,Correntina,3828
-BA,Nordeste,Brumado,3824
+BA,Nordeste,Correntina,3829
+BA,Nordeste,Brumado,3825
 CE,Nordeste,Granja,3816
 PA,Norte,Concórdia do Pará,3798
+MA,Nordeste,Açailândia,3790
 PA,Norte,Senador José Porfírio,3783
-MA,Nordeste,Açailândia,3782
 RO,Norte,Candeias do Jamari,3772
 TO,Norte,Palmas,3757
 PA,Norte,Irituia,3749
 PA,Norte,Ipixuna do Pará,3726
 MG,Sudeste,Novo Cruzeiro,3722
 BA,Nordeste,Jeremoabo,3713
+MA,Nordeste,Itapecuru Mirim,3710
 PA,Norte,Curuçá,3696
-MA,Nordeste,Itapecuru Mirim,3695
 PA,Norte,Igarapé-Açu,3674
+BA,Nordeste,Morro do Chapéu,3660
 PA,Norte,Rurópolis,3657
-PA,Norte,Afuá,3651
+PA,Norte,Afuá,3654
 BA,Nordeste,Jequié,3632
-BA,Nordeste,Morro do Chapéu,3628
 PI,Nordeste,Barras,3618
 MA,Nordeste,Turiaçu,3614
 AM,Norte,Tefé,3598
-MA,Nordeste,Tutóia,3538
+MA,Nordeste,Tutóia,3548
 SE,Nordeste,Canindé de São Francisco,3524
-BA,Nordeste,Santa Rita de Cássia,3510
-AC,Norte,Porto Acre,3502
+BA,Nordeste,Santa Rita de Cássia,3516
 PA,Norte,Brasil Novo,3497
-PI,Nordeste,Pio IX,3483
+AC,Norte,Feijó,3483
 MS,Centro-Oeste,Sidrolândia,3483
+PI,Nordeste,Pio IX,3483
+MA,Nordeste,Coroatá,3475
 AM,Norte,Tabatinga,3475
-MA,Nordeste,Coroatá,3465
+MA,Nordeste,Buriti,3474
+BA,Nordeste,Riacho de Santana,3460
 RO,Norte,Buritis,3456
-BA,Nordeste,Riacho de Santana,3454
-MA,Nordeste,Aldeias Altas,3436
-MA,Nordeste,Araioses,3436
-MA,Nordeste,Buriti,3434
+MA,Nordeste,Aldeias Altas,3442
+MA,Nordeste,Araioses,3439
+PA,Norte,Almeirim,3432
 BA,Nordeste,Wenceslau Guimarães,3424
-BA,Nordeste,Uauá,3413
-MA,Nordeste,Riachão,3411
-PA,Norte,Novo Progresso,3393
+BA,Nordeste,Uauá,3417
+MA,Nordeste,Riachão,3413
+PA,Norte,Novo Progresso,3374
 AM,Norte,Nhamundá,3368
+MA,Nordeste,Formosa da Serra Negra,3351
 MA,Nordeste,Arame,3349
-MA,Nordeste,Formosa da Serra Negra,3348
 PA,Norte,Belém,3334
+MA,Nordeste,Bom Jesus das Selvas,3330
 PA,Norte,Cachoeira do Arari,3321
-MA,Nordeste,Bom Jesus das Selvas,3317
+PA,Norte,Aveiro,3316
 BA,Nordeste,Santaluz,3305
 PA,Norte,Floresta do Araguaia,3300
 SE,Nordeste,Nossa Senhora da Glória,3299
-BA,Nordeste,Boa Vista do Tupim,3295
+BA,Nordeste,Boa Vista do Tupim,3296
+RR,Norte,Boa Vista,3294
 AM,Norte,Maués,3291
 PA,Norte,Santa Bárbara do Pará,3287
-PA,Norte,São João de Pirabas,3277
 AL,Nordeste,São José da Tapera,3277
-PA,Norte,Aveiro,3274
+PA,Norte,São João de Pirabas,3277
 PA,Norte,Eldorado dos Carajás,3268
 MG,Sudeste,Minas Novas,3260
-RR,Norte,Boa Vista,3254
 SP,Sudeste,Piedade,3248
 AM,Norte,Humaitá,3237
 MT,Centro-Oeste,Juara,3236
-BA,Nordeste,Boquira,3223
+BA,Nordeste,Boquira,3226
+AP,Norte,Mazagão,3200
 BA,Nordeste,Presidente Tancredo Neves,3186
 SE,Nordeste,Tobias Barreto,3166
 PA,Norte,Porto de Moz,3152
 PI,Nordeste,Queimada Nova,3141
-AC,Norte,Brasiléia,3133
+BA,Nordeste,Carinhanha,3133
+PA,Norte,Garrafão do Norte,3132
 AM,Norte,Manaquiri,3126
 PA,Norte,Bagre,3123
-BA,Nordeste,Rafael Jambeiro,3121
+BA,Nordeste,Rafael Jambeiro,3122
 MA,Nordeste,Icatu,3118
 BA,Nordeste,Paratinga,3117
 BA,Nordeste,Buritirama,3117
-BA,Nordeste,Livramento de Nossa Senhora,3103
+BA,Nordeste,Livramento de Nossa Senhora,3108
 PA,Norte,Água Azul do Norte,3090
-BA,Nordeste,Carinhanha,3083
 PA,Norte,Parauapebas,3077
-BA,Nordeste,Nova Soure,3071
-PA,Norte,Garrafão do Norte,3062
+BA,Nordeste,Nova Soure,3072
 MT,Centro-Oeste,Chapada dos Guimarães,3061
+BA,Nordeste,Guanambi,3056
+MA,Nordeste,Penalva,3054
 BA,Nordeste,Alcobaça,3051
-BA,Nordeste,Guanambi,3051
+MA,Nordeste,Sítio Novo,3048
 MG,Sudeste,Teófilo Otoni,3046
-MA,Nordeste,Sítio Novo,3046
-MA,Nordeste,Penalva,3045
 RO,Norte,Guajará-Mirim,3011
-PI,Nordeste,Pedro II,2983
+AC,Norte,Rodrigues Alves,3003
+PI,Nordeste,Pedro II,2995
+MA,Nordeste,Santa Quitéria do Maranhão,2993
 MT,Centro-Oeste,Nova Bandeirantes,2977
-MA,Nordeste,Santa Quitéria do Maranhão,2974
 MT,Centro-Oeste,Cotriguaçu,2970
+PI,Nordeste,Esperantina,2967
 MT,Centro-Oeste,Peixoto de Azevedo,2965
-PI,Nordeste,Esperantina,2959
 PA,Norte,Dom Eliseu,2958
 AM,Norte,Benjamin Constant,2957
 AM,Norte,Borba,2939
-BA,Nordeste,Andorinha,2936
+BA,Nordeste,Andorinha,2938
 PA,Norte,Ponta de Pedras,2926
 MG,Sudeste,Montes Claros,2923
 MT,Centro-Oeste,Cuiabá,2923
 SE,Nordeste,Itabaianinha,2913
 BA,Nordeste,Eunápolis,2905
-PA,Norte,Almeirim,2904
-MA,Nordeste,Mirador,2874
+MA,Nordeste,Mirador,2898
 BA,Nordeste,Poções,2874
 ES,Sudeste,Domingos Martins,2873
 PE,Nordeste,Araripina,2858
 MA,Nordeste,Paulino Neves,2851
 PA,Norte,Rondon do Pará,2850
 PE,Nordeste,Itaíba,2847
-MA,Nordeste,Matões,2844
+MA,Nordeste,Matões,2847
 PI,Nordeste,Pimenteiras,2841
 PA,Norte,Ourilândia do Norte,2836
 PR,Sul,Prudentópolis,2827
+MA,Nordeste,Colinas,2822
 MT,Centro-Oeste,Nossa Senhora do Livramento,2813
-BA,Nordeste,Palmas de Monte Alto,2811
-MA,Nordeste,Colinas,2809
-BA,Nordeste,Camamu,2807
+BA,Nordeste,Palmas de Monte Alto,2812
+BA,Nordeste,Camamu,2809
 BA,Nordeste,Tremedal,2800
-MA,Nordeste,São João Batista,2797
+MA,Nordeste,São João Batista,2799
 TO,Norte,Goiatins,2796
 BA,Nordeste,Jaguarari,2789
 MT,Centro-Oeste,Poconé,2788
+AC,Norte,Bujari,2788
 RO,Norte,Vilhena,2787
-MA,Nordeste,Zé Doca,2760
-AC,Norte,Feijó,2759
-BA,Nordeste,Barreiras,2756
+BA,Nordeste,Barreiras,2769
+MA,Nordeste,Zé Doca,2766
 CE,Nordeste,Canindé,2746
 AL,Nordeste,Palmeira dos Índios,2743
-AP,Norte,Mazagão,2742
+MA,Nordeste,Alcântara,2740
+AC,Norte,Xapuri,2739
 AM,Norte,Coari,2738
-MA,Nordeste,Alcântara,2737
 AM,Norte,Urucurituba,2736
-MA,Nordeste,Bom Jardim,2730
-PI,Nordeste,Jaicós,2724
+MA,Nordeste,Bom Jardim,2732
+PI,Nordeste,Jaicós,2725
 PA,Norte,Nova Ipixuna,2713
+BA,Nordeste,Queimadas,2705
+AC,Norte,Acrelândia,2700
 AL,Nordeste,Maragogi,2695
-BA,Nordeste,Queimadas,2693
 CE,Nordeste,Viçosa do Ceará,2691
 BA,Nordeste,Irará,2688
 SE,Nordeste,Lagarto,2687
-AC,Norte,Rodrigues Alves,2680
+BA,Nordeste,Piatã,2682
 PE,Nordeste,Buíque,2680
-BA,Nordeste,Piatã,2680
+AC,Norte,Senador Guiomard,2676
 BA,Nordeste,Rio Real,2675
 RN,Nordeste,Ceará-Mirim,2668
+BA,Nordeste,Canavieiras,2668
 CE,Nordeste,Camocim,2661
-BA,Nordeste,Canavieiras,2659
-BA,Nordeste,Senhor do Bonfim,2656
+BA,Nordeste,Senhor do Bonfim,2660
 AM,Norte,Nova Olinda do Norte,2652
 PA,Norte,Belterra,2647
+BA,Nordeste,Teofilândia,2632
 MT,Centro-Oeste,Cáceres,2629
-BA,Nordeste,Teofilândia,2627
 PA,Norte,Santa Isabel do Pará,2626
 PA,Norte,Aurora do Pará,2617
 RO,Norte,Espigão Doeste,2617
 AL,Nordeste,Santana do Ipanema,2603
 MG,Sudeste,Rio Pardo de Minas,2600
+MA,Nordeste,São Domingos do Maranhão,2598
 MG,Sudeste,Manhuaçu,2598
 BA,Nordeste,Riachão do Jacuípe,2573
 MS,Centro-Oeste,Corumbá,2566
 PA,Norte,Cachoeira do Piriá,2564
-AL,Nordeste,Canapi,2563
-MA,Nordeste,São Domingos do Maranhão,2563
 BA,Nordeste,Aracatu,2563
+AL,Nordeste,Canapi,2563
 BA,Nordeste,Baixa Grande,2552
 MG,Sudeste,Januária,2551
 PR,Sul,Pinhão,2532
 MT,Centro-Oeste,Vila Rica,2523
+AC,Norte,Epitaciolândia,2521
 BA,Nordeste,Manoel Vitorino,2519
 CE,Nordeste,Acopiara,2512
 BA,Nordeste,Oliveira dos Brejinhos,2508
-BA,Nordeste,Ibipitanga,2489
-MA,Nordeste,Urbano Santos,2485
-BA,Nordeste,Guaratinga,2474
+BA,Nordeste,Ibipitanga,2498
+MA,Nordeste,Urbano Santos,2494
+BA,Nordeste,Guaratinga,2492
 MA,Nordeste,Cândido Mendes,2474
 PE,Nordeste,Cabo de Santo Agostinho,2470
 MT,Centro-Oeste,Comodoro,2468
-BA,Nordeste,Serra Preta,2467
 PA,Norte,Vigia,2467
+BA,Nordeste,Serra Preta,2467
 CE,Nordeste,Santa Quitéria,2455
 MA,Nordeste,Matinha,2453
 CE,Nordeste,Amontada,2451
-PI,Nordeste,Dom Inocêncio,2441
+PI,Nordeste,Dom Inocêncio,2442
+BA,Nordeste,Iraquara,2439
 BA,Nordeste,Maragogipe,2438
-BA,Nordeste,Iraquara,2437
-MA,Nordeste,Turilândia,2429
 BA,Nordeste,Camaçari,2429
+MA,Nordeste,Turilândia,2429
 MT,Centro-Oeste,Vila Bela da Santíssima Trindade,2422
 MT,Centro-Oeste,Juína,2418
-AM,Norte,Santo Antônio do Içá,2417
 AL,Nordeste,Igaci,2417
+AM,Norte,Santo Antônio do Içá,2417
 AL,Nordeste,Arapiraca,2415
 MT,Centro-Oeste,Santo Antônio do Leverger,2399
 PI,Nordeste,Miguel Alves,2395
 AL,Nordeste,Mata Grande,2392
 MA,Nordeste,Bequimão,2391
 TO,Norte,Araguatins,2387
+PI,Nordeste,Altos,2382
 AL,Nordeste,União dos Palmares,2380
 BA,Nordeste,Paripiranga,2374
-MA,Nordeste,Anajatuba,2371
-MA,Nordeste,São Bernardo,2366
-MA,Nordeste,Vitória do Mearim,2365
-PI,Nordeste,Altos,2354
-MA,Nordeste,Monção,2352
+MA,Nordeste,Anajatuba,2374
+MA,Nordeste,Vitória do Mearim,2370
+MA,Nordeste,São Bernardo,2368
+MA,Nordeste,Monção,2355
+PI,Nordeste,Cocal,2354
 AM,Norte,Lábrea,2351
-AC,Norte,Senador Guiomard,2346
 TO,Norte,Aragominas,2344
 MT,Centro-Oeste,Rosário Oeste,2339
-PI,Nordeste,Cocal,2334
+BA,Nordeste,Prado,2333
 BA,Nordeste,Maracás,2332
+MA,Nordeste,Palmeirândia,2328
 CE,Nordeste,Crateús,2327
-MA,Nordeste,Palmeirândia,2327
 BA,Nordeste,Mairi,2323
-BA,Nordeste,Prado,2318
 BA,Nordeste,Jaguaripe,2315
 BA,Nordeste,Santa Maria da Vitória,2312
 BA,Nordeste,Laje,2310
-BA,Nordeste,Boa Nova,2307
+BA,Nordeste,Boa Nova,2308
 CE,Nordeste,Tauá,2303
+MA,Nordeste,Fernando Falcão,2301
+MA,Nordeste,Bacabal,2298
 BA,Nordeste,Encruzilhada,2295
 RO,Norte,Cujubim,2294
-MA,Nordeste,Bacabal,2293
-MA,Nordeste,Fernando Falcão,2279
-PA,Norte,Cumaru do Norte,2275
-BA,Nordeste,Barra da Estiva,2271
-MA,Nordeste,Lago da Pedra,2264
+MA,Nordeste,Lago da Pedra,2277
+BA,Nordeste,Barra da Estiva,2276
+BA,Nordeste,Igrapiúna,2263
 PI,Nordeste,Canto do Buriti,2262
-BA,Nordeste,Igrapiúna,2261
 SE,Nordeste,Estância,2255
+PI,Nordeste,Lagoa do Barro do Piauí,2254
 GO,Centro-Oeste,Flores de Goiás,2253
 AL,Nordeste,Marechal Deodoro,2252
 PI,Nordeste,Batalha,2251
-PI,Nordeste,Lagoa do Barro do Piauí,2250
 AM,Norte,São Paulo de Olivença,2250
+AC,Norte,Capixaba,2249
 SP,Sudeste,São José dos Campos,2248
 CE,Nordeste,Pedra Branca,2246
 PA,Norte,Trairão,2246
-AC,Norte,Acrelândia,2245
+PA,Norte,Cumaru do Norte,2241
 BA,Nordeste,Jaguaquara,2229
 RO,Norte,Ji-Paraná,2220
 BA,Nordeste,Taperoá,2219
@@ -389,8 +393,8 @@ PI,Nordeste,Acauã,2217
 BA,Nordeste,Santa Brígida,2211
 CE,Nordeste,Parambu,2209
 MT,Centro-Oeste,Querência,2207
+BA,Nordeste,Iaçu,2203
 PI,Nordeste,Uruçuí,2203
-BA,Nordeste,Iaçu,2201
 BA,Nordeste,Crisópolis,2195
 RO,Norte,Pimenta Bueno,2193
 MT,Centro-Oeste,Campinápolis,2192
@@ -400,23 +404,24 @@ PA,Norte,Anajás,2183
 BA,Nordeste,Pedro Alexandre,2183
 SP,Sudeste,Itapeva,2178
 PA,Norte,Capanema,2177
+AC,Norte,Plácido de Castro,2176
 PA,Norte,Tucumã,2165
 MG,Sudeste,Francisco Sá,2164
 BA,Nordeste,Coronel João Sá,2163
 PA,Norte,Redenção,2161
 MG,Sudeste,Simonésia,2157
-BA,Nordeste,Ituaçu,2155
+BA,Nordeste,Ituaçu,2157
+MA,Nordeste,Tuntum,2156
 RO,Norte,Ariquemes,2151
 RO,Norte,Nova Brasilândia Doeste,2144
 MA,Nordeste,Santa Helena,2141
 PA,Norte,Ourém,2138
 BA,Nordeste,Alagoinhas,2134
-MA,Nordeste,Tuntum,2133
 CE,Nordeste,Quixadá,2123
 RR,Norte,Bonfim,2121
 BA,Nordeste,São Desidério,2120
+MA,Nordeste,Cururupu,2115
 PA,Norte,Nova Esperança do Piriá,2112
-MA,Nordeste,Cururupu,2109
 PR,Sul,Castro,2108
 ES,Sudeste,Afonso Cláudio,2107
 MT,Centro-Oeste,Ribeirão Cascalheira,2103
@@ -424,60 +429,60 @@ MG,Sudeste,Capelinha,2102
 AL,Nordeste,Senador Rui Palmeira,2098
 BA,Nordeste,Brotas de Macaúbas,2096
 BA,Nordeste,Entre Rios,2093
-AC,Norte,Bujari,2092
 CE,Nordeste,Sobral,2091
 CE,Nordeste,Icó,2091
 PA,Norte,Jacundá,2088
 AL,Nordeste,Girau do Ponciano,2087
-MA,Nordeste,Governador Edison Lobão,2085
-MA,Nordeste,Centro Novo do Maranhão,2082
+MA,Nordeste,Governador Edison Lobão,2086
 PE,Nordeste,Ipojuca,2082
+MA,Nordeste,Centro Novo do Maranhão,2082
 BA,Nordeste,Capim Grosso,2080
 MT,Centro-Oeste,Santa Terezinha,2079
 SE,Nordeste,Itaporanga Dajuda,2072
-AL,Nordeste,Craíbas,2065
+AC,Norte,Marechal Thaumaturgo,2070
 BA,Nordeste,Olindina,2065
+AL,Nordeste,Craíbas,2065
 AL,Nordeste,São Luís do Quitunde,2062
 BA,Nordeste,Paulo Afonso,2061
 MG,Sudeste,Brasília de Minas,2059
-BA,Nordeste,Riachão das Neves,2054
-MA,Nordeste,São João do Soter,2049
+BA,Nordeste,Riachão das Neves,2055
+MA,Nordeste,São João do Soter,2052
+BA,Nordeste,Itaguaçu da Bahia,2052
 BA,Nordeste,Angical,2047
-AC,Norte,Epitaciolândia,2041
 MA,Nordeste,Buritirana,2037
-BA,Nordeste,Itaguaçu da Bahia,2033
-PI,Nordeste,Simões,2032
-MA,Nordeste,São João do Paraíso,2030
+PI,Nordeste,Simões,2035
+MA,Nordeste,São João do Paraíso,2034
 BA,Nordeste,Caetanos,2027
 MG,Sudeste,Unaí,2020
 SE,Nordeste,Gararu,2019
-BA,Nordeste,Sento Sé,2011
+BA,Nordeste,Sento Sé,2016
+PI,Nordeste,Piripiri,2013
 MA,Nordeste,Humberto de Campos,2007
-PI,Nordeste,Betânia do Piauí,2002
+PI,Nordeste,Betânia do Piauí,2005
+BA,Nordeste,Itamaraju,2002
 RO,Norte,São Miguel do Guaporé,2001
-PI,Nordeste,Piripiri,2001
-BA,Nordeste,Itamaraju,2000
 RN,Nordeste,Mossoró,1999
-BA,Nordeste,Santana,1996
+BA,Nordeste,Santana,1997
 PA,Norte,São João do Araguaia,1992
 BA,Nordeste,Presidente Jânio Quadros,1989
+BA,Nordeste,Serra do Ramalho,1987
 PI,Nordeste,Corrente,1986
-BA,Nordeste,Serra do Ramalho,1986
 BA,Nordeste,Água Fria,1984
 RR,Norte,Caracaraí,1984
+MA,Nordeste,Barão de Grajaú,1980
 SE,Nordeste,Riachão do Dantas,1978
+AC,Norte,Mâncio Lima,1977
 MG,Sudeste,Coração de Jesus,1971
-MA,Nordeste,Barão de Grajaú,1969
 MG,Sudeste,Almenara,1965
 AM,Norte,Boa Vista do Ramos,1965
-MA,Nordeste,Cajari,1960
+MA,Nordeste,Cajari,1962
 BA,Nordeste,Ibicoara,1959
+PI,Nordeste,Oeiras,1958
 MG,Sudeste,Arinos,1958
 TO,Norte,Paranã,1957
 CE,Nordeste,Caucaia,1956
 MA,Nordeste,Passagem Franca,1953
 RO,Norte,Rolim de Moura,1952
-PI,Nordeste,Oeiras,1951
 PA,Norte,Ulianópolis,1947
 BA,Nordeste,Iguaí,1946
 MT,Centro-Oeste,Brasnorte,1944
@@ -499,356 +504,352 @@ PA,Norte,Santa Luzia do Pará,1907
 MT,Centro-Oeste,Tangará da Serra,1905
 MG,Sudeste,Ladainha,1903
 PE,Nordeste,Barreiros,1899
-AC,Norte,Xapuri,1898
 SE,Nordeste,Monte Alegre de Sergipe,1896
 PI,Nordeste,Campo Maior,1893
-CE,Nordeste,Morada Nova,1891
+BA,Nordeste,Miguel Calmon,1892
 CE,Nordeste,Trairi,1891
+CE,Nordeste,Morada Nova,1891
 ES,Sudeste,São Mateus,1890
-BA,Nordeste,Miguel Calmon,1889
 CE,Nordeste,Acaraú,1884
+PI,Nordeste,Isaías Coelho,1883
 BA,Nordeste,Rio do Antônio,1882
-PI,Nordeste,Isaías Coelho,1880
-BA,Nordeste,Abaré,1874
+BA,Nordeste,Abaré,1877
 BA,Nordeste,Conde,1873
-AC,Norte,Plácido de Castro,1871
-PA,Norte,Mocajuba,1870
+PA,Norte,Mocajuba,1871
 BA,Nordeste,Tanque Novo,1860
 BA,Nordeste,Maraú,1859
 RR,Norte,Rorainópolis,1858
+PI,Nordeste,São Miguel do Tapuio,1858
 TO,Norte,Tocantínia,1857
 TO,Norte,Porto Nacional,1855
-PI,Nordeste,São Miguel do Tapuio,1854
-AL,Nordeste,Estrela de Alagoas,1853
 MG,Sudeste,Caratinga,1853
+AL,Nordeste,Estrela de Alagoas,1853
 RO,Norte,Alto Paraíso,1851
 PA,Norte,São Caetano de Odivelas,1850
-MA,Nordeste,Carolina,1839
+MA,Nordeste,Carolina,1844
 PR,Sul,São Mateus do Sul,1839
 BA,Nordeste,Teolândia,1837
 PI,Nordeste,Baixa Grande do Ribeiro,1833
+PI,Nordeste,Piracuruca,1830
 BA,Nordeste,Muquém de São Francisco,1829
 RO,Norte,Monte Negro,1828
-PI,Nordeste,Piracuruca,1824
 BA,Nordeste,Filadélfia,1821
 CE,Nordeste,Crato,1817
 BA,Nordeste,Sátiro Dias,1815
+MA,Nordeste,São Francisco do Maranhão,1814
+MA,Nordeste,Peritoró,1814
 PA,Norte,São Francisco do Pará,1811
-MA,Nordeste,Peritoró,1811
-MA,Nordeste,São Francisco do Maranhão,1810
 BA,Nordeste,Santa Cruz Cabrália,1809
-BA,Nordeste,Heliópolis,1804
 PA,Norte,Salinópolis,1804
+BA,Nordeste,Heliópolis,1804
 PA,Norte,Xinguara,1799
-AC,Norte,Capixaba,1799
+MA,Nordeste,Brejo,1796
 BA,Nordeste,Ibitiara,1796
+BA,Nordeste,Xique-Xique,1794
+MA,Nordeste,Morros,1794
 RO,Norte,Alvorada Doeste,1794
-BA,Nordeste,Ruy Barbosa,1791
+BA,Nordeste,Ruy Barbosa,1793
+AC,Norte,Manoel Urbano,1791
 MG,Sudeste,Bocaiúva,1791
-BA,Nordeste,Xique-Xique,1791
 RN,Nordeste,Macaíba,1790
 BA,Nordeste,Cotegipe,1790
-MA,Nordeste,Brejo,1783
 ES,Sudeste,Barra de São Francisco,1780
-MA,Nordeste,Morros,1779
 BA,Nordeste,Santo Estêvão,1778
 BA,Nordeste,Inhambupe,1775
 RO,Norte,Vale do Anari,1769
+BA,Nordeste,Amargosa,1764
 CE,Nordeste,Quixeramobim,1764
-BA,Nordeste,Amargosa,1763
 GO,Centro-Oeste,Formosa,1760
+BA,Nordeste,Souto Soares,1758
 MT,Centro-Oeste,Paranaíta,1758
+BA,Nordeste,Condeúba,1757
 BA,Nordeste,Adustina,1757
-BA,Nordeste,Condeúba,1756
-BA,Nordeste,Souto Soares,1756
 BA,Nordeste,Biritinga,1754
-TO,Norte,Formoso do Araguaia,1752
 RN,Nordeste,São Gonçalo do Amarante,1752
+TO,Norte,Formoso do Araguaia,1752
+PI,Nordeste,Jacobina do Piauí,1751
 AL,Nordeste,São Sebastião,1749
-PI,Nordeste,Jacobina do Piauí,1747
+MA,Nordeste,Vila Nova dos Martírios,1744
 RS,Sul,Pelotas,1743
-MA,Nordeste,Vila Nova dos Martírios,1743
+BA,Nordeste,Canudos,1738
 ES,Sudeste,Pancas,1736
-BA,Nordeste,Canudos,1734
 PE,Nordeste,Vitória de Santo Antão,1734
+MA,Nordeste,Santo Amaro do Maranhão,1732
 BA,Nordeste,Sítio do Quinto,1732
-MA,Nordeste,Santo Amaro do Maranhão,1730
+MA,Nordeste,São Luís Gonzaga do Maranhão,1731
 RO,Norte,Ouro Preto do Oeste,1729
-MA,Nordeste,São Luís Gonzaga do Maranhão,1727
 PE,Nordeste,Águas Belas,1724
+RR,Norte,Alto Alegre,1724
 MT,Centro-Oeste,Castanheira,1722
 AL,Nordeste,Porto Calvo,1711
 BA,Nordeste,Tanhaçu,1710
 BA,Nordeste,Coribe,1710
 BA,Nordeste,Nova Canaã,1709
 MT,Centro-Oeste,Bom Jesus do Araguaia,1706
-BA,Nordeste,Fátima,1704
 BA,Nordeste,Nilo Peçanha,1704
+BA,Nordeste,Fátima,1704
 MA,Nordeste,São Bento,1698
 BA,Nordeste,Wanderley,1697
 RS,Sul,Piratini,1691
-RR,Norte,Alto Alegre,1690
+BA,Nordeste,Formosa do Rio Preto,1686
 AL,Nordeste,Flexeiras,1682
 MT,Centro-Oeste,Alta Floresta,1681
-BA,Nordeste,Formosa do Rio Preto,1681
-PA,Norte,Palestina do Pará,1676
 BA,Nordeste,Barra do Choça,1676
+PA,Norte,Palestina do Pará,1676
+MA,Nordeste,Timbiras,1674
 SE,Nordeste,Carira,1674
+BA,Nordeste,Mundo Novo,1672
 AM,Norte,Alvarães,1669
-MA,Nordeste,Timbiras,1668
 PA,Norte,Curuá,1666
 CE,Nordeste,Quiterianópolis,1663
 ES,Sudeste,Nova Venécia,1661
 CE,Nordeste,Araripe,1660
 BA,Nordeste,Itanhém,1653
-BA,Nordeste,Candiba,1650
-BA,Nordeste,Mundo Novo,1649
-BA,Nordeste,Caraíbas,1645
+PI,Nordeste,Alto Longá,1652
+BA,Nordeste,Candiba,1651
+MA,Nordeste,Santa Rita,1650
+MA,Nordeste,Fortaleza dos Nogueiras,1645
 PE,Nordeste,Bodocó,1645
-MA,Nordeste,Fortaleza dos Nogueiras,1642
-PI,Nordeste,Alto Longá,1640
+BA,Nordeste,Caraíbas,1645
 BA,Nordeste,Cachoeira,1640
-MA,Nordeste,Santa Rita,1637
-MA,Nordeste,Porto Franco,1633
+PI,Nordeste,Luís Correia,1634
+MA,Nordeste,Porto Franco,1634
 MA,Nordeste,Primeira Cruz,1631
+BA,Nordeste,Jussara,1625
 AM,Norte,Careiro da Várzea,1622
 RJ,Sudeste,Campos dos Goytacazes,1622
+BA,Nordeste,Caém,1619
 PR,Sul,Campo Largo,1619
-BA,Nordeste,Caém,1618
+BA,Nordeste,Bonito,1618
 AL,Nordeste,Inhapi,1617
-PA,Norte,Bonito,1612
 ES,Sudeste,Colatina,1612
+PA,Norte,Bonito,1612
 CE,Nordeste,Aiuaba,1611
-BA,Nordeste,Bonito,1610
-PI,Nordeste,Luís Correia,1607
 BA,Nordeste,Valente,1603
+BA,Nordeste,Mirangaba,1601
 RO,Norte,Costa Marques,1600
-MS,Centro-Oeste,Terenos,1598
-MA,Nordeste,Bacuri,1598
+MA,Nordeste,Bacuri,1599
+MA,Nordeste,Marajá do Sena,1599
+BA,Nordeste,Ribeira do Amparo,1598
 MT,Centro-Oeste,Canabrava do Norte,1598
-BA,Nordeste,Mirangaba,1598
-MA,Nordeste,Marajá do Sena,1597
-BA,Nordeste,Ribeira do Amparo,1597
+MS,Centro-Oeste,Terenos,1598
 ES,Sudeste,Iúna,1593
-MA,Nordeste,São Vicente Ferrer,1591
-BA,Nordeste,Jussara,1591
+MA,Nordeste,São Vicente Ferrer,1592
+BA,Nordeste,Piritiba,1588
 MG,Sudeste,Água Boa,1586
+MA,Nordeste,Buriti Bravo,1584
 PI,Nordeste,Alagoinha do Piauí,1583
-AL,Nordeste,Pão de Açúcar,1582
 MS,Centro-Oeste,Nova Andradina,1582
+AL,Nordeste,Pão de Açúcar,1582
 AM,Norte,Tapauá,1581
-MA,Nordeste,Buriti Bravo,1575
-BA,Nordeste,Piritiba,1574
+MA,Nordeste,São Mateus do Maranhão,1575
 MS,Centro-Oeste,Dourados,1568
 CE,Nordeste,Aracati,1566
 AL,Nordeste,Maravilha,1564
 MA,Nordeste,Governador Nunes Freire,1563
-ES,Sudeste,Mimoso do Sul,1562
-CE,Nordeste,Jaguaribe,1562
-MT,Centro-Oeste,São Félix do Araguaia,1562
 AM,Norte,Tonantins,1562
+ES,Sudeste,Mimoso do Sul,1562
+MT,Centro-Oeste,São Félix do Araguaia,1562
+CE,Nordeste,Jaguaribe,1562
 AM,Norte,Novo Airão,1561
-MA,Nordeste,São Mateus do Maranhão,1559
 AL,Nordeste,Feira Grande,1550
 SE,Nordeste,Poço Verde,1550
+MA,Nordeste,Jenipapo dos Vieiras,1549
 BA,Nordeste,Chorrochó,1545
-AC,Norte,Marechal Thaumaturgo,1545
-RS,Sul,São José do Norte,1538
 RS,Sul,Santo Antônio da Patrulha,1538
+RS,Sul,São José do Norte,1538
+MA,Nordeste,Alto Alegre do Pindaré,1537
 MG,Sudeste,Patrocínio,1537
-MA,Nordeste,Alto Alegre do Pindaré,1536
 PA,Norte,Bom Jesus do Tocantins,1532
 CE,Nordeste,Santana do Acaraú,1531
-AC,Norte,Mâncio Lima,1529
 CE,Nordeste,Itapagé,1528
-MA,Nordeste,Jenipapo dos Vieiras,1527
+MA,Nordeste,Imperatriz,1527
 PA,Norte,Vitória do Xingu,1521
 BA,Nordeste,Tabocas do Brejo Velho,1520
-MA,Nordeste,Imperatriz,1520
+BA,Nordeste,Baianópolis,1519
 BA,Nordeste,Pé de Serra,1518
-BA,Nordeste,Baianópolis,1518
 RS,Sul,Santana do Livramento,1512
 MT,Centro-Oeste,Tabaporã,1511
 BA,Nordeste,Catu,1511
+MA,Nordeste,Rosário,1506
 MA,Nordeste,Lagoa Grande do Maranhão,1506
 CE,Nordeste,Iguatu,1505
 BA,Nordeste,Itacaré,1504
 RO,Norte,Alta Floresta Doeste,1503
 RR,Norte,Pacaraima,1502
 RS,Sul,Caçapava do Sul,1502
-MA,Nordeste,Rosário,1498
-BA,Nordeste,Pindaí,1494
+BA,Nordeste,Pindaí,1496
+BA,Nordeste,Nordestina,1494
 BA,Nordeste,Malhada de Pedras,1494
-MA,Nordeste,Nina Rodrigues,1492
-BA,Nordeste,Glória,1492
-BA,Nordeste,Nordestina,1488
-MA,Nordeste,Arari,1486
+MA,Nordeste,Nina Rodrigues,1493
+BA,Nordeste,Glória,1493
+MA,Nordeste,Arari,1489
+MA,Nordeste,Poção de Pedras,1488
+AC,Norte,Porto Walter,1486
 MT,Centro-Oeste,Canarana,1485
-MA,Nordeste,Poção de Pedras,1485
 PI,Nordeste,Castelo do Piauí,1481
 SE,Nordeste,Nossa Senhora Aparecida,1480
-PI,Nordeste,Sigefredo Pacheco,1478
+MA,Nordeste,Paulo Ramos,1479
 TO,Norte,Miracema do Tocantins,1478
+PI,Nordeste,Sigefredo Pacheco,1478
 PA,Norte,Quatipuru,1477
-MA,Nordeste,Paulo Ramos,1477
 PR,Sul,Ortigueira,1473
 MT,Centro-Oeste,Nova Ubiratã,1471
+BA,Nordeste,Planalto,1469
 CE,Nordeste,Beberibe,1468
-BA,Nordeste,Planalto,1467
 ES,Sudeste,Muniz Freire,1466
 AM,Norte,Apuí,1464
 PI,Nordeste,Luzilândia,1463
 SP,Sudeste,Apiaí,1462
 PE,Nordeste,Escada,1460
 SE,Nordeste,São Cristóvão,1458
-PA,Norte,Piçarra,1452
-SP,Sudeste,Guapiara,1452
 RR,Norte,Normandia,1452
+SP,Sudeste,Guapiara,1452
+PA,Norte,Piçarra,1452
 RN,Nordeste,São José de Mipibu,1450
+BA,Nordeste,Ourolândia,1450
 BA,Nordeste,Castro Alves,1448
 AL,Nordeste,Traipu,1447
 MT,Centro-Oeste,Juruena,1445
-PR,Sul,Pitanga,1444
 CE,Nordeste,Mombaça,1444
+PR,Sul,Pitanga,1444
 AL,Nordeste,Atalaia,1443
-BA,Nordeste,Ourolândia,1442
 CE,Nordeste,Tianguá,1435
 RS,Sul,Encruzilhada do Sul,1433
 SP,Sudeste,Atibaia,1432
 PR,Sul,Turvo,1431
-AL,Nordeste,Piranhas,1429
 AP,Norte,Santana,1429
+AL,Nordeste,Piranhas,1429
 MT,Centro-Oeste,Novo Mundo,1427
+BA,Nordeste,Jacaraci,1425
 PA,Norte,Primavera,1424
-BA,Nordeste,Jacaraci,1422
 CE,Nordeste,Independência,1422
 RO,Norte,Corumbiara,1421
 GO,Centro-Oeste,Cavalcante,1420
 PE,Nordeste,São José do Belmonte,1419
 CE,Nordeste,Limoeiro do Norte,1417
 MG,Sudeste,Porteirinha,1417
-SE,Nordeste,Salgado,1415
+BA,Nordeste,Ibirapitanga,1417
 MA,Nordeste,Nova Olinda do Maranhão,1415
-AC,Norte,Manoel Urbano,1414
-BA,Nordeste,Ibirapitanga,1412
-MA,Nordeste,São Raimundo das Mangabeiras,1412
-MA,Nordeste,Feira Nova do Maranhão,1412
+BA,Nordeste,São Gabriel,1415
+SE,Nordeste,Salgado,1415
+MA,Nordeste,São Raimundo das Mangabeiras,1415
+MA,Nordeste,Feira Nova do Maranhão,1414
 MS,Centro-Oeste,Amambaí,1412
-RO,Norte,São Francisco do Guaporé,1410
 SE,Nordeste,Simão Dias,1410
-BA,Nordeste,São Gabriel,1408
+RO,Norte,São Francisco do Guaporé,1410
+BA,Nordeste,Mulungu do Morro,1409
 MA,Nordeste,Raposa,1407
-BA,Nordeste,Mulungu do Morro,1407
 PB,Nordeste,Cuité,1405
 SP,Sudeste,Guaratinguetá,1401
 AM,Norte,Canutama,1400
 BA,Nordeste,Sítio do Mato,1397
 SP,Sudeste,Registro,1396
 PE,Nordeste,Parnamirim,1395
-PI,Nordeste,São Francisco de Assis do Piauí,1392
+PI,Nordeste,São Francisco de Assis do Piauí,1394
 PE,Nordeste,Petrolândia,1391
+BA,Nordeste,Serra Dourada,1390
 AM,Norte,Urucará,1389
-BA,Nordeste,Serra Dourada,1389
 MA,Nordeste,Itinga do Maranhão,1384
+BA,Nordeste,Lapão,1384
 SP,Sudeste,Iguape,1382
 ES,Sudeste,Linhares,1381
 BA,Nordeste,Guajeru,1379
-BA,Nordeste,Lapão,1378
 RJ,Sudeste,Parati,1378
+RR,Norte,Mucajaí,1378
 MT,Centro-Oeste,Nobres,1375
+BA,Nordeste,América Dourada,1374
 MT,Centro-Oeste,Nova Monte Verde,1371
 MS,Centro-Oeste,Aquidauana,1369
 RR,Norte,Uiramutã,1368
-MA,Nordeste,Magalhães de Almeida,1367
 TO,Norte,Peixe,1367
+MA,Nordeste,Magalhães de Almeida,1367
 ES,Sudeste,Castelo,1364
-RO,Norte,Urupá,1363
 CE,Nordeste,Milagres,1363
+RO,Norte,Urupá,1363
 BA,Nordeste,Capela do Alto Alegre,1362
 PI,Nordeste,Fartura do Piauí,1362
 RN,Nordeste,João Câmara,1361
-BA,Nordeste,América Dourada,1359
+MA,Nordeste,Pio XII,1355
 BA,Nordeste,Uruçuca,1355
 MT,Centro-Oeste,Apiacás,1354
-MA,Nordeste,Pio XII,1354
 BA,Nordeste,Várzea Nova,1354
 BA,Nordeste,Ituberá,1353
 AM,Norte,Carauari,1352
+PI,Nordeste,Dirceu Arcoverde,1351
+BA,Nordeste,Canarana,1350
 AL,Nordeste,Capela,1349
-PI,Nordeste,Dirceu Arcoverde,1346
+PI,Nordeste,Massapê do Piauí,1345
 MS,Centro-Oeste,Itaquiraí,1345
 SP,Sudeste,Santa Isabel,1343
-BA,Nordeste,Canarana,1342
-MA,Nordeste,Anapurus,1340
+MA,Nordeste,Anapurus,1341
 BA,Nordeste,Quixabeira,1338
-PI,Nordeste,Massapê do Piauí,1337
+PI,Nordeste,Fronteiras,1337
 RS,Sul,Venâncio Aires,1336
 BA,Nordeste,Piraí do Norte,1335
 RO,Norte,Campo Novo de Rondônia,1335
-PA,Norte,Rio Maria,1334
 PE,Nordeste,Floresta,1334
-PI,Nordeste,Fronteiras,1333
+PA,Norte,Rio Maria,1334
 BA,Nordeste,Andaraí,1333
 PI,Nordeste,Itainópolis,1330
 MG,Sudeste,Grão Mogol,1325
 RO,Norte,Chupinguaia,1322
 TO,Norte,Babaçulândia,1318
 AL,Nordeste,Poço das Trincheiras,1318
+PI,Nordeste,Caldeirão Grande do Piauí,1317
 AP,Norte,Itaubal,1316
 AM,Norte,Codajás,1313
 BA,Nordeste,Santa Luzia,1312
 MG,Sudeste,Lajinha,1309
 BA,Nordeste,Matina,1307
-RR,Norte,Mucajaí,1306
 RO,Norte,Seringueiras,1306
+BA,Nordeste,Caturama,1304
 BA,Nordeste,Sobradinho,1304
-PI,Nordeste,Caldeirão Grande do Piauí,1304
-BA,Nordeste,Caturama,1303
 TO,Norte,Dois Irmãos do Tocantins,1302
 MA,Nordeste,Olinda Nova do Maranhão,1302
 PE,Nordeste,Santa Cruz,1301
 AM,Norte,Anamã,1299
 CE,Nordeste,Salitre,1296
-MT,Centro-Oeste,Barão de Melgaço,1293
 MG,Sudeste,Espera Feliz,1293
+BA,Nordeste,Malhada,1293
+MT,Centro-Oeste,Barão de Melgaço,1293
 BA,Nordeste,Itaeté,1292
-BA,Nordeste,Malhada,1292
-PI,Nordeste,Floriano,1291
+PI,Nordeste,Floriano,1292
+MA,Nordeste,Alto Parnaíba,1288
 BA,Nordeste,Caculé,1288
-BA,Nordeste,Gandu,1285
-MA,Nordeste,Alto Parnaíba,1283
-AP,Norte,Calçoene,1281
-BA,Nordeste,Cristópolis,1281
+BA,Nordeste,Gandu,1287
+AP,Norte,Calçoene,1285
+BA,Nordeste,Cristópolis,1282
+MA,Nordeste,Afonso Cunha,1279
 BA,Nordeste,Mata de São João,1278
 RS,Sul,Dom Feliciano,1278
 AL,Nordeste,Olivença,1275
 BA,Nordeste,Ponto Novo,1275
-MA,Nordeste,Afonso Cunha,1274
 PR,Sul,Guarapuava,1273
 PA,Norte,Santarém Novo,1272
-MA,Nordeste,Centro do Guilherme,1269
 MS,Centro-Oeste,Campo Grande,1269
-ES,Sudeste,Irupi,1267
+MA,Nordeste,Centro do Guilherme,1269
 PE,Nordeste,Santa Maria da Boa Vista,1267
-PI,Nordeste,Monsenhor Hipólito,1263
+ES,Sudeste,Irupi,1267
+PI,Nordeste,Monsenhor Hipólito,1265
 BA,Nordeste,Santo Amaro,1258
 AL,Nordeste,Major Isidoro,1258
-BA,Nordeste,Bom Jesus da Serra,1256
+BA,Nordeste,Bom Jesus da Serra,1257
 AL,Nordeste,Penedo,1256
-BA,Nordeste,Macururé,1253
-PI,Nordeste,Curimatá,1252
+BA,Nordeste,Macururé,1254
 AL,Nordeste,Viçosa,1252
+MA,Nordeste,Cantanhede,1252
 CE,Nordeste,Ipu,1252
+PI,Nordeste,Curimatá,1252
 ES,Sudeste,São Gabriel da Palha,1250
-MA,Nordeste,Cantanhede,1250
 BA,Nordeste,Brejolândia,1248
-BA,Nordeste,Jaborandi,1247
-BA,Nordeste,São José do Jacuípe,1247
+BA,Nordeste,São José do Jacuípe,1248
 CE,Nordeste,Aurora,1247
+BA,Nordeste,Jaborandi,1247
 BA,Nordeste,Mirante,1245
 PA,Norte,Colares,1243
-MG,Sudeste,Conceição do Mato Dentro,1242
 MG,Sudeste,Jaboticatubas,1242
+MG,Sudeste,Conceição do Mato Dentro,1242
 AL,Nordeste,Ouro Branco,1241
 MT,Centro-Oeste,Sinop,1240
 AM,Norte,Silves,1240
@@ -864,73 +865,74 @@ MG,Sudeste,Turmalina,1227
 RO,Norte,Nova União,1227
 RO,Norte,Parecis,1226
 CE,Nordeste,Cascavel,1224
+PI,Nordeste,Vera Mendes,1222
 PI,Nordeste,Padre Marcos,1222
 MG,Sudeste,Jequitinhonha,1221
-RO,Norte,Alto Alegre dos Parecis,1220
 BA,Nordeste,Ibirataia,1220
 CE,Nordeste,Missão Velha,1220
 CE,Nordeste,Pentecoste,1220
+RO,Norte,Alto Alegre dos Parecis,1220
 RN,Nordeste,Caraúbas,1218
-PI,Nordeste,Vera Mendes,1217
+PI,Nordeste,Patos do Piauí,1215
 PI,Nordeste,São Lourenço do Piauí,1215
 PR,Sul,Palmital,1212
+BA,Nordeste,Central,1212
 BA,Nordeste,Cândido Sales,1210
 MS,Centro-Oeste,Miranda,1209
-BA,Nordeste,Central,1208
 MG,Sudeste,Espinosa,1207
 ES,Sudeste,Santa Leopoldina,1207
 RS,Sul,Rio Pardo,1206
+PI,Nordeste,Joaquim Pires,1204
+MA,Nordeste,São João dos Patos,1204
+AP,Norte,Tartarugalzinho,1203
 PE,Nordeste,Ibimirim,1202
-PI,Nordeste,Joaquim Pires,1202
-MA,Nordeste,São João dos Patos,1202
-AP,Norte,Tartarugalzinho,1201
 MG,Sudeste,São João da Ponte,1201
 AL,Nordeste,Japaratinga,1200
 SP,Sudeste,Cunha,1199
-MT,Centro-Oeste,Campo Verde,1198
+MA,Nordeste,Lajeado Novo,1199
 CE,Nordeste,Jardim,1198
-ES,Sudeste,Vila Valério,1198
 PR,Sul,Cândido de Abreu,1198
-MA,Nordeste,Lajeado Novo,1198
-PI,Nordeste,Patos do Piauí,1197
+MT,Centro-Oeste,Campo Verde,1198
+ES,Sudeste,Vila Valério,1198
 BA,Nordeste,Urandi,1195
 MG,Sudeste,Salinas,1194
+PI,Nordeste,José de Freitas,1193
 MA,Nordeste,Maracaçumé,1193
-PR,Sul,São João do Triunfo,1192
 PA,Norte,Inhangapi,1192
-BA,Nordeste,Iramaia,1191
+PR,Sul,São João do Triunfo,1192
 MG,Sudeste,Diamantina,1191
+BA,Nordeste,Iramaia,1191
 BA,Nordeste,Esplanada,1190
+AC,Norte,Assis Brasil,1190
 AL,Nordeste,Delmiro Gouveia,1190
 GO,Centro-Oeste,Niquelândia,1189
 PI,Nordeste,Avelino Lopes,1187
 BA,Nordeste,Santo Antônio de Jesus,1187
-PI,Nordeste,José de Freitas,1186
 MG,Sudeste,Riacho dos Machados,1186
 SC,Sul,São José do Cerrito,1185
+BA,Nordeste,Belmonte,1185
 MT,Centro-Oeste,Cláudia,1184
-BA,Nordeste,Belmonte,1180
 GO,Centro-Oeste,Cristalina,1179
-MG,Sudeste,Peçanha,1176
+PI,Nordeste,União,1177
 MG,Sudeste,Pouso Alegre,1176
 MA,Nordeste,Carutapera,1176
+MG,Sudeste,Peçanha,1176
 RN,Nordeste,Nísia Floresta,1175
 MG,Sudeste,Santa Margarida,1175
 AL,Nordeste,Dois Riachos,1174
+AP,Norte,Porto Grande,1174
 PI,Nordeste,Campinas do Piauí,1173
 ES,Sudeste,Ecoporanga,1172
-AP,Norte,Porto Grande,1172
+MA,Nordeste,Loreto,1171
 CE,Nordeste,Várzea Alegre,1170
-PI,Nordeste,União,1170
 RS,Sul,Viamão,1167
-MG,Sudeste,Araçuaí,1166
-RO,Norte,Governador Jorge Teixeira,1166
 PE,Nordeste,Ipubi,1166
-PA,Norte,Marituba,1165
+RO,Norte,Governador Jorge Teixeira,1166
+MG,Sudeste,Araçuaí,1166
 PI,Nordeste,Assunção do Piauí,1165
+PA,Norte,Marituba,1165
 MT,Centro-Oeste,Nova Canaã do Norte,1164
 BA,Nordeste,Novo Horizonte,1164
-MA,Nordeste,Loreto,1164
 CE,Nordeste,Saboeiro,1161
 RS,Sul,Santana da Boa Vista,1157
 AL,Nordeste,São José da Laje,1156
@@ -947,139 +949,140 @@ BA,Nordeste,Ibiassucê,1147
 PR,Sul,Irati,1146
 PR,Sul,Cruz Machado,1145
 PR,Sul,Candói,1144
-PR,Sul,Quedas do Iguaçu,1143
 ES,Sudeste,Santa Teresa,1143
+PR,Sul,Quedas do Iguaçu,1143
 BA,Nordeste,Mucuri,1142
-MG,Sudeste,Ponto dos Volantes,1141
 RO,Norte,Presidente Médici,1141
+MG,Sudeste,Ponto dos Volantes,1141
 PI,Nordeste,Nova Santa Rita,1139
-SC,Sul,Concórdia,1138
-BA,Nordeste,Pojuca,1138
 BA,Nordeste,Mansidão,1138
-MA,Nordeste,João Lisboa,1136
+BA,Nordeste,Pojuca,1138
+SC,Sul,Concórdia,1138
+RJ,Sudeste,Cachoeiras de Macacu,1137
+MA,Nordeste,João Lisboa,1137
 CE,Nordeste,Piquet Carneiro,1136
 BA,Nordeste,Santa Bárbara,1135
 MA,Nordeste,Alto Alegre do Maranhão,1130
 AM,Norte,Guajará,1128
 PB,Nordeste,Monteiro,1128
-RJ,Sudeste,Cachoeiras de Macacu,1127
+MA,Nordeste,Santa Luzia do Paruá,1127
 BA,Nordeste,Ipecaetá,1126
 PE,Nordeste,Pesqueira,1126
 BA,Nordeste,Dário Meira,1124
-MA,Nordeste,Santa Luzia do Paruá,1122
 CE,Nordeste,Ubajara,1122
 BA,Nordeste,Belo Campo,1122
+MA,Nordeste,Tasso Fragoso,1121
 CE,Nordeste,Brejo Santo,1119
-MA,Nordeste,Tasso Fragoso,1118
-BA,Nordeste,Pintadas,1117
-PI,Nordeste,Milton Brandão,1117
+PI,Nordeste,Milton Brandão,1118
+BA,Nordeste,Pintadas,1118
+PI,Nordeste,Buriti dos Lopes,1115
 PE,Nordeste,Santa Filomena,1114
 PA,Norte,Nova Timboteua,1114
 MT,Centro-Oeste,Porto Esperidião,1113
-PI,Nordeste,Buriti dos Lopes,1113
+MA,Nordeste,Pindaré-Mirim,1113
 MS,Centro-Oeste,Tacuru,1111
+MA,Nordeste,Presidente Dutra,1110
 BA,Nordeste,Ubaíra,1110
 PE,Nordeste,Inajá,1109
 BA,Nordeste,Ibotirama,1109
-MA,Nordeste,Pindaré-Mirim,1109
 BA,Nordeste,Santa Teresinha,1108
 PI,Nordeste,Bom Jesus,1108
 MA,Nordeste,Cidelândia,1108
-TO,Norte,Taguatinga,1107
-MT,Centro-Oeste,Alto Boa Vista,1107
 GO,Centro-Oeste,Crixás,1107
-MG,Sudeste,Buritis,1106
+MT,Centro-Oeste,Alto Boa Vista,1107
+TO,Norte,Taguatinga,1107
 CE,Nordeste,Russas,1106
-MA,Nordeste,Presidente Dutra,1105
+MG,Sudeste,Buritis,1106
 MT,Centro-Oeste,Feliz Natal,1105
 AL,Nordeste,São Miguel dos Campos,1104
 RO,Norte,Jaru,1102
 SE,Nordeste,Capela,1102
 PB,Nordeste,Barra de Santa Rosa,1100
+BA,Nordeste,Cafarnaum,1099
 PA,Norte,São Geraldo do Araguaia,1099
 PI,Nordeste,Beneditinos,1098
 PI,Nordeste,Várzea Branca,1098
 RJ,Sudeste,Mangaratiba,1098
 PE,Nordeste,Dormentes,1097
 MT,Centro-Oeste,Água Boa,1097
+BA,Nordeste,Jucuruçu,1095
 MG,Sudeste,Fruta de Leite,1094
 PI,Nordeste,Brejo do Piauí,1092
 MT,Centro-Oeste,Pontes e Lacerda,1090
 MT,Centro-Oeste,Rondonópolis,1089
-BA,Nordeste,Cafarnaum,1089
 CE,Nordeste,Itatira,1089
 MG,Sudeste,Chapada Gaúcha,1087
 BA,Nordeste,Caravelas,1084
 MT,Centro-Oeste,Poxoréo,1083
-BA,Nordeste,Jucuruçu,1083
 MG,Sudeste,Patos de Minas,1082
 AL,Nordeste,Água Branca,1077
-MA,Nordeste,Pirapemas,1076
 TO,Norte,Caseara,1076
+MA,Nordeste,Pirapemas,1076
 BA,Nordeste,Macajuba,1074
 CE,Nordeste,Caririaçu,1073
 TO,Norte,Palmeirante,1072
+BA,Nordeste,João Dourado,1072
+AP,Norte,Vitória do Jari,1068
 RJ,Sudeste,Itaperuna,1068
 MT,Centro-Oeste,Marcelândia,1067
 MG,Sudeste,São João Del Rei,1066
 AL,Nordeste,Rio Largo,1065
-SP,Sudeste,Miracatu,1062
 PB,Nordeste,Sousa,1062
+SP,Sudeste,Miracatu,1062
 PE,Nordeste,Afrânio,1060
 CE,Nordeste,Paraipaba,1060
+PA,Norte,Terra Santa,1059
 SP,Sudeste,Itapetininga,1058
-BA,Nordeste,João Dourado,1056
 BA,Nordeste,Itatim,1053
-MS,Centro-Oeste,Ribas do Rio Pardo,1053
 CE,Nordeste,Juazeiro do Norte,1053
+MS,Centro-Oeste,Ribas do Rio Pardo,1053
 BA,Nordeste,São Gonçalo dos Campos,1052
-PA,Norte,Terra Santa,1051
-RR,Norte,Iracema,1050
+MA,Nordeste,Montes Altos,1051
 SE,Nordeste,Itabaiana,1050
-TO,Norte,Divinópolis do Tocantins,1049
-SE,Nordeste,Gracho Cardoso,1049
+RR,Norte,Iracema,1050
 MT,Centro-Oeste,Rondolândia,1049
-MA,Nordeste,Montes Altos,1049
+SE,Nordeste,Gracho Cardoso,1049
+TO,Norte,Divinópolis do Tocantins,1049
 SP,Sudeste,Ribeirão Branco,1048
 BA,Nordeste,Caldeirão Grande,1047
 AL,Nordeste,Colônia Leopoldina,1046
 MT,Centro-Oeste,Guarantã do Norte,1046
 TO,Norte,Nova Olinda,1046
-BA,Nordeste,Itanagra,1045
 PI,Nordeste,Capitão Gervásio Oliveira,1045
+BA,Nordeste,Itanagra,1045
 BA,Nordeste,Antas,1044
-BA,Nordeste,Itabela,1035
+BA,Nordeste,Itabela,1037
 PE,Nordeste,Gameleira,1035
 AM,Norte,Uarini,1034
 MG,Sudeste,Coromandel,1033
-ES,Sudeste,Rio Bananal,1032
 CE,Nordeste,Jaguaretama,1032
-MA,Nordeste,Lago Verde,1030
+ES,Sudeste,Rio Bananal,1032
 ES,Sudeste,Brejetuba,1030
+MA,Nordeste,Lago Verde,1030
+MA,Nordeste,Belágua,1030
 MG,Sudeste,Campos Gerais,1029
 SP,Sudeste,Taubaté,1027
-MA,Nordeste,Belágua,1027
 MG,Sudeste,Bambuí,1027
 RR,Norte,Caroebe,1026
 BA,Nordeste,Marcionílio Souza,1025
 PR,Sul,Santa Maria do Oeste,1024
 MG,Sudeste,Paracatu,1022
 MT,Centro-Oeste,Carlinda,1022
-CE,Nordeste,Santana do Cariri,1021
 MG,Sudeste,Inhapim,1021
+CE,Nordeste,Santana do Cariri,1021
 MG,Sudeste,Itaipé,1021
 MT,Centro-Oeste,Itanhangá,1020
-PE,Nordeste,Ribeirão,1019
 RO,Norte,Mirante da Serra,1019
+PE,Nordeste,Ribeirão,1019
 MG,Sudeste,Uberlândia,1019
 GO,Centro-Oeste,São Domingos,1018
 MT,Centro-Oeste,Porto Alegre do Norte,1018
-PB,Nordeste,Picuí,1015
-AC,Norte,Porto Walter,1015
 BA,Nordeste,São Felipe,1015
-ES,Sudeste,Águia Branca,1013
+PB,Nordeste,Picuí,1015
 PI,Nordeste,Campo Alegre do Fidalgo,1013
+ES,Sudeste,Águia Branca,1013
 BA,Nordeste,Mucugê,1011
+MA,Nordeste,Mata Roma,1011
 CE,Nordeste,Banabuiú,1010
 RS,Sul,São Gabriel,1008
 SE,Nordeste,Ribeirópolis,1006
@@ -1088,68 +1091,66 @@ MT,Centro-Oeste,São José do Rio Claro,1003
 BA,Nordeste,Ribeirão do Largo,1002
 MG,Sudeste,Montezuma,1001
 BA,Nordeste,Botuporã,999
-MA,Nordeste,Mata Roma,999
-AC,Norte,Assis Brasil,998
 CE,Nordeste,Boa Viagem,997
+RR,Norte,Amajari,997
 BA,Nordeste,Boninal,997
 AL,Nordeste,Olho Dágua das Flores,995
+MA,Nordeste,Serrano do Maranhão,995
 MG,Sudeste,Malacacheta,993
-RR,Norte,Amajari,993
-MA,Nordeste,Serrano do Maranhão,991
 CE,Nordeste,Tamboril,990
+PI,Nordeste,Coronel José Dias,988
 MA,Nordeste,Sambaíba,988
 PB,Nordeste,Aroeiras,988
-PI,Nordeste,Coronel José Dias,988
 MG,Sudeste,São João do Paraíso,986
+BA,Nordeste,Barrocas,985
 MG,Sudeste,Muriaé,984
-BA,Nordeste,Barrocas,984
 GO,Centro-Oeste,Padre Bernardo,983
 PI,Nordeste,Capitão de Campos,983
+MG,Sudeste,Santana de Pirapama,982
 BA,Nordeste,São Sebastião do Passé,982
 MT,Centro-Oeste,Várzea Grande,982
-MG,Sudeste,Santana de Pirapama,982
-RS,Sul,Santa Clara do Sul,980
 CE,Nordeste,Campos Sales,980
+RS,Sul,Santa Clara do Sul,980
 PI,Nordeste,Buriti dos Montes,978
 AM,Norte,Anori,977
 BA,Nordeste,Sebastião Laranjeiras,976
 CE,Nordeste,Lavras da Mangabeira,975
+PI,Nordeste,Inhuma,974
 BA,Nordeste,Canápolis,973
 GO,Centro-Oeste,Caiapônia,972
+BA,Nordeste,Palmeiras,971
 CE,Nordeste,Assaré,969
-BA,Nordeste,Palmeiras,969
 PE,Nordeste,São Bento do Una,968
-PI,Nordeste,Inhuma,967
 GO,Centro-Oeste,Monte Alegre de Goiás,967
-RN,Nordeste,Apodi,966
 BA,Nordeste,Planaltino,966
-PR,Sul,Cerro Azul,966
 PI,Nordeste,Monte Alegre do Piauí,966
+PR,Sul,Cerro Azul,966
+RN,Nordeste,Apodi,966
 BA,Nordeste,Cabaceiras do Paraguaçu,965
 PR,Sul,Inácio Martins,965
-PB,Nordeste,Gado Bravo,964
 MG,Sudeste,Ataléia,964
+PB,Nordeste,Gado Bravo,964
 BA,Nordeste,Mutuípe,963
 SP,Sudeste,Mairiporã,961
 MG,Sudeste,Presidente Olegário,960
 BA,Nordeste,Teixeira de Freitas,958
 TO,Norte,Filadélfia,956
 MG,Sudeste,Águas Formosas,955
-RO,Norte,Theobroma,955
 PI,Nordeste,Caracol,955
+RO,Norte,Theobroma,955
 MG,Sudeste,Medina,952
 SP,Sudeste,Paraibuna,951
 BA,Nordeste,Nova Viçosa,950
 MG,Sudeste,Carlos Chagas,950
+MA,Nordeste,Coelho Neto,949
 CE,Nordeste,Itarema,949
-AL,Nordeste,Santana do Mundaú,948
-BA,Nordeste,Piripá,948
 SP,Sudeste,Mogi das Cruzes,948
+BA,Nordeste,Piripá,948
+AL,Nordeste,Santana do Mundaú,948
 ES,Sudeste,Ibatiba,947
 AL,Nordeste,Murici,946
-BA,Nordeste,Ipupiara,945
+BA,Nordeste,Ipupiara,946
 TO,Norte,Guaraí,944
-MA,Nordeste,Coelho Neto,944
 AM,Norte,Amaturá,944
 GO,Centro-Oeste,Pirenópolis,943
 PI,Nordeste,Novo Santo Antônio,941
@@ -1160,46 +1161,48 @@ CE,Nordeste,Paramoti,934
 MG,Sudeste,Muzambinho,933
 TO,Norte,Ponte Alta do Tocantins,932
 BA,Nordeste,Serrolândia,931
+PI,Nordeste,Caridade do Piauí,931
 RN,Nordeste,Santana do Matos,931
-PI,Nordeste,Caridade do Piauí,930
+MA,Nordeste,Igarapé do Meio,930
 SP,Sudeste,Eldorado,930
 PR,Sul,Palmeira,929
-MA,Nordeste,Igarapé do Meio,928
 RO,Norte,Ministro Andreazza,926
 CE,Nordeste,Aquiraz,925
 MG,Sudeste,Rubelita,925
-PI,Nordeste,Domingos Mourão,922
+PI,Nordeste,Domingos Mourão,923
 MT,Centro-Oeste,Sorriso,921
 PA,Norte,Pau Darco,921
 PE,Nordeste,Panelas,921
 BA,Nordeste,Candeal,920
-PE,Nordeste,Palmares,918
 AL,Nordeste,Novo Lino,918
+PE,Nordeste,Palmares,918
 RO,Norte,Novo Horizonte do Oeste,917
 PE,Nordeste,Salgueiro,916
 BA,Nordeste,Aporá,915
 AL,Nordeste,Olho Dágua do Casado,914
 BA,Nordeste,Lençóis,914
 CE,Nordeste,Massapê,913
+BA,Nordeste,Utinga,911
 BA,Nordeste,Rio do Pires,909
+MA,Nordeste,Cachoeira Grande,908
 SC,Sul,Mafra,907
-MA,Nordeste,Cachoeira Grande,907
-ES,Sudeste,Cachoeiro de Itapemirim,906
 MG,Sudeste,Chapada do Norte,906
+ES,Sudeste,Cachoeiro de Itapemirim,906
+BA,Nordeste,Umburanas,904
 PE,Nordeste,Belém de São Francisco,904
-BA,Nordeste,Utinga,904
-BA,Nordeste,Muritiba,903
 RO,Norte,Itapuã do Oeste,903
+BA,Nordeste,Muritiba,903
 SP,Sudeste,Sete Barras,903
-BA,Nordeste,Umburanas,901
 CE,Nordeste,Tabuleiro do Norte,899
 MG,Sudeste,Formiga,899
-BA,Nordeste,Coração de Maria,897
+BA,Nordeste,Coração de Maria,898
 RS,Sul,Cerro Grande do Sul,895
-MT,Centro-Oeste,Matupá,894
 MT,Centro-Oeste,Mirassol Doeste,894
-CE,Nordeste,Barbalha,893
+BA,Nordeste,Ibititá,894
+MT,Centro-Oeste,Matupá,894
+BA,Nordeste,Barro Alto,894
 SC,Sul,Canoinhas,893
+CE,Nordeste,Barbalha,893
 TO,Norte,Pequizeiro,892
 MT,Centro-Oeste,Jangada,890
 PI,Nordeste,São José do Piauí,888
@@ -1207,20 +1210,21 @@ CE,Nordeste,Paracuru,888
 SP,Sudeste,Jacupiranga,887
 SE,Nordeste,Nossa Senhora das Dores,886
 PI,Nordeste,Arraial,885
+BA,Nordeste,Maetinga,884
 PE,Nordeste,Água Preta,884
 AM,Norte,Ipixuna,883
 BA,Nordeste,Itagi,882
-BA,Nordeste,Maetinga,881
 RS,Sul,Alegrete,881
-MT,Centro-Oeste,Barra do Garças,880
 TO,Norte,Araguacema,880
-MG,Sudeste,Guapé,880
+MT,Centro-Oeste,Barra do Garças,880
 MG,Sudeste,São Sebastião do Maranhão,880
-ES,Sudeste,Alto Rio Novo,880
+MG,Sudeste,Guapé,880
+PI,Nordeste,Elesbão Veloso,880
 PI,Nordeste,Gilbués,880
-MG,Sudeste,Araponga,879
+ES,Sudeste,Alto Rio Novo,880
+MA,Nordeste,Paraibano,879
 RN,Nordeste,São Tomé,879
-PI,Nordeste,Elesbão Veloso,879
+MG,Sudeste,Araponga,879
 TO,Norte,Augustinópolis,878
 RN,Nordeste,Santa Cruz,877
 CE,Nordeste,Cariús,877
@@ -1231,19 +1235,18 @@ SP,Sudeste,Capão Bonito,875
 PE,Nordeste,Carnaubeira da Penha,874
 PA,Norte,Magalhães Barata,874
 TO,Norte,Wanderlândia,874
-BA,Nordeste,Barro Alto,874
-BA,Nordeste,Ibititá,873
 PI,Nordeste,Itaueira,872
-BA,Nordeste,Cruz das Almas,871
-CE,Nordeste,Guaraciaba do Norte,871
-MA,Nordeste,Presidente Vargas,871
+MA,Nordeste,Fortuna,872
 MG,Sudeste,Sabará,871
-MA,Nordeste,Paraibano,871
+BA,Nordeste,Cruz das Almas,871
+MA,Nordeste,Presidente Vargas,871
+CE,Nordeste,Guaraciaba do Norte,871
 CE,Nordeste,Choró,870
 MG,Sudeste,Joaíma,870
 PR,Sul,Guamiranga,869
 RS,Sul,São Francisco de Assis,869
 PE,Nordeste,Sertânia,869
+BA,Nordeste,Ibipeba,868
 TO,Norte,Itacajá,868
 AL,Nordeste,Barra de Santo Antônio,864
 PI,Nordeste,Jurema,864
@@ -1251,116 +1254,113 @@ MG,Sudeste,Aimorés,863
 ES,Sudeste,Vargem Alta,861
 BA,Nordeste,Ibicuí,861
 RS,Sul,Camaquã,859
-MA,Nordeste,Fortuna,858
+PI,Nordeste,São Braz do Piauí,857
 CE,Nordeste,Maranguape,856
-PI,Nordeste,São Braz do Piauí,856
-BA,Nordeste,Ibipeba,855
-TO,Norte,Arraias,853
 MG,Sudeste,Buritizeiro,853
+TO,Norte,Arraias,853
 PI,Nordeste,Picos,852
 SP,Sudeste,Ubatuba,851
 ES,Sudeste,Alegre,850
-SP,Sudeste,Campinas,849
-SE,Nordeste,Pacatuba,849
 MA,Nordeste,Apicum-Açu,849
-BA,Nordeste,Mortugaba,847
+SE,Nordeste,Pacatuba,849
+SP,Sudeste,Campinas,849
+BA,Nordeste,Mortugaba,848
+PA,Norte,Terra Alta,847
 PI,Nordeste,Manoel Emídio,844
-MG,Sudeste,Santo Antônio do Monte,843
-MG,Sudeste,Riachinho,843
-PR,Sul,Ponta Grossa,843
-PA,Norte,Terra Alta,843
-TO,Norte,Monte do Carmo,843
 RS,Sul,Fontoura Xavier,843
-PE,Nordeste,Caruaru,840
-PE,Nordeste,Moreno,840
+MG,Sudeste,Santo Antônio do Monte,843
+TO,Norte,Monte do Carmo,843
+PR,Sul,Ponta Grossa,843
+MG,Sudeste,Riachinho,843
 RS,Sul,Barros Cassal,840
+PE,Nordeste,Moreno,840
+PE,Nordeste,Caruaru,840
 BA,Nordeste,Itabuna,839
-AP,Norte,Vitória do Jari,838
 AL,Nordeste,Limoeiro de Anadia,838
 MG,Sudeste,Monte Formoso,837
+MG,Sudeste,Ervália,835
 MG,Sudeste,Campina Verde,835
 PB,Nordeste,Cajazeiras,835
-MG,Sudeste,Ervália,835
 PB,Nordeste,Paulista,834
-PB,Nordeste,Taperoá,834
 MT,Centro-Oeste,Guiratinga,834
-MG,Sudeste,Brumadinho,833
+PB,Nordeste,Taperoá,834
 RS,Sul,Caraá,833
+MG,Sudeste,Brumadinho,833
 BA,Nordeste,Jiquiriçá,833
 PE,Nordeste,Pedra,832
 SP,Sudeste,Tatuí,831
-PI,Nordeste,Pavussu,830
+PI,Nordeste,Pavussu,831
 BA,Nordeste,Brejões,828
 PB,Nordeste,Santa Cecília,827
 MG,Sudeste,Campestre,827
-CE,Nordeste,Bela Cruz,824
-ES,Sudeste,São Domingos do Norte,824
 MG,Sudeste,Urucuia,824
-MG,Sudeste,Japonvar,823
+ES,Sudeste,São Domingos do Norte,824
+CE,Nordeste,Bela Cruz,824
 MG,Sudeste,Poté,823
-BA,Nordeste,Banzaê,822
+MG,Sudeste,Japonvar,823
 BA,Nordeste,Aramari,822
+BA,Nordeste,Banzaê,822
 BA,Nordeste,Lagoa Real,821
-MS,Centro-Oeste,Caarapó,820
 CE,Nordeste,Senador Pompeu,820
-PI,Nordeste,Alvorada do Gurguéia,819
-PA,Norte,Faro,819
+MS,Centro-Oeste,Caarapó,820
 AM,Norte,Fonte Boa,819
+PA,Norte,Faro,819
+PI,Nordeste,Alvorada do Gurguéia,819
 CE,Nordeste,Ocara,818
 PA,Norte,Peixe-Boi,818
 MG,Sudeste,Caldas,818
 MG,Sudeste,Icaraí de Minas,815
-AM,Norte,Caapiranga,814
-GO,Centro-Oeste,Porangatu,814
 PI,Nordeste,Morro Cabeça No Tempo,814
-RS,Sul,Triunfo,813
+MA,Nordeste,Presidente Juscelino,814
+GO,Centro-Oeste,Porangatu,814
+AM,Norte,Caapiranga,814
 AL,Nordeste,Taquarana,813
+RS,Sul,Triunfo,813
 TO,Norte,Jaú do Tocantins,812
-MA,Nordeste,Presidente Juscelino,810
+PI,Nordeste,Amarante,811
+BA,Nordeste,Gentio do Ouro,811
 PI,Nordeste,Campo Grande do Piauí,810
-BA,Nordeste,Gentio do Ouro,808
 TO,Norte,São Miguel do Tocantins,807
-PI,Nordeste,Porto,804
 TO,Norte,Dianópolis,804
-MG,Sudeste,Carmo do Paranaíba,803
+PI,Nordeste,Porto,804
 PI,Nordeste,Sebastião Leal,803
-MA,Nordeste,Governador Newton Bello,802
-BA,Nordeste,Conceição do Almeida,802
-PI,Nordeste,Amarante,802
+MG,Sudeste,Carmo do Paranaíba,803
 SE,Nordeste,Indiaroba,802
+MA,Nordeste,Governador Newton Bello,802
+MA,Nordeste,Sucupira do Norte,802
+BA,Nordeste,Conceição do Almeida,802
 TO,Norte,Rio Sono,801
 SC,Sul,São Joaquim,801
 PE,Nordeste,Flores,800
 PI,Nordeste,São Francisco do Piauí,800
+MA,Nordeste,Matões do Norte,799
 AL,Nordeste,Boca da Mata,798
-MA,Nordeste,Matões do Norte,797
-MA,Nordeste,Sucupira do Norte,797
+BA,Nordeste,Tapiramutá,797
 PR,Sul,Rebouças,794
 SP,Sudeste,Castilho,794
 PE,Nordeste,João Alfredo,793
-BA,Nordeste,Tapiramutá,793
-MG,Sudeste,Varzelândia,793
 MG,Sudeste,Jequeri,793
+MG,Sudeste,Varzelândia,793
+MA,Nordeste,Lagoa do Mato,792
 BA,Nordeste,Feira da Mata,791
-MG,Sudeste,Comercinho,790
 PE,Nordeste,Trindade,790
+MG,Sudeste,Comercinho,790
 MG,Sudeste,Esmeraldas,788
 SP,Sudeste,Caçapava,787
 MA,Nordeste,Conceição do Lago-Açu,787
 BA,Nordeste,Cipó,786
-PI,Nordeste,Anísio de Abreu,785
-PB,Nordeste,São José de Piranhas,785
 MG,Sudeste,Juiz de Fora,785
-CE,Nordeste,Ipueiras,785
 BA,Nordeste,Pau Brasil,785
-PI,Nordeste,Curral Novo do Piauí,783
+CE,Nordeste,Ipueiras,785
+PB,Nordeste,São José de Piranhas,785
+PI,Nordeste,Anísio de Abreu,785
 CE,Nordeste,Jucás,783
+PI,Nordeste,Curral Novo do Piauí,783
 SP,Sudeste,Juquiá,782
 CE,Nordeste,Hidrolândia,782
 BA,Nordeste,Medeiros Neto,781
-MA,Nordeste,Lagoa do Mato,780
+MA,Nordeste,Senador La Rocque,780
 MG,Sudeste,Bueno Brandão,780
-MA,Nordeste,Senador La Rocque,778
 SP,Sudeste,São Luís do Paraitinga,778
 CE,Nordeste,Irauçuba,777
 RN,Nordeste,Açu,775
@@ -1368,42 +1368,43 @@ PI,Nordeste,Júlio Borges,773
 MA,Nordeste,Ribamar Fiquene,773
 PE,Nordeste,Gravatá,772
 PA,Norte,Salvaterra,771
+BA,Nordeste,Várzea do Poço,771
 MG,Sudeste,Nova Resende,771
+BA,Nordeste,Barra do Mendes,771
 MA,Nordeste,Bacabeira,770
 AL,Nordeste,Cajueiro,770
-BA,Nordeste,Várzea do Poço,768
+MA,Nordeste,Satubinha,769
 CE,Nordeste,Uruoca,768
+MA,Nordeste,Pedreiras,767
 MT,Centro-Oeste,Acorizal,767
 CE,Nordeste,Barro,767
-MA,Nordeste,Satubinha,766
+BA,Nordeste,Iuiú,766
 BA,Nordeste,Antônio Cardoso,766
+PI,Nordeste,São Pedro do Piauí,766
 MG,Sudeste,Poço Fundo,765
-BA,Nordeste,Iuiú,765
 MG,Sudeste,Itambacuri,764
 MT,Centro-Oeste,São José do Xingu,763
-MA,Nordeste,Pedreiras,763
-PI,Nordeste,São Pedro do Piauí,763
 PB,Nordeste,Tavares,760
 CE,Nordeste,Jaguaruana,760
 MG,Sudeste,Pai Pedro,759
 AL,Nordeste,Coité do Nóia,758
 ES,Sudeste,Água Doce do Norte,758
-BA,Nordeste,Barra do Mendes,757
 GO,Centro-Oeste,Itapuranga,755
+PI,Nordeste,Caraúbas do Piauí,755
 MG,Sudeste,Taiobeiras,755
 AL,Nordeste,Quebrangulo,754
 MA,Nordeste,Itaipava do Grajaú,753
 RJ,Sudeste,São Fidélis,752
+CE,Nordeste,Miraíma,751
+BA,Nordeste,Santanópolis,751
 RS,Sul,Pinheiro Machado,751
 RS,Sul,São Jerônimo,751
 SE,Nordeste,Frei Paulo,751
-CE,Nordeste,Miraíma,751
-BA,Nordeste,Santanópolis,751
 MT,Centro-Oeste,Primavera do Leste,750
 PI,Nordeste,Campo Largo do Piauí,750
 MA,Nordeste,Godofredo Viana,749
+MA,Nordeste,Santo Antônio dos Lopes,749
 RN,Nordeste,Extremoz,749
-PI,Nordeste,Caraúbas do Piauí,748
 AL,Nordeste,Porto de Pedras,747
 MG,Sudeste,Curvelo,747
 MT,Centro-Oeste,Colíder,746
@@ -1413,10 +1414,9 @@ AP,Norte,Pedra Branca do Amapari,745
 CE,Nordeste,Cariré,744
 SE,Nordeste,Santa Luzia do Itanhy,744
 BA,Nordeste,Rio de Contas,743
-ES,Sudeste,Itapemirim,741
-PI,Nordeste,Jatobá do Piauí,741
+PI,Nordeste,Jatobá do Piauí,742
 TO,Norte,São Bento do Tocantins,741
-MA,Nordeste,Santo Antônio dos Lopes,739
+ES,Sudeste,Itapemirim,741
 MG,Sudeste,Setubinha,739
 PE,Nordeste,Sirinhaém,739
 PE,Nordeste,Bom Conselho,738
@@ -1424,1113 +1424,1114 @@ PE,Nordeste,Tupanatinga,737
 MT,Centro-Oeste,Nova Maringá,737
 MG,Sudeste,Camanducaia,736
 MT,Centro-Oeste,Pedra Preta,734
-SC,Sul,Itaiópolis,733
 CE,Nordeste,Itapiúna,733
+MA,Nordeste,São Benedito do Rio Preto,733
+SC,Sul,Itaiópolis,733
 MG,Sudeste,Indaiabira,732
 MG,Sudeste,São João do Manhuaçu,732
-PR,Sul,Quitandinha,731
 PE,Nordeste,Tamandaré,731
-MG,Sudeste,Caputira,730
+PR,Sul,Quitandinha,731
 PI,Nordeste,Alegrete do Piauí,730
+MG,Sudeste,Caputira,730
 AL,Nordeste,Monteirópolis,730
-MG,Sudeste,Andradas,728
 TO,Norte,Recursolândia,728
-MG,Sudeste,Pintópolis,728
+MG,Sudeste,Andradas,728
 MA,Nordeste,Maranhãozinho,728
-PR,Sul,Nova Laranjeiras,727
+MG,Sudeste,Pintópolis,728
 MG,Sudeste,Manhumirim,727
-CE,Nordeste,Caridade,724
+PR,Sul,Nova Laranjeiras,727
 ES,Sudeste,Vila Pavão,724
+CE,Nordeste,Caridade,724
 PE,Nordeste,Lagoa Grande,723
 MG,Sudeste,Carmo do Rio Claro,723
-MA,Nordeste,São Benedito do Rio Preto,722
+PI,Nordeste,Nossa Senhora dos Remédios,722
 PE,Nordeste,Bonito,722
 MG,Sudeste,Ninheira,721
-PI,Nordeste,Nossa Senhora dos Remédios,720
-PE,Nordeste,Primavera,718
 PR,Sul,São José dos Pinhais,718
+PE,Nordeste,Primavera,718
 MG,Sudeste,Divino,717
-PE,Nordeste,Taquaritinga do Norte,716
 MG,Sudeste,Bonito de Minas,716
+PE,Nordeste,Taquaritinga do Norte,716
 BA,Nordeste,Novo Triunfo,713
 TO,Norte,Couto de Magalhães,713
 BA,Nordeste,Buerarema,712
+MA,Nordeste,Joselândia,711
 RS,Sul,São Lourenço do Sul,709
 CE,Nordeste,Tejuçuoca,708
 CE,Nordeste,Novo Oriente,708
-SE,Nordeste,Japaratuba,707
 CE,Nordeste,Coreaú,707
 MG,Sudeste,Raul Soares,707
-MG,Sudeste,Durandé,706
+SE,Nordeste,Japaratuba,707
 TO,Norte,Darcinópolis,706
 PB,Nordeste,Campina Grande,706
-BA,Nordeste,Jitaúna,705
+MG,Sudeste,Durandé,706
 PE,Nordeste,Iati,705
-MA,Nordeste,Joselândia,705
-RS,Sul,Rosário do Sul,704
+BA,Nordeste,Jitaúna,705
 PB,Nordeste,Alagoa Grande,704
+RS,Sul,Rosário do Sul,704
 BA,Nordeste,São Domingos,703
-SP,Sudeste,Salesópolis,702
+CE,Nordeste,Cruz,702
 RO,Norte,Santa Luzia Doeste,702
+SP,Sudeste,Salesópolis,702
 ES,Sudeste,Mantenópolis,702
 MG,Sudeste,Santa Cruz de Salinas,702
-CE,Nordeste,Cruz,702
-MA,Nordeste,Junco do Maranhão,701
+PA,Norte,Curionópolis,701
 RS,Sul,Montenegro,701
 PR,Sul,Bituruna,701
-PA,Norte,Curionópolis,701
-BA,Nordeste,Igaporã,700
+MA,Nordeste,Junco do Maranhão,701
 CE,Nordeste,Porteiras,700
+BA,Nordeste,Igaporã,700
 RN,Nordeste,Ielmo Marinho,699
 RN,Nordeste,Currais Novos,699
 MG,Sudeste,Luisburgo,698
 MG,Sudeste,Sericita,697
 SP,Sudeste,Itaberá,697
 BA,Nordeste,Licínio de Almeida,696
-PI,Nordeste,Juazeiro do Piauí,695
 CE,Nordeste,Marco,695
+PI,Nordeste,Juazeiro do Piauí,695
 MG,Sudeste,Botumirim,695
-PB,Nordeste,Itaporanga,694
 MT,Centro-Oeste,Nova Mutum,694
-BA,Nordeste,Nova Itarana,693
+PB,Nordeste,Itaporanga,694
 PE,Nordeste,Quipapá,693
 ES,Sudeste,Conceição do Castelo,693
+BA,Nordeste,Nova Itarana,693
 TO,Norte,Marianópolis do Tocantins,692
-RO,Norte,São Felipe Doeste,692
 CE,Nordeste,Cedro,692
 BA,Nordeste,Aratuípe,692
+RO,Norte,São Felipe Doeste,692
 RN,Nordeste,Augusto Severo,691
 MG,Sudeste,São João da Lagoa,690
-SP,Sudeste,Pilar do Sul,689
 TO,Norte,Goianorte,689
 MT,Centro-Oeste,Santa Cruz do Xingu,689
-MG,Sudeste,Catuji,688
+SP,Sudeste,Pilar do Sul,689
 TO,Norte,Ponte Alta do Bom Jesus,688
+MG,Sudeste,Catuji,688
 PB,Nordeste,São João do Tigre,688
 PB,Nordeste,Princesa Isabel,687
 CE,Nordeste,Solonópole,687
 MG,Sudeste,Mirabela,687
 MG,Sudeste,Monte Carmelo,686
-MT,Centro-Oeste,Cocalinho,685
 MT,Centro-Oeste,Barra do Bugres,685
+MT,Centro-Oeste,Cocalinho,685
 MG,Sudeste,João Pinheiro,684
-ES,Sudeste,Muqui,683
-PE,Nordeste,Pombos,683
-SP,Sudeste,Cajati,683
 CE,Nordeste,Mucambo,683
+SP,Sudeste,Cajati,683
+PE,Nordeste,Pombos,683
+ES,Sudeste,Muqui,683
 MG,Sudeste,Pompéu,682
 MG,Sudeste,Janaúba,682
-RJ,Sudeste,Varre-Sai,681
 MG,Sudeste,Boa Esperança,681
-PE,Nordeste,Paranatama,680
+RJ,Sudeste,Varre-Sai,681
 MG,Sudeste,Ubaí,680
+PE,Nordeste,Paranatama,680
 PR,Sul,Laranjal,679
 PR,Sul,Imbaú,679
 MG,Sudeste,Paula Cândido,677
-GO,Centro-Oeste,Cocalzinho de Goiás,676
+BA,Nordeste,Pindobaçu,676
 MG,Sudeste,Lassance,676
 AL,Nordeste,Campo Grande,676
-CE,Nordeste,Ibiapina,675
+GO,Centro-Oeste,Cocalzinho de Goiás,676
 MG,Sudeste,Ibiá,675
-BA,Nordeste,Pindobaçu,675
-PE,Nordeste,Timbaúba,673
-PI,Nordeste,Bonfim do Piauí,673
+CE,Nordeste,Ibiapina,675
 ES,Sudeste,Laranja da Terra,673
+PI,Nordeste,Bonfim do Piauí,673
+PE,Nordeste,Timbaúba,673
 PR,Sul,Mandirituba,672
 PB,Nordeste,Manaíra,672
+MA,Nordeste,Esperantinópolis,671
+PI,Nordeste,Morro do Chapéu do Piauí,671
+BA,Nordeste,Nova Redenção,671
 SP,Sudeste,Pariquera-Açu,671
 MS,Centro-Oeste,Coxim,671
-BA,Nordeste,Nova Redenção,670
 TO,Norte,Ananás,670
-MG,Sudeste,Rio Vermelho,670
 MT,Centro-Oeste,São José dos Quatro Marcos,670
-PI,Nordeste,Morro do Chapéu do Piauí,670
+MG,Sudeste,Rio Vermelho,670
 ES,Sudeste,Marechal Floriano,669
-MA,Nordeste,Esperantinópolis,669
 PE,Nordeste,Brejo da Madre de Deus,668
 PI,Nordeste,Murici dos Portelas,668
-CE,Nordeste,Tururu,664
 CE,Nordeste,Moraújo,664
+CE,Nordeste,Tururu,664
+MA,Nordeste,Santa Inês,664
 RJ,Sudeste,Angra dos Reis,662
 BA,Nordeste,Ipiaú,662
-MA,Nordeste,Santa Inês,661
-SP,Sudeste,Barra do Chapéu,660
+MA,Nordeste,Milagres do Maranhão,660
 MG,Sudeste,Divisópolis,660
+SP,Sudeste,Barra do Chapéu,660
 AL,Nordeste,Igreja Nova,659
-MA,Nordeste,Milagres do Maranhão,658
 PB,Nordeste,Camalaú,657
 PI,Nordeste,São João da Fronteira,657
 ES,Sudeste,Ibitirama,657
 PR,Sul,Piraí do Sul,657
+MA,Nordeste,Axixá,656
 TO,Norte,Santa Rosa do Tocantins,655
-MA,Nordeste,Axixá,655
 PI,Nordeste,Guaribas,655
 RN,Nordeste,Baraúna,655
-PE,Nordeste,Caetés,653
 PE,Nordeste,São José do Egito,653
+PE,Nordeste,Caetés,653
+PI,Nordeste,Caxingó,652
 GO,Centro-Oeste,Planaltina,652
 PE,Nordeste,Belo Jardim,652
-AL,Nordeste,Passo de Camaragibe,651
 GO,Centro-Oeste,Mara Rosa,651
+AL,Nordeste,Passo de Camaragibe,651
 PE,Nordeste,Rio Formoso,651
 MG,Sudeste,Veredinha,649
-PI,Nordeste,Caxingó,648
-MA,Nordeste,Peri Mirim,647
+MA,Nordeste,Peri Mirim,649
+BA,Nordeste,São Félix do Coribe,647
 MS,Centro-Oeste,Nova Alvorada do Sul,647
-BA,Nordeste,São Félix do Coribe,646
 BA,Nordeste,Nova Fátima,646
 TO,Norte,Campos Lindos,644
 PR,Sul,Itaperuçu,643
 MG,Sudeste,Tiros,640
-MG,Sudeste,Carbonita,639
+MT,Centro-Oeste,Nova Lacerda,639
 CE,Nordeste,Quixelô,639
 MG,Sudeste,Monte Azul,639
-MT,Centro-Oeste,Nova Lacerda,639
+MG,Sudeste,Carbonita,639
 CE,Nordeste,Jijoca de Jericoacoara,638
-MT,Centro-Oeste,General Carneiro,637
 ES,Sudeste,São Roque do Canaã,637
-CE,Nordeste,Barroquinha,635
-AL,Nordeste,Cacimbinhas,635
+MT,Centro-Oeste,General Carneiro,637
+PI,Nordeste,Monsenhor Gil,635
 BA,Nordeste,Floresta Azul,635
+AL,Nordeste,Cacimbinhas,635
+CE,Nordeste,Barroquinha,635
 MT,Centro-Oeste,Nova Brasilândia,635
+BA,Nordeste,Itarantim,634
+RS,Sul,Terra de Areia,634
 RS,Sul,Dom Pedrito,634
 MG,Sudeste,Josenópolis,634
-MG,Sudeste,São Roque de Minas,634
-RS,Sul,Terra de Areia,634
 MS,Centro-Oeste,Bandeirantes,634
-MS,Centro-Oeste,Bonito,633
-BA,Nordeste,Itarantim,633
-BA,Nordeste,Itamari,633
+MG,Sudeste,São Roque de Minas,634
 SP,Sudeste,Pindamonhangaba,633
+MS,Centro-Oeste,Bonito,633
+BA,Nordeste,Itamari,633
 BA,Nordeste,Cordeiros,632
 GO,Centro-Oeste,Vila Propício,630
 MG,Sudeste,Santo Antônio do Jacinto,630
 AL,Nordeste,Porto Real do Colégio,629
 MG,Sudeste,Cristália,629
-PE,Nordeste,Manari,628
+CE,Nordeste,Graça,628
 PR,Sul,Imbituva,628
-PI,Nordeste,Monsenhor Gil,628
+PE,Nordeste,Manari,628
 RN,Nordeste,Nova Cruz,628
 PR,Sul,Porecatu,628
-CE,Nordeste,Graça,628
-RO,Norte,Vale do Paraíso,627
-MG,Sudeste,Lambari,627
 BA,Nordeste,Lamarão,627
-MG,Sudeste,Taquaraçu de Minas,625
-MG,Sudeste,Crisólita,625
+MG,Sudeste,Lambari,627
+RO,Norte,Vale do Paraíso,627
+PI,Nordeste,Conceição do Canindé,626
 MG,Sudeste,Mateus Leme,625
+MG,Sudeste,Taquaraçu de Minas,625
 GO,Centro-Oeste,Posse,625
-PI,Nordeste,Conceição do Canindé,624
+MG,Sudeste,Crisólita,625
 TO,Norte,São Valério da Natividade,624
 MT,Centro-Oeste,Novo São Joaquim,624
+ES,Sudeste,Guaçuí,623
 ES,Sudeste,Rio Novo do Sul,623
 PR,Sul,Tibagi,623
 MA,Nordeste,São Félix de Balsas,623
-ES,Sudeste,Guaçuí,623
-PA,Norte,São João da Ponta,622
 GO,Centro-Oeste,São Miguel do Araguaia,622
+PA,Norte,São João da Ponta,622
 SC,Sul,Alfredo Wagner,621
 PE,Nordeste,Lagoa dos Gatos,620
 SC,Sul,Papanduva,620
 RN,Nordeste,Macau,619
-AL,Nordeste,Maceió,618
 MS,Centro-Oeste,Coronel Sapucaia,618
+AL,Nordeste,Maceió,618
+AL,Nordeste,Chã Preta,617
 PI,Nordeste,Vila Nova do Piauí,617
 TO,Norte,Itaguatins,617
-AL,Nordeste,Chã Preta,617
 TO,Norte,Pium,616
-PI,Nordeste,Cabeceiras do Piauí,614
+PI,Nordeste,Cristino Castro,614
 MG,Sudeste,São Romão,614
+PI,Nordeste,Cabeceiras do Piauí,614
 MG,Sudeste,Alpinópolis,614
 SP,Sudeste,Angatuba,614
-PI,Nordeste,Cristino Castro,614
 PI,Nordeste,Jerumenha,613
 PB,Nordeste,Santana de Mangueira,612
 SE,Nordeste,Umbaúba,612
-RS,Sul,Tenente Portela,611
 CE,Nordeste,Baturité,611
-MT,Centro-Oeste,Alto Paraguai,610
+RS,Sul,Tenente Portela,611
 MG,Sudeste,Divinópolis,610
-TO,Norte,Gurupi,609
+MT,Centro-Oeste,Alto Paraguai,610
 SC,Sul,Ipuaçu,609
+TO,Norte,Gurupi,609
 PI,Nordeste,Eliseu Martins,608
-PB,Nordeste,Piancó,607
+PI,Nordeste,Simplício Mendes,608
 MG,Sudeste,Leopoldina,607
-RS,Sul,Santiago,607
 PB,Nordeste,Imaculada,607
+PB,Nordeste,Piancó,607
+RS,Sul,Santiago,607
+ES,Sudeste,Itarana,606
 RN,Nordeste,Marcelino Vieira,606
 MG,Sudeste,Candeias,606
-PI,Nordeste,Simplício Mendes,606
-ES,Sudeste,Itarana,606
 RS,Sul,São Francisco de Paula,604
 MG,Sudeste,Formoso,603
-CE,Nordeste,Alto Santo,602
 CE,Nordeste,Carnaubal,602
-MA,Nordeste,São Francisco do Brejão,602
 BA,Nordeste,Dias Dávila,602
-BA,Nordeste,Gavião,601
+BA,Nordeste,Gavião,602
+MA,Nordeste,São Francisco do Brejão,602
+CE,Nordeste,Alto Santo,602
 PE,Nordeste,Capoeiras,601
-MT,Centro-Oeste,Tapurah,600
 PI,Nordeste,Cristalândia do Piauí,600
-SP,Sudeste,Cesário Lange,599
+MT,Centro-Oeste,Tapurah,600
+MA,Nordeste,Santa Filomena do Maranhão,600
 ES,Sudeste,Presidente Kennedy,599
+SP,Sudeste,Cesário Lange,599
 MG,Sudeste,Sabinópolis,598
 CE,Nordeste,Farias Brito,598
-MA,Nordeste,Santa Filomena do Maranhão,597
 RS,Sul,Santa Vitória do Palmar,597
+PI,Nordeste,Valença do Piauí,596
 TO,Norte,Pindorama do Tocantins,596
 PI,Nordeste,Madeiro,595
 PI,Nordeste,Barra Dalcântara,595
 SC,Sul,Chapecó,595
 RO,Norte,Colorado do Oeste,594
-PR,Sul,Boa Ventura de São Roque,593
 PB,Nordeste,São José da Lagoa Tapada,593
-TO,Norte,Tocantinópolis,592
+PR,Sul,Boa Ventura de São Roque,593
 AM,Norte,São Sebastião do Uatumã,592
+TO,Norte,Tocantinópolis,592
+MA,Nordeste,Vitorino Freire,592
+MT,Centro-Oeste,Conquista Doeste,591
 ES,Sudeste,Governador Lindenberg,591
 MG,Sudeste,Barbacena,591
 RJ,Sudeste,Bom Jesus do Itabapoana,591
-MT,Centro-Oeste,Conquista Doeste,591
-MA,Nordeste,Vitorino Freire,590
 MS,Centro-Oeste,Rio Verde de Mato Grosso,590
-MT,Centro-Oeste,Novo Horizonte do Norte,589
 SE,Nordeste,Cristinápolis,589
-BA,Nordeste,São Miguel das Matas,588
-MG,Sudeste,Três Marias,588
+MT,Centro-Oeste,Novo Horizonte do Norte,589
 PB,Nordeste,Pedras de Fogo,588
+MG,Sudeste,Três Marias,588
+BA,Nordeste,São Miguel das Matas,588
 MG,Sudeste,Itacambira,587
-PI,Nordeste,Tamboril do Piauí,587
 MT,Centro-Oeste,Itiquira,587
+PI,Nordeste,Tamboril do Piauí,587
 CE,Nordeste,Capistrano,586
 ES,Sudeste,Alfredo Chaves,586
-CE,Nordeste,Apuiarés,584
-PI,Nordeste,Valença do Piauí,584
 RJ,Sudeste,Porciúncula,584
-MG,Sudeste,Vermelho Novo,582
+CE,Nordeste,Apuiarés,584
 BA,Nordeste,Conceição da Feira,582
 GO,Centro-Oeste,Campinaçu,582
+MG,Sudeste,Vermelho Novo,582
 CE,Nordeste,Reriutaba,581
-MG,Sudeste,Entre Rios de Minas,581
 MT,Centro-Oeste,Luciára,581
+MG,Sudeste,Entre Rios de Minas,581
 SP,Sudeste,Mirante do Paranapanema,580
 MT,Centro-Oeste,Terra Nova do Norte,580
 PE,Nordeste,Passira,579
 BA,Nordeste,Camacan,579
-MA,Nordeste,Lima Campos,577
 PR,Sul,Goioxim,577
+MA,Nordeste,Lima Campos,577
 MG,Sudeste,Serro,577
 RN,Nordeste,Coronel Ezequiel,576
-SP,Sudeste,Natividade da Serra,575
-MG,Sudeste,Frei Gaspar,575
 BA,Nordeste,Sapeaçu,575
+MG,Sudeste,Frei Gaspar,575
+SP,Sudeste,Natividade da Serra,575
 GO,Centro-Oeste,Bela Vista de Goiás,574
 PR,Sul,Tamarana,574
-MG,Sudeste,Campo Azul,573
 BA,Nordeste,Nova Ibiá,573
-ES,Sudeste,Itaguaçu,571
+MG,Sudeste,Campo Azul,573
+PI,Nordeste,Flores do Piauí,573
 BA,Nordeste,Presidente Dutra,571
-MG,Sudeste,Pedra Bonita,571
+ES,Sudeste,Itaguaçu,571
 RJ,Sudeste,Santo Antônio de Pádua,571
-PI,Nordeste,Flores do Piauí,570
+MG,Sudeste,Pedra Bonita,571
 PI,Nordeste,Regeneração,569
 ES,Sudeste,Baixo Guandu,568
-SP,Sudeste,Itararé,568
 GO,Centro-Oeste,Faina,568
+SP,Sudeste,Itararé,568
 ES,Sudeste,Jaguaré,567
 CE,Nordeste,Nova Russas,566
 PR,Sul,Antônio Olinto,566
 PI,Nordeste,Boqueirão do Piauí,564
 AL,Nordeste,São Miguel dos Milagres,564
+MA,Nordeste,Lago do Junco,564
+MA,Nordeste,Araguanã,564
 RN,Nordeste,Goianinha,563
+PI,Nordeste,Pedro Laurentino,563
+MG,Sudeste,Santos Dumont,562
 MS,Centro-Oeste,Bela Vista,562
 RO,Norte,Rio Crespo,562
 SP,Sudeste,Piracaia,562
-MG,Sudeste,Santos Dumont,562
-PI,Nordeste,Pedro Laurentino,561
-MA,Nordeste,Araguanã,561
 TO,Norte,Natividade,560
+PI,Nordeste,Bela Vista do Piauí,560
 PI,Nordeste,São João do Arraial,560
-MA,Nordeste,Lago do Junco,559
 GO,Centro-Oeste,Uruaçu,558
 MS,Centro-Oeste,Paranaíba,557
-PI,Nordeste,Bela Vista do Piauí,557
 PA,Norte,Bannach,557
 TO,Norte,Maurilândia do Tocantins,557
 CE,Nordeste,Aracoiaba,556
 TO,Norte,Lagoa da Confusão,556
+TO,Norte,Praia Norte,555
+AM,Norte,Barcelos,555
 MG,Sudeste,Lima Duarte,555
 RS,Sul,Mostardas,555
-AM,Norte,Barcelos,555
 MS,Centro-Oeste,Três Lagoas,555
-TO,Norte,Praia Norte,555
 MG,Sudeste,Miradouro,554
-PE,Nordeste,Santa Cruz da Baixa Verde,554
 PB,Nordeste,Queimadas,554
-PR,Sul,Congonhinhas,553
+PE,Nordeste,Santa Cruz da Baixa Verde,554
 ES,Sudeste,Boa Esperança,553
-RS,Sul,Candelária,553
+PI,Nordeste,Palmeirais,553
 AL,Nordeste,Carneiros,553
+RS,Sul,Candelária,553
+PR,Sul,Congonhinhas,553
 PB,Nordeste,Juru,552
 GO,Centro-Oeste,Silvânia,552
-PB,Nordeste,Conde,550
-PB,Nordeste,Juazeirinho,550
+MA,Nordeste,São Domingos do Azeitão,550
 CE,Nordeste,São Gonçalo do Amarante,550
+PB,Nordeste,Juazeirinho,550
+PB,Nordeste,Conde,550
 MG,Sudeste,Alvarenga,549
 GO,Centro-Oeste,Jaraguá,549
-MG,Sudeste,Ubaporanga,549
-PA,Norte,Jacareacanga,549
 MG,Sudeste,Cachoeira de Pajeú,549
 ES,Sudeste,Marilândia,549
-PB,Nordeste,Aguiar,548
+MG,Sudeste,Ubaporanga,549
+PA,Norte,Jacareacanga,549
 MG,Sudeste,Buenópolis,548
+PB,Nordeste,Aguiar,548
+SP,Sudeste,Itaí,547
 MS,Centro-Oeste,Alcinópolis,547
 SP,Sudeste,Barra do Turvo,547
-SP,Sudeste,Itaí,547
-MA,Nordeste,São Domingos do Azeitão,546
+MG,Sudeste,Conselheiro Pena,546
 PI,Nordeste,Sebastião Barros,546
 SE,Nordeste,Santo Amaro das Brotas,546
-MG,Sudeste,Conselheiro Pena,546
 PR,Sul,Marquinho,545
+MA,Nordeste,Gonçalves Dias,545
 BA,Nordeste,Jandaíra,544
 PR,Sul,Ivaí,544
 BA,Nordeste,Itambé,543
-SC,Sul,Itapiranga,543
-MA,Nordeste,Gonçalves Dias,543
-PE,Nordeste,Vicência,543
 CE,Nordeste,General Sampaio,543
+SC,Sul,Itapiranga,543
+PE,Nordeste,Vicência,543
 GO,Centro-Oeste,Montividiu do Norte,543
-PR,Sul,Chopinzinho,542
-CE,Nordeste,Martinópole,542
-PB,Nordeste,Conceição,542
-PI,Nordeste,Palmeirais,542
 MG,Sudeste,Paraguaçu,542
 RS,Sul,Osório,542
 GO,Centro-Oeste,Luziânia,542
+CE,Nordeste,Martinópole,542
+PB,Nordeste,Conceição,542
+PR,Sul,Chopinzinho,542
+MG,Sudeste,Olhos-Dágua,541
 SE,Nordeste,Japoatã,541
 RS,Sul,Cachoeira do Sul,541
-MG,Sudeste,Olhos-Dágua,541
-BA,Nordeste,Cardeal da Silva,540
-TO,Norte,Axixá do Tocantins,540
 SE,Nordeste,Laranjeiras,540
+BA,Nordeste,Cardeal da Silva,540
+PI,Nordeste,Bom Princípio do Piauí,540
+TO,Norte,Axixá do Tocantins,540
 AM,Norte,Eirunepé,539
-RS,Sul,Santa Maria,539
 RJ,Sudeste,São Francisco de Itabapoana,539
-AL,Nordeste,Coruripe,538
+RS,Sul,Santa Maria,539
 PA,Norte,Soure,538
+AL,Nordeste,Coruripe,538
 AL,Nordeste,Jacuípe,538
-PB,Nordeste,Olho Dágua,537
+AP,Norte,Laranjal do Jari,538
 MG,Sudeste,Santa Rita de Caldas,537
 RS,Sul,Lagoão,537
-RS,Sul,Sinimbu,536
-PI,Nordeste,Bom Princípio do Piauí,536
+PB,Nordeste,Olho Dágua,537
 MG,Sudeste,Itapecerica,536
-PB,Nordeste,Sapé,536
 MG,Sudeste,Águas Vermelhas,536
+PB,Nordeste,Sapé,536
+BA,Nordeste,Apuarema,536
+RS,Sul,Sinimbu,536
+RJ,Sudeste,Carapebus,535
+MG,Sudeste,Porto Firme,535
 MG,Sudeste,Guanhães,535
 MG,Sudeste,Matipó,535
 AL,Nordeste,Satuba,535
-MG,Sudeste,Porto Firme,535
-RJ,Sudeste,Carapebus,535
-BA,Nordeste,Apuarema,535
 PI,Nordeste,João Costa,535
-MG,Sudeste,Virgem da Lapa,534
 MG,Sudeste,Guiricema,534
-BA,Nordeste,Antônio Gonçalves,534
+MG,Sudeste,Virgem da Lapa,534
 GO,Centro-Oeste,Amaralina,534
 MG,Sudeste,Berilo,534
+BA,Nordeste,Antônio Gonçalves,534
 PI,Nordeste,Matias Olímpio,533
 RO,Norte,Teixeirópolis,533
 PR,Sul,Dois Vizinhos,532
 BA,Nordeste,Ibicaraí,531
-GO,Centro-Oeste,Jataí,531
 RJ,Sudeste,Nova Friburgo,531
-RN,Nordeste,Lagoa Nova,530
-CE,Nordeste,Arneiroz,530
+GO,Centro-Oeste,Jataí,531
 PI,Nordeste,Socorro do Piauí,530
+RN,Nordeste,Lagoa Nova,530
 MG,Sudeste,Patis,530
+CE,Nordeste,Arneiroz,530
 TO,Norte,Xambioá,529
 RN,Nordeste,Maxaranguape,529
-PE,Nordeste,Triunfo,529
 TO,Norte,Colméia,529
+PE,Nordeste,Triunfo,529
 CE,Nordeste,Tarrafas,528
 BA,Nordeste,Arataca,528
-MS,Centro-Oeste,Rio Brilhante,527
-TO,Norte,Chapada da Natividade,527
-SP,Sudeste,Porangaba,527
 CE,Nordeste,Icapuí,527
+TO,Norte,Chapada da Natividade,527
+MS,Centro-Oeste,Rio Brilhante,527
+SP,Sudeste,Porangaba,527
 PB,Nordeste,Cruz do Espírito Santo,527
+MA,Nordeste,Pastos Bons,527
 MS,Centro-Oeste,Paranhos,527
 MG,Sudeste,Araguari,527
+MA,Nordeste,Santana do Maranhão,526
 TO,Norte,Riachinho,526
 TO,Norte,Conceição do Tocantins,525
 MG,Sudeste,São João das Missões,525
+TO,Norte,Abreulândia,524
 RS,Sul,Lavras do Sul,524
 MG,Sudeste,Jaíba,524
-TO,Norte,Abreulândia,524
-MA,Nordeste,Santana do Maranhão,524
-MG,Sudeste,Lavras,523
 RJ,Sudeste,Itaocara,523
+MG,Sudeste,Lavras,523
 PI,Nordeste,Geminiano,521
 RJ,Sudeste,Macaé,521
 MA,Nordeste,São João do Carú,520
-PB,Nordeste,Aparecida,520
-RR,Norte,São João da Baliza,520
 RS,Sul,Bagé,520
-MA,Nordeste,Pastos Bons,520
-MG,Sudeste,Elói Mendes,519
+RR,Norte,São João da Baliza,520
+PB,Nordeste,Aparecida,520
 MG,Sudeste,Ilicínea,519
+MG,Sudeste,Elói Mendes,519
 TO,Norte,Araguaçu,519
 PR,Sul,Tomazina,518
 MG,Sudeste,Eugenópolis,518
 TO,Norte,Palmeiras do Tocantins,516
 PB,Nordeste,Bananeiras,516
-PE,Nordeste,Custódia,515
 GO,Centro-Oeste,Rio Verde,515
+PE,Nordeste,Custódia,515
 SP,Sudeste,Ribeirão Grande,514
-PI,Nordeste,Lagoa do Sítio,513
 PR,Sul,Mato Rico,513
-PI,Nordeste,Lagoa Alegre,510
-MG,Sudeste,Caeté,510
-SP,Sudeste,Silveiras,510
+PI,Nordeste,Lagoa do Sítio,513
+MA,Nordeste,Capinzal do Norte,511
+PI,Nordeste,Joca Marques,511
 RS,Sul,Boqueirão do Leão,510
-MA,Nordeste,Capinzal do Norte,510
+PI,Nordeste,Lagoa Alegre,510
+SP,Sudeste,Silveiras,510
+MG,Sudeste,Caeté,510
 CE,Nordeste,Poranga,510
-PI,Nordeste,Joca Marques,510
-PI,Nordeste,Cajazeiras do Piauí,509
 CE,Nordeste,Umirim,509
 MT,Centro-Oeste,Novo Santo Antônio,509
 MG,Sudeste,Cataguases,509
+PI,Nordeste,Cajazeiras do Piauí,509
 PR,Sul,Rio Azul,508
-MT,Centro-Oeste,Serra Nova Dourada,507
 GO,Centro-Oeste,Guarani de Goiás,507
 TO,Norte,Itapiratins,507
+MT,Centro-Oeste,Serra Nova Dourada,507
 PE,Nordeste,Jaboatão dos Guararapes,507
 MG,Sudeste,Cambuí,506
 MG,Sudeste,Várzea da Palma,506
+PI,Nordeste,Lagoa do Piauí,505
+RN,Nordeste,Cerro Corá,505
+BA,Nordeste,Governador Mangabeira,505
 CE,Nordeste,Potiretama,505
 SC,Sul,Irineópolis,505
-BA,Nordeste,Governador Mangabeira,505
-RN,Nordeste,Cerro Corá,505
 MG,Sudeste,Resplendor,504
+RN,Nordeste,Jaçanã,503
 PE,Nordeste,Afogados da Ingazeira,503
 RN,Nordeste,Sítio Novo,503
 MG,Sudeste,Nepomuceno,503
-RN,Nordeste,Jaçanã,503
-AL,Nordeste,Matriz de Camaragibe,502
 MG,Sudeste,Pedras de Maria da Cruz,502
 SC,Sul,Anita Garibaldi,502
-PI,Nordeste,Lagoa do Piauí,502
+AL,Nordeste,Matriz de Camaragibe,502
 GO,Centro-Oeste,Goianésia,500
-SC,Sul,Imaruí,500
 MG,Sudeste,Santo Antônio do Retiro,500
+SC,Sul,Imaruí,500
 MG,Sudeste,Oliveira,500
 AL,Nordeste,Ibateguara,499
 AM,Norte,Maraã,499
 MT,Centro-Oeste,Juscimeira,499
-RS,Sul,Maquiné,498
-MG,Sudeste,Brasilândia de Minas,498
 BA,Nordeste,Araças,498
 RN,Nordeste,Guamaré,498
+RS,Sul,Maquiné,498
+MG,Sudeste,Brasilândia de Minas,498
 TO,Norte,Pedro Afonso,496
-PB,Nordeste,Natuba,496
 TO,Norte,Barra do Ouro,496
+MA,Nordeste,São Pedro dos Crentes,496
+PB,Nordeste,Natuba,496
 PB,Nordeste,Santa Rita,495
-GO,Centro-Oeste,Mundo Novo,495
 SP,Sudeste,São Miguel Arcanjo,495
-MG,Sudeste,Alto Jequitibá,494
+PI,Nordeste,Paes Landim,495
+GO,Centro-Oeste,Mundo Novo,495
 TO,Norte,Esperantina,494
-PI,Nordeste,Cocal dos Alves,494
 PB,Nordeste,Água Branca,494
-PI,Nordeste,Paes Landim,494
-MA,Nordeste,São Pedro dos Crentes,493
-MG,Sudeste,Uberaba,493
+PI,Nordeste,Cocal dos Alves,494
+MG,Sudeste,Alto Jequitibá,494
+MA,Nordeste,Nova Colinas,494
 MG,Sudeste,Alto Rio Doce,493
+MG,Sudeste,Uberaba,493
 MG,Sudeste,Guaraciama,493
+AC,Norte,Jordão,492
 PE,Nordeste,Garanhuns,492
 MG,Sudeste,Prata,492
-MA,Nordeste,Nova Colinas,492
 MG,Sudeste,Viçosa,491
 MG,Sudeste,Extrema,491
+PI,Nordeste,Belém do Piauí,491
 MG,Sudeste,Luislândia,490
-PI,Nordeste,Belém do Piauí,490
 MG,Sudeste,Lagoa Formosa,490
 PI,Nordeste,Landri Sales,490
 MG,Sudeste,São Tiago,490
 MG,Sudeste,Visconde do Rio Branco,490
-PI,Nordeste,Pajeú do Piauí,489
 PR,Sul,Doutor Ulysses,489
-MG,Sudeste,Alvinópolis,488
-PE,Nordeste,Serrita,488
+PI,Nordeste,Pajeú do Piauí,489
 MG,Sudeste,Tarumirim,488
+PE,Nordeste,Serrita,488
 MA,Nordeste,Presidente Médici,488
+MG,Sudeste,Alvinópolis,488
 MG,Sudeste,Martinho Campos,487
 SE,Nordeste,Malhador,487
-MG,Sudeste,Coronel Murta,486
 SP,Sudeste,Buri,486
-MG,Sudeste,Ubá,485
+MA,Nordeste,Governador Archer,486
+MG,Sudeste,Coronel Murta,486
 PR,Sul,Ipiranga,485
+MG,Sudeste,Ubá,485
 TO,Norte,Sítio Novo do Tocantins,485
 MG,Sudeste,Palmópolis,484
 GO,Centro-Oeste,Orizona,484
-MA,Nordeste,Governador Archer,484
 SE,Nordeste,Itabi,483
 MT,Centro-Oeste,Nova Nazaré,482
 CE,Nordeste,Milhã,482
-MG,Sudeste,Carmo do Cajuru,481
 CE,Nordeste,Redenção,481
 BA,Nordeste,Itaquara,481
-PB,Nordeste,Sumé,480
+MG,Sudeste,Carmo do Cajuru,481
 PE,Nordeste,São Benedito do Sul,480
+PB,Nordeste,Sumé,480
 MG,Sudeste,Ibiracatu,479
+SP,Sudeste,Itapirapuã Paulista,478
+PE,Nordeste,Glória do Goitá,478
+PI,Nordeste,São João da Serra,478
+RS,Sul,Hulha Negra,478
 MG,Sudeste,Monte Belo,478
 PR,Sul,Cantagalo,478
-PI,Nordeste,São João da Serra,478
-SP,Sudeste,Itapirapuã Paulista,478
-RS,Sul,Hulha Negra,478
-PE,Nordeste,Glória do Goitá,478
-MG,Sudeste,Baependi,477
 RS,Sul,Sertão Santana,477
+MG,Sudeste,Baependi,477
 PB,Nordeste,Coremas,476
 MG,Sudeste,Coluna,475
-PB,Nordeste,Catolé do Rocha,475
-TO,Norte,Rio dos Bois,475
 BA,Nordeste,Wagner,475
-PR,Sul,Tijucas do Sul,474
+TO,Norte,Rio dos Bois,475
+PB,Nordeste,Catolé do Rocha,475
 MG,Sudeste,Alterosa,474
+AL,Nordeste,Campestre,474
+PR,Sul,Tijucas do Sul,474
 MG,Sudeste,Jacinto,474
 MG,Sudeste,Santa Maria do Suaçuí,474
-AL,Nordeste,Campestre,474
-PR,Sul,São Jerônimo da Serra,473
 BA,Nordeste,Una,473
+PR,Sul,São Jerônimo da Serra,473
+MG,Sudeste,Mutum,472
 CE,Nordeste,Catarina,472
 SP,Sudeste,Santa Branca,472
-MG,Sudeste,Mutum,472
 CE,Nordeste,Penaforte,471
 SE,Nordeste,Propriá,470
+PI,Nordeste,Tanque do Piauí,469
 MG,Sudeste,Rubim,469
+RS,Sul,Sentinela do Sul,469
 PE,Nordeste,Aliança,469
 GO,Centro-Oeste,Santa Terezinha de Goiás,469
-RS,Sul,Sentinela do Sul,469
-PI,Nordeste,Tanque do Piauí,469
-TO,Norte,Juarina,468
 PB,Nordeste,Mogeiro,468
 MG,Sudeste,Machado,468
+TO,Norte,Juarina,468
 MS,Centro-Oeste,Corguinho,467
+ES,Sudeste,Venda Nova do Imigrante,467
 MG,Sudeste,Martins Soares,467
 PB,Nordeste,Rio Tinto,467
 BA,Nordeste,Irajuba,467
-ES,Sudeste,Venda Nova do Imigrante,467
-ES,Sudeste,Montanha,466
-MG,Sudeste,Jordânia,466
 MA,Nordeste,Brejo de Areia,466
+MG,Sudeste,Jordânia,466
+ES,Sudeste,Montanha,466
+BA,Nordeste,Lajedinho,465
 MG,Sudeste,Fervedouro,465
-RS,Sul,São Pedro do Sul,465
 CE,Nordeste,Ibaretama,465
-PR,Sul,Arapuã,464
-BA,Nordeste,Lajedinho,464
-SC,Sul,Bela Vista do Toldo,464
-RS,Sul,Caxias do Sul,464
+BA,Nordeste,Coaraci,465
+RS,Sul,São Pedro do Sul,465
 MG,Sudeste,Franciscópolis,464
+PR,Sul,Arapuã,464
+RS,Sul,Caxias do Sul,464
+SC,Sul,Bela Vista do Toldo,464
 MG,Sudeste,Cordisburgo,463
-CE,Nordeste,Chaval,463
 PB,Nordeste,Pitimbu,463
-RS,Sul,Rio Grande,462
+CE,Nordeste,Chaval,463
 PR,Sul,Roncador,462
 PI,Nordeste,Demerval Lobão,462
 MT,Centro-Oeste,Salto do Céu,462
+RS,Sul,Rio Grande,462
 MG,Sudeste,Sacramento,462
-PE,Nordeste,Itapetim,460
-SE,Nordeste,Feira Nova,460
-RN,Nordeste,Poço Branco,460
-BA,Nordeste,Varzedo,460
-SP,Sudeste,Araçatuba,460
+AP,Norte,Oiapoque,461
 SC,Sul,Campos Novos,460
+RN,Nordeste,Poço Branco,460
+BA,Nordeste,Uibaí,460
+PE,Nordeste,Itapetim,460
+PI,Nordeste,Paquetá,460
+BA,Nordeste,Varzedo,460
 MG,Sudeste,Perdizes,460
-BA,Nordeste,Coaraci,459
-BA,Nordeste,Uibaí,459
+SP,Sudeste,Araçatuba,460
+SE,Nordeste,Feira Nova,460
 CE,Nordeste,Chorozinho,459
 PR,Sul,Rio Branco do Sul,459
-PI,Nordeste,Paquetá,459
+MS,Centro-Oeste,Pedro Gomes,458
+RS,Sul,São Sepé,458
 TO,Norte,Almas,458
 MG,Sudeste,Abre Campo,458
-RS,Sul,São Sepé,458
-MS,Centro-Oeste,Pedro Gomes,458
 PI,Nordeste,São José do Peixe,457
 MG,Sudeste,Santa Luzia,457
-CE,Nordeste,Croatá,456
 MG,Sudeste,São Miguel do Anta,456
-MG,Sudeste,Baldim,455
+CE,Nordeste,Croatá,456
+MA,Nordeste,Jatobá,456
 CE,Nordeste,Frecheirinha,455
-MA,Nordeste,Jatobá,455
-MG,Sudeste,Sete Lagoas,454
+MG,Sudeste,Baldim,455
 AM,Norte,São Gabriel da Cachoeira,454
+MG,Sudeste,Sete Lagoas,454
 BA,Nordeste,Caatiba,453
-MA,Nordeste,Olho Dágua das Cunhãs,453
 PE,Nordeste,Amaraji,453
+MA,Nordeste,Olho Dágua das Cunhãs,453
 RJ,Sudeste,Cantagalo,452
-AP,Norte,Laranjal do Jari,452
-MG,Sudeste,Verdelândia,451
-AL,Nordeste,Junqueiro,451
+AP,Norte,Ferreira Gomes,452
 BA,Nordeste,Nazaré,451
+AL,Nordeste,Junqueiro,451
+MG,Sudeste,Verdelândia,451
 MG,Sudeste,Pavão,451
-PA,Norte,Ananindeua,450
-GO,Centro-Oeste,Goiás,450
-PR,Sul,Mangueirinha,450
 MG,Sudeste,Cristais,450
+PR,Sul,Mangueirinha,450
+GO,Centro-Oeste,Goiás,450
+PA,Norte,Ananindeua,450
+BA,Nordeste,Ubaitaba,450
 MA,Nordeste,Bela Vista do Maranhão,449
+MA,Nordeste,Governador Eugênio Barros,449
 PR,Sul,Coronel Domingos Soares,449
 MS,Centro-Oeste,Nioaque,448
-PE,Nordeste,Paudalho,448
 SC,Sul,Água Doce,448
-BA,Nordeste,Ubaitaba,448
-AP,Norte,Oiapoque,447
-MA,Nordeste,Governador Eugênio Barros,447
+PE,Nordeste,Paudalho,448
 CE,Nordeste,Ipaumirim,447
-GO,Centro-Oeste,Mineiros,446
-MG,Sudeste,Carmópolis de Minas,446
-AP,Norte,Ferreira Gomes,446
 PI,Nordeste,Boa Hora,446
+MG,Sudeste,Carmópolis de Minas,446
 MS,Centro-Oeste,Porto Murtinho,446
+GO,Centro-Oeste,Mineiros,446
+MG,Sudeste,Claro dos Poções,445
 RN,Nordeste,Campo Redondo,445
+PR,Sul,Francisco Beltrão,445
 MS,Centro-Oeste,Costa Rica,445
 PE,Nordeste,Santa Maria do Cambucá,445
-PR,Sul,Francisco Beltrão,445
-MG,Sudeste,Claro dos Poções,445
-MG,Sudeste,Brasópolis,444
-MG,Sudeste,Vargem Grande do Rio Pardo,444
 CE,Nordeste,Catunda,444
-PI,Nordeste,Brasileira,443
+PI,Nordeste,Curralinhos,444
+MG,Sudeste,Vargem Grande do Rio Pardo,444
+PI,Nordeste,Brasileira,444
+MG,Sudeste,Brasópolis,444
 SP,Sudeste,Paranapanema,443
 PI,Nordeste,Currais,443
 MG,Sudeste,Reduto,442
 MT,Centro-Oeste,Ipiranga do Norte,442
-PI,Nordeste,Curralinhos,442
 MG,Sudeste,Cabo Verde,441
 CE,Nordeste,Quixeré,441
 MG,Sudeste,Ituiutaba,440
 SC,Sul,Santa Terezinha,440
-TO,Norte,Monte Santo do Tocantins,439
 TO,Norte,Santa Rita do Tocantins,439
-RN,Nordeste,Jucurutu,439
+TO,Norte,Monte Santo do Tocantins,439
 SE,Nordeste,Campo do Brito,439
-RO,Norte,Cabixi,438
-PI,Nordeste,Nossa Senhora de Nazaré,438
+RN,Nordeste,Jucurutu,439
 MG,Sudeste,São Domingos do Prata,438
-BA,Nordeste,Conceição do Jacuípe,438
-MA,Nordeste,Central do Maranhão,438
+RO,Norte,Cabixi,438
 MA,Nordeste,Cajapió,438
+MA,Nordeste,Central do Maranhão,438
+PI,Nordeste,Nossa Senhora de Nazaré,438
+BA,Nordeste,Conceição do Jacuípe,438
 GO,Centro-Oeste,Trombas,437
 RS,Sul,Taquari,437
 MG,Sudeste,Conceição da Aparecida,437
 CE,Nordeste,Guaiúba,436
 MG,Sudeste,Andrelândia,436
+PI,Nordeste,Passagem Franca do Piauí,436
 AP,Norte,Pracuúba,435
-PI,Nordeste,Passagem Franca do Piauí,435
-GO,Centro-Oeste,Catalão,434
-PE,Nordeste,Goiana,434
-RJ,Sudeste,Bom Jardim,434
 RS,Sul,Nova Santa Rita,434
-CE,Nordeste,Madalena,433
-MG,Sudeste,Itapeva,433
+PE,Nordeste,Goiana,434
+GO,Centro-Oeste,Catalão,434
+RJ,Sudeste,Bom Jardim,434
+GO,Centro-Oeste,São João Daliança,433
 SE,Nordeste,São Domingos,433
 GO,Centro-Oeste,Bom Jardim de Goiás,433
-GO,Centro-Oeste,São João Daliança,433
+BA,Nordeste,Itagibá,433
+CE,Nordeste,Madalena,433
+PI,Nordeste,Marcolândia,433
+MG,Sudeste,Itapeva,433
 TO,Norte,Palmeirópolis,433
+MA,Nordeste,Nova Iorque,433
+BA,Nordeste,Anguera,432
 PE,Nordeste,Mirandiba,432
 MS,Centro-Oeste,Dois Irmãos do Buriti,432
-PI,Nordeste,Marcolândia,432
-BA,Nordeste,Anguera,432
-CE,Nordeste,Uruburetama,431
-PA,Norte,Brejo Grande do Araguaia,431
 MG,Sudeste,Passos,431
-MA,Nordeste,Nova Iorque,431
-CE,Nordeste,Fortim,431
+CE,Nordeste,Uruburetama,431
+BA,Nordeste,Itapebi,431
+PA,Norte,Brejo Grande do Araguaia,431
 MG,Sudeste,Canaã,431
-BA,Nordeste,Itapebi,430
+CE,Nordeste,Fortim,431
 BA,Nordeste,Ibiquera,430
 CE,Nordeste,Ipaporanga,429
-BA,Nordeste,Itagibá,429
 TO,Norte,Silvanópolis,429
-PE,Nordeste,Tracunhaém,428
-SP,Sudeste,Conchas,428
 PI,Nordeste,Pau Darco do Piauí,428
+SP,Sudeste,Conchas,428
+PE,Nordeste,Tracunhaém,428
 SC,Sul,Timbó Grande,427
-RJ,Sudeste,Rio Bonito,426
 ES,Sudeste,Divino de São Lourenço,426
+RJ,Sudeste,Rio Bonito,426
 SP,Sudeste,Lagoinha,425
-RS,Sul,Vera Cruz,425
 MG,Sudeste,Três Corações,425
-RS,Sul,Herval,424
+RS,Sul,Vera Cruz,425
 MG,Sudeste,Frutal,424
-PB,Nordeste,Esperança,423
+RS,Sul,Herval,424
 CE,Nordeste,Meruoca,423
-PI,Nordeste,Barro Duro,422
+PB,Nordeste,Esperança,423
+MG,Sudeste,Santa Vitória,422
 MA,Nordeste,Boa Vista do Gurupi,422
 SP,Sudeste,Franco da Rocha,422
-MG,Sudeste,Santa Vitória,422
-PB,Nordeste,Jacaraú,421
+PI,Nordeste,Barro Duro,422
+PI,Nordeste,Parnaíba,422
+PI,Nordeste,Santa Rosa do Piauí,421
 PI,Nordeste,Palmeira do Piauí,421
+PB,Nordeste,Jacaraú,421
+SE,Nordeste,Neópolis,420
 MG,Sudeste,Felixlândia,420
 GO,Centro-Oeste,Piracanjuba,420
-SE,Nordeste,Neópolis,420
-PI,Nordeste,Santa Rosa do Piauí,420
-TO,Norte,Miranorte,418
+MA,Nordeste,Duque Bacelar,419
 MG,Sudeste,Rio do Prado,418
+TO,Norte,Miranorte,418
 BA,Nordeste,Retirolândia,417
 GO,Centro-Oeste,Campestre de Goiás,417
+RO,Norte,Castanheiras,416
+RN,Nordeste,Rio do Fogo,416
+MA,Nordeste,Sucupira do Riachão,416
 MG,Sudeste,Dom Joaquim,416
 PB,Nordeste,São José de Caiana,416
-RN,Nordeste,Rio do Fogo,416
-RO,Norte,Castanheiras,416
-MA,Nordeste,Sucupira do Riachão,415
 RS,Sul,Candiota,415
+BA,Nordeste,Lajedo do Tabocal,415
 PI,Nordeste,Novo Oriente do Piauí,415
 MG,Sudeste,Brás Pires,414
-MA,Nordeste,Duque Bacelar,414
-BA,Nordeste,Lajedo do Tabocal,414
+MA,Nordeste,Benedito Leite,413
 MG,Sudeste,Resende Costa,413
 SP,Sudeste,Jarinu,413
-AC,Norte,Jordão,413
-PI,Nordeste,Parnaíba,413
+PI,Nordeste,Wall Ferraz,413
+BA,Nordeste,Irecê,413
+MG,Sudeste,Bonfim,412
 CE,Nordeste,Abaiara,412
 MS,Centro-Oeste,São Gabriel do Oeste,412
-MA,Nordeste,Benedito Leite,412
-MG,Sudeste,Bonfim,412
 PB,Nordeste,São Bento,411
-BA,Nordeste,Irecê,411
-PI,Nordeste,Wall Ferraz,411
-AL,Nordeste,Roteiro,410
 MG,Sudeste,São José do Jacuri,410
-RN,Nordeste,São Miguel do Gostoso,410
+MA,Nordeste,Campestre do Maranhão,410
 PR,Sul,Palmas,410
 MS,Centro-Oeste,Maracaju,410
-MA,Nordeste,Campestre do Maranhão,410
-PE,Nordeste,Cortês,409
-MG,Sudeste,Monte Alegre de Minas,409
-PR,Sul,Ribeirão Claro,409
-MG,Sudeste,Belo Vale,409
-BA,Nordeste,Saúde,409
-SP,Sudeste,Limeira,409
+AL,Nordeste,Roteiro,410
+RN,Nordeste,São Miguel do Gostoso,410
 TO,Norte,Brejinho de Nazaré,409
+BA,Nordeste,Saúde,409
+MG,Sudeste,Belo Vale,409
+PR,Sul,Ribeirão Claro,409
 SP,Sudeste,Guararema,409
-MG,Sudeste,Francisco Badaró,408
-MS,Centro-Oeste,Anaurilândia,408
+MG,Sudeste,Monte Alegre de Minas,409
+SP,Sudeste,Limeira,409
+PE,Nordeste,Cortês,409
 BA,Nordeste,Ibirapuã,408
 RN,Nordeste,Upanema,408
+MS,Centro-Oeste,Anaurilândia,408
 PB,Nordeste,Pilões,408
-MG,Sudeste,Lagoa Dourada,407
+MG,Sudeste,Francisco Badaró,408
 PE,Nordeste,Betânia,407
 MG,Sudeste,Mata Verde,407
+MG,Sudeste,Lagoa Dourada,407
 MG,Sudeste,Campo Belo,407
-PE,Nordeste,Alagoinha,406
-AL,Nordeste,Tanque Darca,406
-RN,Nordeste,Japi,406
-MG,Sudeste,Gurinhatã,406
 AM,Norte,Novo Aripuanã,406
-MG,Sudeste,Santa Bárbara do Leste,405
+MG,Sudeste,Gurinhatã,406
+AL,Nordeste,Tanque Darca,406
+PE,Nordeste,Alagoinha,406
+RN,Nordeste,Japi,406
 MG,Sudeste,Manga,405
-RS,Sul,Lagoa Vermelha,405
+MG,Sudeste,Santa Bárbara do Leste,405
 BA,Nordeste,Luís Eduardo Magalhães,405
-SP,Sudeste,Ilha Solteira,404
-ES,Sudeste,Sooretama,404
-MG,Sudeste,Pedra do Indaiá,404
-MG,Sudeste,Pará de Minas,404
-MG,Sudeste,Matias Cardoso,404
+RS,Sul,Lagoa Vermelha,405
 BA,Nordeste,Ubatã,404
+MG,Sudeste,Pará de Minas,404
+MG,Sudeste,Pedra do Indaiá,404
 MG,Sudeste,Cláudio,404
 MG,Sudeste,Rio Paranaíba,404
+MG,Sudeste,Matias Cardoso,404
+SP,Sudeste,Ilha Solteira,404
+ES,Sudeste,Sooretama,404
 CE,Nordeste,Palhano,403
-ES,Sudeste,Dores do Rio Preto,402
 PE,Nordeste,Jaqueira,402
-RN,Nordeste,Tangará,401
-PB,Nordeste,Araçagi,401
+ES,Sudeste,Dores do Rio Preto,402
 PI,Nordeste,São José do Divino,401
+RN,Nordeste,Tangará,401
 RS,Sul,Bossoroca,401
+PB,Nordeste,Araçagi,401
 AM,Norte,Itamarati,400
 RS,Sul,General Câmara,400
 PB,Nordeste,Serra Branca,399
-PB,Nordeste,Teixeira,399
 PB,Nordeste,Solânea,399
-TO,Norte,Santa Maria do Tocantins,398
-RO,Norte,Cacaulândia,398
+PB,Nordeste,Teixeira,399
 PR,Sul,Rio Negro,398
+RO,Norte,Cacaulândia,398
+TO,Norte,Santa Maria do Tocantins,398
 ES,Sudeste,Guarapari,397
 RN,Nordeste,Antônio Martins,396
 PB,Nordeste,Lagoa Seca,395
-MT,Centro-Oeste,Vera,395
 MG,Sudeste,Tocantins,395
 MG,Sudeste,Serranópolis de Minas,395
-SP,Sudeste,São Bento do Sapucaí,394
+MT,Centro-Oeste,Vera,395
 MG,Sudeste,Açucena,394
 AL,Nordeste,Belo Monte,394
-CE,Nordeste,Aratuba,393
+SP,Sudeste,São Bento do Sapucaí,394
 RJ,Sudeste,São João da Barra,393
+CE,Nordeste,Aratuba,393
+MA,Nordeste,São Roberto,393
 PI,Nordeste,Redenção do Gurguéia,393
 SP,Sudeste,Cruzeiro,392
-MG,Sudeste,São Gonçalo do Abaeté,390
 RN,Nordeste,Canguaretama,390
-MA,Nordeste,São Roberto,390
-MG,Sudeste,Vazante,389
+MG,Sudeste,São Gonçalo do Abaeté,390
 MG,Sudeste,Mantena,389
 MG,Sudeste,Serra do Salitre,389
 PE,Nordeste,Riacho das Almas,389
-GO,Centro-Oeste,Vila Boa,388
-PB,Nordeste,Belém do Brejo do Cruz,388
-PB,Nordeste,Pilar,388
+MG,Sudeste,Vazante,389
 MG,Sudeste,Abadia dos Dourados,388
-MG,Sudeste,Itanhomi,387
-GO,Centro-Oeste,Teresina de Goiás,387
-MG,Sudeste,Piumhi,387
+PB,Nordeste,Pilar,388
+PB,Nordeste,Belém do Brejo do Cruz,388
+GO,Centro-Oeste,Vila Boa,388
 AL,Nordeste,Mar Vermelho,387
-PI,Nordeste,Nazaré do Piauí,387
-GO,Centro-Oeste,Ipameri,387
+GO,Centro-Oeste,Teresina de Goiás,387
 PR,Sul,General Carneiro,387
-MG,Sudeste,Lagamar,386
-PE,Nordeste,Canhotinho,386
+PI,Nordeste,Nazaré do Piauí,387
+MG,Sudeste,Itanhomi,387
+GO,Centro-Oeste,Ipameri,387
+MG,Sudeste,Piumhi,387
 SP,Sudeste,Guareí,386
+PE,Nordeste,Canhotinho,386
+MG,Sudeste,Lagamar,386
+SE,Nordeste,Canhoba,385
 MT,Centro-Oeste,Alto Araguaia,385
 MS,Centro-Oeste,Santa Rita do Pardo,385
-SE,Nordeste,Canhoba,385
 MG,Sudeste,Tapira,384
 PB,Nordeste,Mãe Dágua,384
 MS,Centro-Oeste,Chapadão do Sul,383
 PB,Nordeste,Araruna,383
 PI,Nordeste,Francisco Ayres,382
-CE,Nordeste,Umari,381
-MG,Sudeste,Itaverava,381
 RN,Nordeste,Taipu,381
+MG,Sudeste,Itaverava,381
 SC,Sul,Major Vieira,381
-PB,Nordeste,Seridó,380
+CE,Nordeste,Umari,381
 MG,Sudeste,Felisburgo,380
+CE,Nordeste,Jati,380
 RS,Sul,Torres,380
 SP,Sudeste,Redenção da Serra,380
-CE,Nordeste,Jati,380
+PB,Nordeste,Seridó,380
+TO,Norte,Aparecida do Rio Negro,379
 PB,Nordeste,Marcação,379
 MG,Sudeste,Piracema,379
-TO,Norte,Aparecida do Rio Negro,379
+RN,Nordeste,Ruy Barbosa,378
 SE,Nordeste,Pirambu,378
 PB,Nordeste,Cubati,378
 PR,Sul,Reserva do Iguaçu,378
-RN,Nordeste,Ruy Barbosa,378
-MG,Sudeste,Itatiaiuçu,377
-BA,Nordeste,Vera Cruz,377
 MG,Sudeste,Angelândia,377
+BA,Nordeste,Vera Cruz,377
+MG,Sudeste,Itatiaiuçu,377
 SP,Sudeste,Socorro,376
 MT,Centro-Oeste,Porto dos Gaúchos,375
-SP,Sudeste,Ribeirão Preto,375
 BA,Nordeste,Simões Filho,375
+PR,Sul,Ivaiporã,375
+SP,Sudeste,Ribeirão Preto,375
 MG,Sudeste,Governador Valadares,375
 SP,Sudeste,Itaporanga,375
-PR,Sul,Ivaiporã,375
-MG,Sudeste,Montalvânia,375
 MG,Sudeste,Ponte Nova,375
+MG,Sudeste,Montalvânia,375
 AM,Norte,Juruá,375
+MA,Nordeste,Bacurituba,374
 ES,Sudeste,Aracruz,374
-MG,Sudeste,Juruaia,374
 AL,Nordeste,Minador do Negrão,374
-MG,Sudeste,São João do Pacuí,373
-PI,Nordeste,Dom Expedito Lopes,373
-RS,Sul,Soledade,373
-RN,Nordeste,Pureza,373
-AL,Nordeste,Jequiá da Praia,373
-RS,Sul,Gravataí,373
-MA,Nordeste,Bacurituba,373
+MG,Sudeste,Juruaia,374
 SP,Sudeste,Itariri,373
+RS,Sul,Soledade,373
+PI,Nordeste,Dom Expedito Lopes,373
+RN,Nordeste,Pureza,373
+RS,Sul,Gravataí,373
 SE,Nordeste,Arauá,373
-MG,Sudeste,Pedra Azul,372
+MG,Sudeste,São João do Pacuí,373
+AL,Nordeste,Jequiá da Praia,373
 MS,Centro-Oeste,Rochedo,372
-GO,Centro-Oeste,Campos Belos,371
+MG,Sudeste,Pedra Azul,372
 SC,Sul,Campo Belo do Sul,371
 RS,Sul,Cristal,371
 SC,Sul,Lages,371
+GO,Centro-Oeste,Campos Belos,371
 PB,Nordeste,Caaporã,370
 SP,Sudeste,Cabreúva,370
-AL,Nordeste,Branquinha,369
 PR,Sul,Jaguariaíva,369
-ES,Sudeste,Conceição da Barra,369
+AL,Nordeste,Branquinha,369
 TO,Norte,Mateiros,369
+ES,Sudeste,Conceição da Barra,369
 SE,Nordeste,Pinhão,369
-MG,Sudeste,São Pedro do Suaçuí,368
-GO,Centro-Oeste,Itaberaí,368
-SP,Sudeste,Pederneiras,368
 MG,Sudeste,Três Pontas,368
 MG,Sudeste,Rosário da Limeira,368
+GO,Centro-Oeste,Itaberaí,368
+SP,Sudeste,Pederneiras,368
+MG,Sudeste,São Pedro do Suaçuí,368
+RS,Sul,Tunas,367
 PE,Nordeste,Bom Jardim,367
 RS,Sul,Jóia,367
 MG,Sudeste,Padre Paraíso,367
-RS,Sul,Tunas,367
-MG,Sudeste,Bom Jesus do Galho,367
 SP,Sudeste,Igaratá,367
-TO,Norte,Bernardo Sayão,366
+MG,Sudeste,Bom Jesus do Galho,367
 MS,Centro-Oeste,Inocência,366
-GO,Centro-Oeste,Vianópolis,366
+TO,Norte,Bernardo Sayão,366
 SC,Sul,Entre Rios,366
+GO,Centro-Oeste,Vianópolis,366
 RJ,Sudeste,Araruama,366
-BA,Nordeste,Macarani,365
-RS,Sul,Quaraí,365
 RJ,Sudeste,Teresópolis,365
+BA,Nordeste,Macarani,365
 PE,Nordeste,Xexéu,365
-RS,Sul,Portão,364
+RS,Sul,Quaraí,365
 PR,Sul,Araucária,364
 MG,Sudeste,Estiva,364
-MS,Centro-Oeste,Iguatemi,363
+RS,Sul,Portão,364
+BA,Nordeste,Elísio Medrado,363
 PE,Nordeste,Tacaratu,363
 AM,Norte,Pauini,363
-BA,Nordeste,Elísio Medrado,363
-MG,Sudeste,Gouveia,362
+MS,Centro-Oeste,Iguatemi,363
+MG,Sudeste,Alfenas,362
 MA,Nordeste,Mirinzal,362
+MG,Sudeste,Gouveia,362
 BA,Nordeste,Abaíra,362
 PB,Nordeste,Bom Sucesso,362
-MG,Sudeste,Alfenas,362
 RO,Norte,Pimenteiras do Oeste,362
 RN,Nordeste,Afonso Bezerra,361
-MG,Sudeste,Cruzília,360
-TO,Norte,Paraíso do Tocantins,360
-MG,Sudeste,Passa Tempo,360
 MG,Sudeste,Santa Rita de Jacutinga,360
-MG,Sudeste,Alvorada de Minas,359
+MG,Sudeste,Cruzília,360
+MG,Sudeste,Passa Tempo,360
+TO,Norte,Paraíso do Tocantins,360
 MG,Sudeste,Abaeté,359
 GO,Centro-Oeste,Morrinhos,359
-ES,Sudeste,Jerônimo Monteiro,358
+MG,Sudeste,Alvorada de Minas,359
 RJ,Sudeste,Cardoso Moreira,358
+ES,Sudeste,Jerônimo Monteiro,358
 PR,Sul,Sapopema,358
 TO,Norte,Cristalândia,358
 MT,Centro-Oeste,Tesouro,358
 MG,Sudeste,Itacarambi,358
 RS,Sul,Sobradinho,357
-RS,Sul,Passo do Sobrado,357
 SP,Sudeste,Caconde,357
-PB,Nordeste,Patos,356
-PB,Nordeste,Santana dos Garrotes,356
-BA,Nordeste,Rodelas,356
+RS,Sul,Passo do Sobrado,357
 PR,Sul,Diamante Doeste,356
+PB,Nordeste,Patos,356
+BA,Nordeste,Rodelas,356
+PB,Nordeste,Santana dos Garrotes,356
 MG,Sudeste,Fronteira dos Vales,356
 TO,Norte,Santa Fé do Araguaia,355
 SC,Sul,Cerro Negro,355
 PB,Nordeste,Brejo dos Santos,355
-MS,Centro-Oeste,Cassilândia,355
+MG,Sudeste,Palma,355
 SE,Nordeste,Ilha das Flores,355
 TO,Norte,Sandolândia,355
-MG,Sudeste,Palma,355
+MS,Centro-Oeste,Cassilândia,355
 PB,Nordeste,Areia,354
+PR,Sul,Fernandes Pinheiro,354
 TO,Norte,Figueirópolis,354
 ES,Sudeste,Fundão,354
 MG,Sudeste,Bom Despacho,354
-PR,Sul,Fernandes Pinheiro,354
-PI,Nordeste,Porto Alegre do Piauí,353
-PB,Nordeste,Cacimbas,353
-PE,Nordeste,Belém de Maria,353
-BA,Nordeste,Itapitanga,353
+MA,Nordeste,Governador Luiz Rocha,354
 ES,Sudeste,Mucurici,353
-SP,Sudeste,Quadra,352
-MA,Nordeste,Trizidela do Vale,352
-MG,Sudeste,Mato Verde,352
+PI,Nordeste,Porto Alegre do Piauí,353
+PE,Nordeste,Belém de Maria,353
+MA,Nordeste,Trizidela do Vale,353
+BA,Nordeste,Itapitanga,353
+PB,Nordeste,Cacimbas,353
 GO,Centro-Oeste,Palmeiras de Goiás,352
-TO,Norte,Nazaré,351
-MG,Sudeste,Pitangui,351
+SP,Sudeste,Quadra,352
+MG,Sudeste,Mato Verde,352
 MG,Sudeste,Novo Oriente de Minas,351
-SP,Sudeste,Monteiro Lobato,350
+MG,Sudeste,Pitangui,351
+TO,Norte,Nazaré,351
 TO,Norte,Lizarda,350
-PB,Nordeste,Massaranduba,349
+SP,Sudeste,Monteiro Lobato,350
 ES,Sudeste,Viana,349
+PB,Nordeste,Massaranduba,349
 RJ,Sudeste,Silva Jardim,347
 AL,Nordeste,São Brás,347
-PB,Nordeste,Santa Cruz,347
 PR,Sul,Ramilândia,347
-PB,Nordeste,Alhandra,346
-PE,Nordeste,São João,346
-MG,Sudeste,Itaúna,346
-MG,Sudeste,Ouro Verde de Minas,346
+PB,Nordeste,Santa Cruz,347
 PA,Norte,Santa Cruz do Arari,346
 TO,Norte,Barrolândia,346
-MA,Nordeste,Governador Luiz Rocha,345
+MG,Sudeste,Itaúna,346
+PE,Nordeste,São João,346
+PB,Nordeste,Alhandra,346
+MG,Sudeste,Ouro Verde de Minas,346
+RS,Sul,Erval Seco,345
 MG,Sudeste,Cipotânea,345
 CE,Nordeste,Senador Sá,345
-RS,Sul,Erval Seco,345
 SC,Sul,Palmitos,344
 SC,Sul,São Bento do Sul,344
+PR,Sul,Campina Grande do Sul,343
 MG,Sudeste,Carandaí,343
 RS,Sul,Arroio Grande,343
-PR,Sul,Campina Grande do Sul,343
 MG,Sudeste,Padre Carvalho,342
-PI,Nordeste,Rio Grande do Piauí,342
 SP,Sudeste,Itaóca,342
+PI,Nordeste,Rio Grande do Piauí,342
 MG,Sudeste,Guaraciaba,342
-SE,Nordeste,Pedrinhas,341
-SC,Sul,Jaraguá do Sul,341
-CE,Nordeste,Forquilha,341
 PR,Sul,Ampére,341
-RS,Sul,Nonoai,341
+SC,Sul,Jaraguá do Sul,341
+SE,Nordeste,Pedrinhas,341
+CE,Nordeste,Forquilha,341
 CE,Nordeste,Horizonte,341
+RS,Sul,Nonoai,341
+MG,Sudeste,Guarda-Mor,340
 SE,Nordeste,Areia Branca,340
 AL,Nordeste,Paulo Jacinto,340
-MG,Sudeste,Guarda-Mor,340
-PE,Nordeste,São Lourenço da Mata,339
-BA,Nordeste,Érico Cardoso,339
 SC,Sul,Rio Negrinho,339
+BA,Nordeste,Érico Cardoso,339
+PE,Nordeste,São Lourenço da Mata,339
 SC,Sul,Itajaí,339
-PB,Nordeste,São José de Espinharas,338
-PB,Nordeste,Pedra Lavrada,338
-PI,Nordeste,Antônio Almeida,338
-RS,Sul,Amaral Ferrador,338
 PB,Nordeste,Mari,338
+RS,Sul,Amaral Ferrador,338
+PB,Nordeste,Pedra Lavrada,338
+PB,Nordeste,São José de Espinharas,338
+PI,Nordeste,Antônio Almeida,338
 GO,Centro-Oeste,Rubiataba,337
 MT,Centro-Oeste,Nova Olímpia,336
+MG,Sudeste,São Thomé das Letras,335
 SC,Sul,Campo Alegre,335
 PB,Nordeste,São Miguel de Taipu,335
-MG,Sudeste,São Thomé das Letras,335
-BA,Nordeste,Amélia Rodrigues,334
-RN,Nordeste,Pedra Preta,334
 PI,Nordeste,Barreiras do Piauí,334
+RN,Nordeste,Pedra Preta,334
+BA,Nordeste,Amélia Rodrigues,334
 GO,Centro-Oeste,Abadiânia,334
+MG,Sudeste,São Sebastião do Paraíso,333
 BA,Nordeste,Tanquinho,333
 MT,Centro-Oeste,Porto Estrela,333
 PE,Nordeste,Itacuruba,333
+SE,Nordeste,Moita Bonita,333
 SE,Nordeste,São Miguel do Aleixo,333
 GO,Centro-Oeste,Quirinópolis,333
-SE,Nordeste,Moita Bonita,333
-MG,Sudeste,São Sebastião do Paraíso,333
-ES,Sudeste,Marataízes,332
+RS,Sul,Agudo,332
 PB,Nordeste,Cacimba de Dentro,332
+ES,Sudeste,Marataízes,332
 RN,Nordeste,Lajes Pintadas,332
 RS,Sul,Vacaria,332
-RS,Sul,Agudo,332
-MG,Sudeste,Jequitaí,331
-MG,Sudeste,Mercês,331
 RN,Nordeste,Florânia,331
-ES,Sudeste,Atilio Vivacqua,331
+MG,Sudeste,Jequitaí,331
 BA,Nordeste,Pedrão,331
-PB,Nordeste,Barra de Santana,330
-MG,Sudeste,Vieiras,330
+ES,Sudeste,Atilio Vivacqua,331
+MG,Sudeste,Mercês,331
 PE,Nordeste,Saloá,330
-CE,Nordeste,Pereiro,330
+MG,Sudeste,Imbé de Minas,330
+MG,Sudeste,Vieiras,330
 PI,Nordeste,Francisco Macedo,330
+CE,Nordeste,Pereiro,330
+PB,Nordeste,Barra de Santana,330
 MG,Sudeste,Laranjal,330
 RN,Nordeste,Governador Dix-Sept Rosado,330
-MG,Sudeste,Imbé de Minas,330
+RS,Sul,São Borja,329
 MG,Sudeste,Itaobim,329
 MG,Sudeste,Lontra,329
 MG,Sudeste,Betim,329
-RS,Sul,São Borja,329
+MS,Centro-Oeste,Água Clara,328
 MG,Sudeste,Congonhas do Norte,328
 MT,Centro-Oeste,Nova Guarita,328
-MS,Centro-Oeste,Água Clara,328
 MG,Sudeste,Ferros,327
 CE,Nordeste,São Luís do Curu,327
-PR,Sul,Missal,326
 SC,Sul,Pouso Redondo,326
-PR,Sul,Nova Tebas,326
+PR,Sul,Missal,326
 MS,Centro-Oeste,Antônio João,326
+PR,Sul,Nova Tebas,326
 ES,Sudeste,Pinheiros,325
 AL,Nordeste,Maribondo,324
+RR,Norte,São Luiz,324
 MT,Centro-Oeste,Planalto da Serra,324
 CE,Nordeste,Nova Olinda,324
 PI,Nordeste,São Luis do Piauí,324
 PR,Sul,Londrina,324
 MG,Sudeste,Curral de Dentro,323
 TO,Norte,São Salvador do Tocantins,323
-RJ,Sudeste,São Sebastião do Alto,322
 ES,Sudeste,São José do Calçado,322
+RJ,Sudeste,São Sebastião do Alto,322
 AL,Nordeste,Lagoa da Canoa,322
 PR,Sul,São Miguel do Iguaçu,322
 MG,Sudeste,Rio Pomba,321
@@ -2547,1801 +2548,1800 @@ RS,Sul,Rio dos Índios,319
 SC,Sul,Dionísio Cerqueira,319
 RJ,Sudeste,Trajano de Morais,319
 RN,Nordeste,Tibau do Sul,319
-GO,Centro-Oeste,Corumbá de Goiás,318
 BA,Nordeste,Aurelino Leal,318
 BA,Nordeste,Cairu,318
-PI,Nordeste,Floresta do Piauí,317
+GO,Centro-Oeste,Corumbá de Goiás,318
 RS,Sul,Quevedos,317
-PR,Sul,Manoel Ribas,316
-MG,Sudeste,Corinto,316
+PI,Nordeste,Floresta do Piauí,317
 SP,Sudeste,Nova Campina,316
+PR,Sul,Manoel Ribas,316
+MA,Nordeste,Guimarães,316
+MG,Sudeste,Corinto,316
 MG,Sudeste,Bom Sucesso,316
 RN,Nordeste,Serra do Mel,316
-MA,Nordeste,Guimarães,316
+MA,Nordeste,Bernardo do Mearim,316
+TO,Norte,Piraquê,315
 BA,Nordeste,Lafaiete Coutinho,315
 GO,Centro-Oeste,Piranhas,315
-TO,Norte,Piraquê,315
-MA,Nordeste,Bernardo do Mearim,315
 RN,Nordeste,Santo Antônio,314
-SC,Sul,Monte Castelo,314
-SP,Sudeste,Jacareí,314
 SC,Sul,Caçador,314
-CE,Nordeste,Mulungu,314
+SP,Sudeste,Jacareí,314
 MG,Sudeste,Monsenhor Paulo,314
-MG,Sudeste,Munhoz,313
-SP,Sudeste,Tapiraí,313
+SC,Sul,Monte Castelo,314
+CE,Nordeste,Mulungu,314
 RN,Nordeste,Caicó,313
 PE,Nordeste,Nazaré da Mata,313
-RR,Norte,São Luiz,313
+MG,Sudeste,Munhoz,313
+SP,Sudeste,Tapiraí,313
+RN,Nordeste,Januário Cicco,312
 MT,Centro-Oeste,Araguaiana,312
 PR,Sul,Salto do Lontra,312
-RN,Nordeste,Januário Cicco,312
-AL,Nordeste,Belém,311
 PR,Sul,Rio Bonito do Iguaçu,311
+AL,Nordeste,Belém,311
 MG,Sudeste,Juvenília,310
+PI,Nordeste,São Julião,310
 CE,Nordeste,Pacajus,310
-RS,Sul,Progresso,309
-SP,Sudeste,Arujá,309
-PE,Nordeste,Iguaraci,309
 PI,Nordeste,Cocal de Telha,309
-MG,Sudeste,Santana do Riacho,309
-SP,Sudeste,Itu,309
+PI,Nordeste,Francisco Santos,309
 MG,Sudeste,Presidente Bernardes,309
-CE,Nordeste,Monsenhor Tabosa,308
-RN,Nordeste,Alexandria,308
-MG,Sudeste,Santa Rita do Sapucaí,308
-PI,Nordeste,São Julião,308
+SP,Sudeste,Itu,309
+PE,Nordeste,Iguaraci,309
+RS,Sul,Progresso,309
+MG,Sudeste,Santana do Riacho,309
+SP,Sudeste,Arujá,309
 SP,Sudeste,Tremembé,308
+GO,Centro-Oeste,Novo Planalto,308
+RS,Sul,Vale do Sol,308
+MS,Centro-Oeste,Brasilândia,308
+CE,Nordeste,Monsenhor Tabosa,308
+MG,Sudeste,Santa Rita do Sapucaí,308
+RN,Nordeste,Alexandria,308
+MG,Sudeste,Espírito Santo do Dourado,308
 SC,Sul,Correia Pinto,308
 RJ,Sudeste,Cambuci,308
-MG,Sudeste,Espírito Santo do Dourado,308
-RS,Sul,Vale do Sol,308
-GO,Centro-Oeste,Novo Planalto,308
-MS,Centro-Oeste,Brasilândia,308
 MG,Sudeste,Monte Sião,307
-RN,Nordeste,São Paulo do Potengi,307
-PR,Sul,Campina do Simão,307
-SP,Sudeste,Iaras,307
 RS,Sul,Itacurubi,307
+RN,Nordeste,São Paulo do Potengi,307
+SP,Sudeste,Iaras,307
+PR,Sul,Campina do Simão,307
 AL,Nordeste,Batalha,306
-MG,Sudeste,São Geraldo,306
-MG,Sudeste,Botelhos,306
-MG,Sudeste,Ibiaí,306
-PI,Nordeste,São Gonçalo do Gurguéia,306
 MG,Sudeste,Arcos,306
-MT,Centro-Oeste,Nova Marilândia,305
-MG,Sudeste,Lagoa Grande,305
+PI,Nordeste,São Gonçalo do Gurguéia,306
+MG,Sudeste,Ibiaí,306
+MG,Sudeste,Botelhos,306
+MG,Sudeste,São Geraldo,306
 RS,Sul,Tupanciretã,305
 PA,Norte,Canaã dos Carajás,305
 GO,Centro-Oeste,Água Fria de Goiás,305
-PB,Nordeste,Uiraúna,304
+MG,Sudeste,Lagoa Grande,305
+MT,Centro-Oeste,Nova Marilândia,305
 MG,Sudeste,Gonçalves,304
+PB,Nordeste,Uiraúna,304
 PB,Nordeste,Lagoa,304
-MG,Sudeste,Itaguara,304
 MG,Sudeste,Itueta,304
+PI,Nordeste,Angical do Piauí,304
 PR,Sul,Laranjeiras do Sul,304
-PI,Nordeste,Francisco Santos,303
+MG,Sudeste,Itaguara,304
 PR,Sul,Capanema,303
-AM,Norte,Envira,302
 TO,Norte,Tupiratins,302
-PI,Nordeste,Angical do Piauí,302
+AM,Norte,Envira,302
 AP,Norte,Serra do Navio,302
-PB,Nordeste,Pocinhos,301
 SC,Sul,Curitibanos,301
-CE,Nordeste,Orós,300
+PB,Nordeste,Pocinhos,301
 SC,Sul,Xanxerê,300
 PE,Nordeste,Catende,300
-BA,Nordeste,Ouriçangas,299
-RN,Nordeste,São José do Campestre,299
-AL,Nordeste,Messias,299
-MG,Sudeste,São João Evangelista,299
+CE,Nordeste,Orós,300
 BA,Nordeste,Candeias,299
+AL,Nordeste,Messias,299
+RN,Nordeste,São José do Campestre,299
+MG,Sudeste,São João Evangelista,299
+BA,Nordeste,Ouriçangas,299
 AL,Nordeste,Piaçabuçu,298
 SC,Sul,Passos Maia,298
-SP,Sudeste,Pereiras,297
-RS,Sul,Porto Xavier,297
-RN,Nordeste,Jandaíra,297
-AP,Norte,Cutias,297
-MT,Centro-Oeste,Jaciara,297
 MG,Sudeste,Itabira,297
 SP,Sudeste,Joanópolis,297
+RN,Nordeste,Jandaíra,297
+SP,Sudeste,Pereiras,297
+MA,Nordeste,Amapá do Maranhão,297
+BA,Nordeste,Santa Inês,297
 MG,Sudeste,Senador Modestino Gonçalves,297
+AP,Norte,Cutias,297
+RS,Sul,Porto Xavier,297
+MT,Centro-Oeste,Jaciara,297
 SP,Sudeste,Bragança Paulista,296
 PR,Sul,Jacarezinho,296
 MS,Centro-Oeste,Juti,296
 MS,Centro-Oeste,Aral Moreira,296
 PB,Nordeste,Jericó,296
-MG,Sudeste,Coimbra,295
-MA,Nordeste,Amapá do Maranhão,295
-PB,Nordeste,Soledade,295
 RS,Sul,Pinhal da Serra,295
-MG,Sudeste,Medeiros,295
+SC,Sul,Porto União,295
+MG,Sudeste,Coimbra,295
 PI,Nordeste,Colônia do Gurguéia,295
 MT,Centro-Oeste,Nortelândia,295
-SC,Sul,Porto União,295
+PB,Nordeste,Soledade,295
+MG,Sudeste,Medeiros,295
 MG,Sudeste,Bandeira,294
-PR,Sul,União da Vitória,294
 MG,Sudeste,Carneirinho,294
-RO,Norte,Primavera de Rondônia,293
+PR,Sul,União da Vitória,294
 PR,Sul,Paulo Frontin,293
 PB,Nordeste,Alcantil,293
 MT,Centro-Oeste,Torixoréu,293
-MG,Sudeste,Monte Santo de Minas,292
+RO,Norte,Primavera de Rondônia,293
 SC,Sul,Romelândia,292
+MG,Sudeste,Monte Santo de Minas,292
 SE,Nordeste,Boquim,292
 MG,Sudeste,Santa Rita do Itueto,292
-BA,Nordeste,Itororó,291
-RS,Sul,Bom Jesus,291
 ES,Sudeste,Cariacica,291
 PE,Nordeste,Tacaimbó,291
-GO,Centro-Oeste,Bonópolis,291
 CE,Nordeste,Pindoretama,291
+BA,Nordeste,Itororó,291
+GO,Centro-Oeste,Bonópolis,291
+RS,Sul,Bom Jesus,291
 MT,Centro-Oeste,Dom Aquino,291
-MG,Sudeste,Cachoeira de Minas,290
 RS,Sul,Redentora,290
+MG,Sudeste,Cachoeira de Minas,290
 GO,Centro-Oeste,Iporá,290
+SP,Sudeste,Jambeiro,289
 MG,Sudeste,Santa Fé de Minas,289
 PB,Nordeste,Baía da Traição,289
-MG,Sudeste,Campanha,289
 PR,Sul,Mallet,289
-SP,Sudeste,Jambeiro,289
-SC,Sul,Santa Cecília,288
+MG,Sudeste,Campanha,289
 PR,Sul,Guaraniaçu,288
+GO,Centro-Oeste,Divinópolis de Goiás,288
 PR,Sul,Wenceslau Braz,288
 RN,Nordeste,Rodolfo Fernandes,288
-GO,Centro-Oeste,Divinópolis de Goiás,288
+SC,Sul,Santa Cecília,288
 PR,Sul,Teixeira Soares,287
+MG,Sudeste,Rio Espera,287
 CE,Nordeste,Ararendá,287
 PI,Nordeste,Lagoa de São Francisco,287
-MG,Sudeste,Rio Espera,287
+MG,Sudeste,Guidoval,286
 MG,Sudeste,Bom Jardim de Minas,286
-RN,Nordeste,Jardim de Piranhas,286
 MG,Sudeste,Itapagipe,286
+RN,Nordeste,Jardim de Piranhas,286
 MA,Nordeste,Cedral,286
 BA,Nordeste,Catolândia,286
-MG,Sudeste,Guidoval,286
 RJ,Sudeste,Santa Maria Madalena,285
 MG,Sudeste,Areado,285
 RS,Sul,São Miguel das Missões,285
 MS,Centro-Oeste,Anastácio,285
+SC,Sul,Camboriú,284
 CE,Nordeste,Potengi,284
 MG,Sudeste,Córrego Danta,284
-SP,Sudeste,Araçariguama,284
 PI,Nordeste,São João da Canabrava,284
-SC,Sul,Camboriú,284
+SP,Sudeste,Araçariguama,284
 RS,Sul,Santo Antônio das Missões,284
-PB,Nordeste,Mamanguape,283
 PR,Sul,Santo Antônio da Platina,283
-RN,Nordeste,Pedro Avelino,282
+PB,Nordeste,Mamanguape,283
 RN,Nordeste,São Miguel,282
 TO,Norte,Angico,282
-BA,Nordeste,Itapetinga,281
+RN,Nordeste,Pedro Avelino,282
 MG,Sudeste,Pratinha,281
+MG,Sudeste,Piedade dos Gerais,281
+BA,Nordeste,Itapetinga,281
 SP,Sudeste,Ribeira,281
 BA,Nordeste,Mascote,281
-MG,Sudeste,Piedade dos Gerais,281
 PB,Nordeste,Itabaiana,280
 SP,Sudeste,Teodoro Sampaio,280
+MG,Sudeste,Jacuí,280
 MG,Sudeste,Barão de Monte Alto,280
 PR,Sul,Morretes,280
-MG,Sudeste,Jacuí,280
-RS,Sul,Cerrito,279
+MG,Sudeste,Itajubá,279
+MT,Centro-Oeste,Diamantino,279
 BA,Nordeste,Ichu,279
+RS,Sul,Cerrito,279
 RS,Sul,Miraguaí,279
 GO,Centro-Oeste,Petrolina de Goiás,279
-MT,Centro-Oeste,Diamantino,279
-MG,Sudeste,Itajubá,279
-RN,Nordeste,Vera Cruz,278
+TO,Norte,Buriti do Tocantins,278
 MG,Sudeste,São João Nepomuceno,278
+RJ,Sudeste,Natividade,278
 TO,Norte,São Sebastião do Tocantins,278
+RN,Nordeste,Vera Cruz,278
 ES,Sudeste,Apiacá,278
 PE,Nordeste,Buenos Aires,278
-RJ,Sudeste,Natividade,278
-TO,Norte,Buriti do Tocantins,278
-BA,Nordeste,Vereda,277
-CE,Nordeste,Ererê,277
 RS,Sul,Arroio do Tigre,277
-PI,Nordeste,Lagoinha do Piauí,277
 MG,Sudeste,Desterro de Entre Rios,277
+PI,Nordeste,São Félix do Piauí,277
+CE,Nordeste,Ererê,277
 MG,Sudeste,Delfinópolis,277
+PI,Nordeste,Lagoinha do Piauí,277
+BA,Nordeste,Vereda,277
 GO,Centro-Oeste,São Luís de Montes Belos,276
-PI,Nordeste,São Félix do Piauí,276
 PR,Sul,Cascavel,276
 MT,Centro-Oeste,Pontal do Araguaia,275
-RN,Nordeste,Monte Alegre,275
 CE,Nordeste,Jaguaribara,275
+RN,Nordeste,Monte Alegre,275
+GO,Centro-Oeste,Nova Roma,274
+MG,Sudeste,Piau,274
+RS,Sul,Uruguaiana,274
+TO,Norte,Pau Darco,274
+MA,Nordeste,Davinópolis,274
+GO,Centro-Oeste,Alvorada do Norte,274
+PE,Nordeste,Cabrobó,274
+MG,Sudeste,Crucilândia,274
 MG,Sudeste,Felício dos Santos,274
 TO,Norte,Cariri do Tocantins,274
-RS,Sul,Uruguaiana,274
-GO,Centro-Oeste,Nova Roma,274
-GO,Centro-Oeste,Alvorada do Norte,274
-MG,Sudeste,Piau,274
-MG,Sudeste,Crucilândia,274
-MA,Nordeste,Davinópolis,274
-TO,Norte,Pau Darco,274
-PE,Nordeste,Cabrobó,274
-BA,Nordeste,Santa Inês,274
-MG,Sudeste,São Sebastião do Oeste,273
 SC,Sul,Otacílio Costa,273
+MG,Sudeste,São Sebastião do Oeste,273
 BA,Nordeste,Barra do Rocha,273
-MG,Sudeste,Pedralva,272
-MG,Sudeste,Uruana de Minas,272
 MG,Sudeste,São Gonçalo do Sapucaí,272
+MG,Sudeste,Uruana de Minas,272
+MG,Sudeste,Pedralva,272
 PI,Nordeste,Agricolândia,271
+PI,Nordeste,Santa Cruz do Piauí,271
 PE,Nordeste,Maraial,271
 MG,Sudeste,Luz,271
-PI,Nordeste,Santa Cruz do Piauí,271
-GO,Centro-Oeste,Santo Antônio do Descoberto,270
 MG,Sudeste,Delfim Moreira,270
-BA,Nordeste,São Félix,270
+GO,Centro-Oeste,Santo Antônio do Descoberto,270
 TO,Norte,Muricilândia,270
 MG,Sudeste,Materlândia,270
+BA,Nordeste,São Félix,270
 CE,Nordeste,Iracema,269
-SC,Sul,Três Barras,269
+RS,Sul,Formigueiro,269
 MG,Sudeste,Piraúba,269
 SP,Sudeste,Mairinque,269
-RS,Sul,Formigueiro,269
-MG,Sudeste,São Domingos das Dores,269
+SC,Sul,Três Barras,269
 SE,Nordeste,Nossa Senhora de Lourdes,269
 RN,Nordeste,Areia Branca,269
-BA,Nordeste,Itiruçu,268
-SE,Nordeste,Cumbe,268
-PB,Nordeste,Maturéia,268
-TO,Norte,Bom Jesus do Tocantins,268
-MG,Sudeste,Bias Fortes,268
-PB,Nordeste,São Domingos de Pombal,268
-SC,Sul,Campo Erê,268
+MG,Sudeste,São Domingos das Dores,269
 SC,Sul,São José do Cedro,268
+TO,Norte,Bom Jesus do Tocantins,268
+BA,Nordeste,Itiruçu,268
+PB,Nordeste,Maturéia,268
 MG,Sudeste,Augusto de Lima,268
+PB,Nordeste,São Domingos de Pombal,268
+MG,Sudeste,Bias Fortes,268
+SE,Nordeste,Cumbe,268
+SC,Sul,Campo Erê,268
+MG,Sudeste,Dom Bosco,267
 PI,Nordeste,Marcos Parente,267
-MG,Sudeste,São Pedro da União,267
-GO,Centro-Oeste,Formoso,267
+MG,Sudeste,São Gotardo,267
+PR,Sul,Santo Antônio do Sudoeste,267
 PR,Sul,Sengés,267
 GO,Centro-Oeste,Colinas do Sul,267
+MG,Sudeste,São Pedro da União,267
 BA,Nordeste,Maiquinique,267
+GO,Centro-Oeste,Formoso,267
 PE,Nordeste,Venturosa,267
-PR,Sul,Santo Antônio do Sudoeste,267
 BA,Nordeste,Jussiape,267
-MG,Sudeste,São Gotardo,267
-MG,Sudeste,Dom Bosco,267
+SP,Sudeste,Rancharia,266
 SP,Sudeste,Bananal,266
 MG,Sudeste,Araxá,266
-SP,Sudeste,Rancharia,266
 RN,Nordeste,Lajes,265
-PE,Nordeste,Santa Terezinha,265
 MG,Sudeste,Novorizonte,265
+PE,Nordeste,Santa Terezinha,265
 SC,Sul,Lebon Régis,265
 MG,Sudeste,Presidente Juscelino,264
-RN,Nordeste,Tenente Ananias,263
 MG,Sudeste,Coqueiral,263
-GO,Centro-Oeste,Guarinos,262
-TO,Norte,Porto Alegre do Tocantins,262
+RN,Nordeste,Tenente Ananias,263
 MA,Nordeste,São Raimundo do Doca Bezerra,262
-SC,Sul,Seara,261
-RS,Sul,Tavares,261
+TO,Norte,Porto Alegre do Tocantins,262
+GO,Centro-Oeste,Guarinos,262
 TO,Norte,Lajeado,261
+RS,Sul,Tavares,261
+SC,Sul,Seara,261
 MG,Sudeste,Itamonte,261
+RS,Sul,Paverama,260
 PI,Nordeste,Canavieira,260
 MG,Sudeste,São Gonçalo do Pará,260
-RJ,Sudeste,Conceição de Macabu,260
 PB,Nordeste,Barra de São Miguel,260
+RJ,Sudeste,Conceição de Macabu,260
 RS,Sul,Mampituba,260
 CE,Nordeste,Varjota,260
-RS,Sul,Paverama,260
-CE,Nordeste,Barreira,259
-RS,Sul,Jaguari,259
-MG,Sudeste,Catuti,259
-RS,Sul,Morro Redondo,259
 TO,Norte,Nova Rosalândia,259
+CE,Nordeste,Barreira,259
+RS,Sul,Morro Redondo,259
+MG,Sudeste,Catuti,259
+RS,Sul,Jaguari,259
 RS,Sul,Três Cachoeiras,259
 SP,Sudeste,Cananéia,258
 PR,Sul,Siqueira Campos,258
-SP,Sudeste,Itanhaém,258
 TO,Norte,Taipas do Tocantins,258
+SP,Sudeste,Itanhaém,258
 TO,Norte,Talismã,257
+MA,Nordeste,São José dos Basílios,257
 MG,Sudeste,Amparo do Serra,257
-SC,Sul,Itá,257
-CE,Nordeste,Morrinhos,257
 MA,Nordeste,São Pedro da Água Branca,257
-AL,Nordeste,Anadia,256
-PI,Nordeste,Água Branca,256
-RN,Nordeste,Equador,256
-SE,Nordeste,Barra dos Coqueiros,256
-PE,Nordeste,São Vicente Ferrer,256
-MS,Centro-Oeste,Selvíria,256
+CE,Nordeste,Morrinhos,257
+SC,Sul,Itá,257
 MT,Centro-Oeste,União do Sul,256
 PB,Nordeste,Ibiara,256
-SC,Sul,Ituporanga,256
+RN,Nordeste,Equador,256
 RS,Sul,Jaguarão,256
+AL,Nordeste,Anadia,256
+PE,Nordeste,São Vicente Ferrer,256
+PI,Nordeste,Água Branca,256
+MS,Centro-Oeste,Selvíria,256
+SE,Nordeste,Barra dos Coqueiros,256
 PB,Nordeste,Riacho dos Cavalos,256
+SC,Sul,Ituporanga,256
+RJ,Sudeste,São José do Vale do Rio Preto,255
+PE,Nordeste,São José da Coroa Grande,255
+GO,Centro-Oeste,Fazenda Nova,255
 PB,Nordeste,Guarabira,255
 MG,Sudeste,Varginha,255
-PE,Nordeste,São José da Coroa Grande,255
-RJ,Sudeste,São José do Vale do Rio Preto,255
-RS,Sul,Capão do Cipó,255
-PI,Nordeste,São João da Varjota,255
-GO,Centro-Oeste,Fazenda Nova,255
 SC,Sul,Ipumirim,255
 PE,Nordeste,Arcoverde,255
-RO,Norte,Cerejeiras,254
-MA,Nordeste,São José dos Basílios,254
-RJ,Sudeste,Tanguá,254
-MG,Sudeste,Nanuque,254
-CE,Nordeste,Pacujá,254
+PI,Nordeste,São João da Varjota,255
+RS,Sul,Capão do Cipó,255
 MG,Sudeste,Recreio,254
+CE,Nordeste,Pacujá,254
+MG,Sudeste,Nanuque,254
+RJ,Sudeste,Tanguá,254
 GO,Centro-Oeste,Pilar de Goiás,254
 GO,Centro-Oeste,Iaciara,254
 RJ,Sudeste,Duas Barras,254
-RS,Sul,Restinga Seca,253
-SP,Sudeste,Taquarivaí,253
-MG,Sudeste,São Francisco do Glória,253
-SP,Sudeste,Taquarituba,253
-PI,Nordeste,Francinópolis,253
+RO,Norte,Cerejeiras,254
 PI,Nordeste,Jardim do Mulato,253
-SP,Sudeste,Santo Antônio do Pinhal,253
+PI,Nordeste,Francinópolis,253
+SP,Sudeste,Taquarituba,253
 RS,Sul,Vale Verde,253
-PI,Nordeste,Aroeiras do Itaim,252
-MG,Sudeste,Santa Maria do Salto,252
-MG,Sudeste,Jequitibá,252
+RS,Sul,Restinga Seca,253
+PI,Nordeste,Aroeiras do Itaim,253
+MG,Sudeste,São Francisco do Glória,253
+SP,Sudeste,Santo Antônio do Pinhal,253
+SP,Sudeste,Taquarivaí,253
+MG,Sudeste,Pirapetinga,252
 RS,Sul,Mariana Pimentel,252
 PR,Sul,Renascença,252
-MG,Sudeste,Pirapetinga,252
-SC,Sul,Taió,251
+MG,Sudeste,Jequitibá,252
+MG,Sudeste,Santa Maria do Salto,252
 MG,Sudeste,Silvianópolis,251
 PE,Nordeste,Lagoa do Ouro,251
-MG,Sudeste,Bertópolis,250
-GO,Centro-Oeste,Alto Paraíso de Goiás,250
-MG,Sudeste,Morro do Pilar,250
+SC,Sul,Taió,251
 MG,Sudeste,Rio Preto,250
+GO,Centro-Oeste,Alto Paraíso de Goiás,250
+MG,Sudeste,Bertópolis,250
 RS,Sul,Alecrim,250
-MS,Centro-Oeste,Taquarussu,249
-SP,Sudeste,Porto Feliz,249
-MG,Sudeste,Bocaina de Minas,249
-PB,Nordeste,Triunfo,249
-SC,Sul,Tubarão,249
+MG,Sudeste,Morro do Pilar,250
 MG,Sudeste,Lagoa da Prata,249
+MG,Sudeste,Bocaina de Minas,249
 MG,Sudeste,Nova Belém,249
 SP,Sudeste,São Sebastião,249
-PE,Nordeste,Itambé,248
-GO,Centro-Oeste,Nova Crixás,248
+SP,Sudeste,Porto Feliz,249
+MS,Centro-Oeste,Taquarussu,249
+SC,Sul,Tubarão,249
+PB,Nordeste,Triunfo,249
 GO,Centro-Oeste,Anápolis,248
-PE,Nordeste,Igarassu,248
 ES,Sudeste,Serra,248
-RN,Nordeste,Almino Afonso,248
-MG,Sudeste,Bonfinópolis de Minas,248
 SC,Sul,Ilhota,248
-TO,Norte,Santa Terezinha do Tocantins,247
-RJ,Sudeste,São José de Ubá,247
-MG,Sudeste,Congonhal,247
-RN,Nordeste,Patu,247
+RN,Nordeste,Almino Afonso,248
+PE,Nordeste,Itambé,248
+PE,Nordeste,Igarassu,248
+GO,Centro-Oeste,Nova Crixás,248
+MG,Sudeste,Bonfinópolis de Minas,248
 MG,Sudeste,Bom Repouso,247
 TO,Norte,Aguiarnópolis,247
-PB,Nordeste,Boqueirão,246
+RJ,Sudeste,São José de Ubá,247
+RN,Nordeste,Patu,247
+MG,Sudeste,Congonhal,247
+TO,Norte,Santa Terezinha do Tocantins,247
 MG,Sudeste,Senador Firmino,246
-MG,Sudeste,Virgínia,245
-PI,Nordeste,Colônia do Piauí,245
+PB,Nordeste,Boqueirão,246
 RS,Sul,Entre-Ijuís,245
-MG,Sudeste,Paraopeba,244
+PI,Nordeste,Colônia do Piauí,245
+MG,Sudeste,Virgínia,245
 RS,Sul,Aceguá,244
+PB,Nordeste,Salgado de São Félix,244
 PB,Nordeste,Santa Inês,244
 RS,Sul,Eldorado do Sul,244
-PB,Nordeste,Salgado de São Félix,244
 GO,Centro-Oeste,Uruana,244
 MG,Sudeste,Maria da Fé,244
-TO,Norte,Dueré,243
-MG,Sudeste,Dores do Turvo,243
-MG,Sudeste,Claraval,243
+MG,Sudeste,Paraopeba,244
 PR,Sul,Piên,243
+MG,Sudeste,Claraval,243
 CE,Nordeste,Deputado Irapuan Pinheiro,243
-MG,Sudeste,Liberdade,242
-GO,Centro-Oeste,Uirapuru,242
+MG,Sudeste,Dores do Turvo,243
+TO,Norte,Dueré,243
 MS,Centro-Oeste,Caracol,242
-BA,Nordeste,Aiquara,241
-MG,Sudeste,Ipuiúna,241
-PE,Nordeste,Cedro,241
-PB,Nordeste,Alagoa Nova,241
+GO,Centro-Oeste,Uirapuru,242
+MG,Sudeste,Liberdade,242
 MG,Sudeste,Capitólio,241
 PB,Nordeste,Junco do Seridó,241
-MA,Nordeste,Lago dos Rodrigues,240
-RN,Nordeste,Porto do Mangue,239
+PB,Nordeste,Alagoa Nova,241
+PE,Nordeste,Cedro,241
+MG,Sudeste,Ipuiúna,241
+BA,Nordeste,Aiquara,241
+MA,Nordeste,Lago dos Rodrigues,241
+PI,Nordeste,Hugo Napoleão,239
 MG,Sudeste,Serra Azul de Minas,239
+RN,Nordeste,Porto do Mangue,239
 PB,Nordeste,Casserengue,239
 RS,Sul,Chuvisca,239
 MG,Sudeste,Nazareno,239
-AM,Norte,Atalaia do Norte,238
-BA,Nordeste,Cravolândia,238
-CE,Nordeste,Palmácia,238
-PI,Nordeste,Hugo Napoleão,238
+MA,Nordeste,Água Doce do Maranhão,239
 RN,Nordeste,Triunfo Potiguar,238
+BA,Nordeste,Cravolândia,238
+AM,Norte,Atalaia do Norte,238
 SP,Sudeste,Itapura,238
-RJ,Sudeste,Laje do Muriaé,237
-SC,Sul,Guaraciaba,237
-MA,Nordeste,Água Doce do Maranhão,237
-MG,Sudeste,Lagoa dos Patos,237
-MG,Sudeste,Itabirito,237
-MG,Sudeste,Itamogi,237
+CE,Nordeste,Palmácia,238
 MG,Sudeste,Soledade de Minas,237
-MT,Centro-Oeste,Itaúba,236
+RJ,Sudeste,Laje do Muriaé,237
+MG,Sudeste,Lagoa dos Patos,237
+MA,Nordeste,Dom Pedro,237
+MG,Sudeste,Itamogi,237
+SC,Sul,Guaraciaba,237
+MG,Sudeste,Itabirito,237
 PR,Sul,Ventania,236
-SP,Sudeste,Cachoeira Paulista,236
 CE,Nordeste,Pacoti,236
+MT,Centro-Oeste,Itaúba,236
+SP,Sudeste,Cachoeira Paulista,236
 MG,Sudeste,Santa Rita de Ibitipoca,235
-PI,Nordeste,Santo Antônio de Lisboa,235
+RN,Nordeste,Parelhas,235
+MG,Sudeste,Morada Nova de Minas,235
 SC,Sul,Saltinho,235
 RN,Nordeste,Bodó,235
 GO,Centro-Oeste,Hidrolândia,235
-RN,Nordeste,Parelhas,235
-MG,Sudeste,Morada Nova de Minas,235
+PI,Nordeste,São Miguel da Baixa Grande,235
+PI,Nordeste,Santo Antônio de Lisboa,235
+MT,Centro-Oeste,Arenápolis,234
+SC,Sul,Anchieta,234
 MG,Sudeste,Sapucaí-Mirim,234
 GO,Centro-Oeste,Serranópolis,234
-SC,Sul,Anchieta,234
-MT,Centro-Oeste,Arenápolis,234
-MA,Nordeste,Dom Pedro,234
-PI,Nordeste,São Miguel da Baixa Grande,233
-MG,Sudeste,Cônego Marinho,233
 MG,Sudeste,Mendes Pimentel,233
 MG,Sudeste,Camacho,233
+MG,Sudeste,Cônego Marinho,233
 PE,Nordeste,Orocó,233
+GO,Centro-Oeste,Santa Rita do Novo Destino,232
+TO,Norte,Novo Acordo,232
+MG,Sudeste,Santa Helena de Minas,232
 MG,Sudeste,Cajuri,232
+TO,Norte,Aurora do Tocantins,232
 SP,Sudeste,Restinga,232
 MT,Centro-Oeste,Curvelândia,232
-TO,Norte,Novo Acordo,232
-GO,Centro-Oeste,Santa Rita do Novo Destino,232
-MG,Sudeste,Santa Helena de Minas,232
 MG,Sudeste,Iapu,232
-TO,Norte,Aurora do Tocantins,232
-MG,Sudeste,Gameleiras,231
+GO,Centro-Oeste,Baliza,231
+MT,Centro-Oeste,Jauru,231
+RN,Nordeste,Lagoa Salgada,231
 MG,Sudeste,Miraí,231
 MT,Centro-Oeste,Reserva do Cabaçal,231
 MG,Sudeste,Tapiraí,231
-GO,Centro-Oeste,Baliza,231
-RN,Nordeste,Lagoa Salgada,231
-MT,Centro-Oeste,Jauru,231
-MG,Sudeste,Carvalhos,230
-PE,Nordeste,Casinhas,230
+MG,Sudeste,Gameleiras,231
+MG,Sudeste,Pocrane,230
 MG,Sudeste,Inconfidentes,230
 MG,Sudeste,São Sebastião do Anta,230
-MG,Sudeste,Pocrane,230
-SP,Sudeste,São Roque,229
-MG,Sudeste,Pouso Alto,229
-MG,Sudeste,Turvolândia,229
+PE,Nordeste,Casinhas,230
+MG,Sudeste,Carvalhos,230
 RS,Sul,Taquara,229
+MG,Sudeste,Turvolândia,229
+MG,Sudeste,Pouso Alto,229
+SP,Sudeste,São Roque,229
 MG,Sudeste,Santa Bárbara do Monte Verde,228
 SE,Nordeste,Rosário do Catete,228
-MG,Sudeste,Joaquim Felício,228
-AL,Nordeste,Barra de São Miguel,228
 TO,Norte,Santa Tereza do Tocantins,228
+AL,Nordeste,Barra de São Miguel,228
 SE,Nordeste,Macambira,228
-PE,Nordeste,Brejão,227
+MG,Sudeste,Joaquim Felício,228
+GO,Centro-Oeste,Mimoso de Goiás,227
 RJ,Sudeste,Miracema,227
 PI,Nordeste,Sussuapara,227
-GO,Centro-Oeste,Mimoso de Goiás,227
-MG,Sudeste,Jeceaba,226
+PE,Nordeste,Brejão,227
+CE,Nordeste,Pires Ferreira,226
 MG,Sudeste,Senador Amaral,226
 MG,Sudeste,Ibertioga,226
 MG,Sudeste,Conceição do Pará,226
-CE,Nordeste,Pires Ferreira,226
-MG,Sudeste,Nova Serrana,225
-PR,Sul,Paula Freitas,225
+MG,Sudeste,Jeceaba,226
 RN,Nordeste,Senador Elói de Souza,225
+PR,Sul,Paula Freitas,225
 SP,Sudeste,Lorena,225
+MG,Sudeste,Nova Serrana,225
 AL,Nordeste,Olho Dágua Grande,225
 MG,Sudeste,Paineiras,224
-MG,Sudeste,Carangola,224
 SC,Sul,Maravilha,224
-MG,Sudeste,Salto da Divisa,223
+MG,Sudeste,Carangola,224
 PR,Sul,Guaraqueçaba,223
-GO,Centro-Oeste,Carmo do Rio Verde,222
-ES,Sudeste,Ponto Belo,222
+MG,Sudeste,Salto da Divisa,223
 AL,Nordeste,Feliz Deserto,222
-RJ,Sudeste,Valença,222
 SP,Sudeste,Laranjal Paulista,222
+ES,Sudeste,Ponto Belo,222
+RJ,Sudeste,Valença,222
+GO,Centro-Oeste,Carmo do Rio Verde,222
 MT,Centro-Oeste,Lambari Doeste,221
 PE,Nordeste,Frei Miguelinho,221
-RS,Sul,Palmares do Sul,221
 PI,Nordeste,Coivaras,221
 MG,Sudeste,Rio Manso,221
-PE,Nordeste,Verdejante,220
+RS,Sul,Palmares do Sul,221
+SC,Sul,Mondaí,220
 PB,Nordeste,Caraúbas,220
+MG,Sudeste,Toledo,220
+AL,Nordeste,Jundiá,220
 SC,Sul,Faxinal dos Guedes,220
 PR,Sul,Nova Esperança do Sudoeste,220
-AL,Nordeste,Jundiá,220
-MG,Sudeste,Toledo,220
 GO,Centro-Oeste,Leopoldo de Bulhões,220
-SC,Sul,Mondaí,220
+PE,Nordeste,Verdejante,220
+PB,Nordeste,Cajazeirinhas,219
+AL,Nordeste,Pariconha,219
 BA,Nordeste,Acajutiba,219
 MG,Sudeste,Campos Altos,219
-AL,Nordeste,Pariconha,219
-PB,Nordeste,Cajazeirinhas,219
 MG,Sudeste,Mar de Espanha,218
-MG,Sudeste,Perdões,218
 PE,Nordeste,São Caitano,218
+MG,Sudeste,Perdões,218
 MG,Sudeste,Santa Bárbara,218
-MG,Sudeste,Ibiraci,217
 MT,Centro-Oeste,Denise,217
 PE,Nordeste,Jataúba,217
+MG,Sudeste,Ibiraci,217
 CE,Nordeste,Groaíras,217
 RS,Sul,Jari,217
-CE,Nordeste,Ibicuitinga,217
 PI,Nordeste,Aroazes,217
-MG,Sudeste,Conceição do Rio Verde,216
+CE,Nordeste,Ibicuitinga,217
 MG,Sudeste,Lamim,216
-SC,Sul,Palmeira,216
 BA,Nordeste,Itajuípe,216
+MG,Sudeste,Conceição do Rio Verde,216
 GO,Centro-Oeste,Cabeceiras,216
-GO,Centro-Oeste,Doverlândia,215
+SC,Sul,Palmeira,216
+MG,Sudeste,Madre de Deus de Minas,215
+BA,Nordeste,Jussari,215
 MG,Sudeste,Cássia,215
 MG,Sudeste,Francisco Dumont,215
-BA,Nordeste,Jussari,215
-MG,Sudeste,Madre de Deus de Minas,215
-MG,Sudeste,Diogo de Vasconcelos,215
 BA,Nordeste,Firmino Alves,215
+GO,Centro-Oeste,Doverlândia,215
+MG,Sudeste,Diogo de Vasconcelos,215
 RS,Sul,Tabaí,214
 PI,Nordeste,Ribeiro Gonçalves,214
-MG,Sudeste,Paraisópolis,213
-PA,Norte,Abel Figueiredo,213
-SC,Sul,Vargem,213
-PR,Sul,Carambeí,213
 PI,Nordeste,Prata do Piauí,213
-PB,Nordeste,Santa Helena,213
-GO,Centro-Oeste,Mutunópolis,213
 GO,Centro-Oeste,Anicuns,213
-SP,Sudeste,Peruíbe,212
+SC,Sul,Vargem,213
+PA,Norte,Abel Figueiredo,213
+GO,Centro-Oeste,Mutunópolis,213
+MG,Sudeste,Paraisópolis,213
+PB,Nordeste,Santa Helena,213
+PR,Sul,Carambeí,213
 PE,Nordeste,Surubim,212
-PE,Nordeste,Sanharó,212
-MG,Sudeste,Chácara,212
-RN,Nordeste,Serra Negra do Norte,212
 PR,Sul,Rosário do Ivaí,212
-MG,Sudeste,Santo Antônio do Amparo,211
+MG,Sudeste,Chácara,212
+SP,Sudeste,Peruíbe,212
+PE,Nordeste,Sanharó,212
+RN,Nordeste,Serra Negra do Norte,212
 GO,Centro-Oeste,Caçu,211
-MG,Sudeste,Papagaios,211
-SE,Nordeste,Riachuelo,211
-MG,Sudeste,Jenipapo de Minas,211
-MS,Centro-Oeste,Bodoquena,211
-RN,Nordeste,Pedra Grande,211
+MG,Sudeste,Santo Antônio do Amparo,211
 RS,Sul,Morrinhos do Sul,211
+MG,Sudeste,Papagaios,211
+MG,Sudeste,Jenipapo de Minas,211
+RN,Nordeste,Pedra Grande,211
+SE,Nordeste,Riachuelo,211
+MS,Centro-Oeste,Bodoquena,211
+PB,Nordeste,São Sebastião do Umbuzeiro,210
+MG,Sudeste,Mamonas,210
 PB,Nordeste,Tacima,210
 PR,Sul,Contenda,210
 MG,Sudeste,Miravânia,210
 MG,Sudeste,Santo Antônio do Aventureiro,210
-MG,Sudeste,Mamonas,210
-PB,Nordeste,São Sebastião do Umbuzeiro,210
+MG,Sudeste,Cascalho Rico,209
 GO,Centro-Oeste,Jussara,209
 RN,Nordeste,Presidente Juscelino,209
 MG,Sudeste,Tocos do Moji,209
-MG,Sudeste,Cascalho Rico,209
-MG,Sudeste,Perdigão,208
-SC,Sul,Santa Terezinha do Progresso,208
-CE,Nordeste,Antonina do Norte,208
 RS,Sul,Três Forquilhas,208
-MG,Sudeste,Inimutaba,208
 MS,Centro-Oeste,Aparecida do Taboado,208
+MG,Sudeste,Inimutaba,208
 MG,Sudeste,Piedade do Rio Grande,208
+SC,Sul,Santa Terezinha do Progresso,208
+MG,Sudeste,Perdigão,208
+CE,Nordeste,Antonina do Norte,208
+SC,Sul,Frei Rogério,207
 SP,Sudeste,Murutinga do Sul,207
 PE,Nordeste,Correntes,207
-SC,Sul,Frei Rogério,207
-RS,Sul,Palmeira das Missões,206
-MG,Sudeste,Além Paraíba,206
 MG,Sudeste,Guaxupé,206
+MG,Sudeste,Além Paraíba,206
+RS,Sul,Palmeira das Missões,206
 MG,Sudeste,Galiléia,205
 MG,Sudeste,Ponto Chique,205
-MG,Sudeste,Conceição dos Ouros,204
-MS,Centro-Oeste,Jardim,204
-MG,Sudeste,Santa Juliana,204
 RN,Nordeste,São Bento do Trairí,204
+MG,Sudeste,Santa Juliana,204
+MS,Centro-Oeste,Jardim,204
+MG,Sudeste,Conceição dos Ouros,204
+PR,Sul,Campo Magro,203
+MG,Sudeste,Ipaba,203
+MG,Sudeste,Paulistas,203
+PE,Nordeste,Macaparana,203
+PR,Sul,São José da Boa Vista,203
 RJ,Sudeste,Quissamã,203
 RS,Sul,Cruzeiro do Sul,203
-MG,Sudeste,Ipaba,203
-MG,Sudeste,Congonhas,203
-PR,Sul,São José da Boa Vista,203
-MG,Sudeste,Paulistas,203
-PR,Sul,Campo Magro,203
-PE,Nordeste,Macaparana,203
-MG,Sudeste,Berizal,203
 GO,Centro-Oeste,Campos Verdes,203
-PB,Nordeste,Mataraca,202
+MG,Sudeste,Berizal,203
+MG,Sudeste,Congonhas,203
 TO,Norte,Luzinópolis,202
-PE,Nordeste,Chã de Alegria,202
-PB,Nordeste,Algodão de Jandaíra,202
 RN,Nordeste,Bento Fernandes,202
+PE,Nordeste,Chã de Alegria,202
+PB,Nordeste,Mataraca,202
 SC,Sul,Descanso,202
-RS,Sul,Estrela,201
-SE,Nordeste,Brejo Grande,201
+PB,Nordeste,Algodão de Jandaíra,202
 GO,Centro-Oeste,Caldazinha,201
-SC,Sul,Urubici,201
+SE,Nordeste,Brejo Grande,201
 GO,Centro-Oeste,Pontalina,201
 PE,Nordeste,Carnaíba,201
-PI,Nordeste,Bertolínia,200
+SC,Sul,Urubici,201
+RS,Sul,Estrela,201
 MG,Sudeste,Iguatama,200
-RS,Sul,Dilermando de Aguiar,200
-GO,Centro-Oeste,Nova Iguaçu de Goiás,200
-MG,Sudeste,Córrego do Bom Jesus,200
 PR,Sul,Ibaiti,200
-SC,Sul,Bocaina do Sul,200
 MG,Sudeste,Ouro Preto,200
-MG,Sudeste,Tabuleiro,200
+PI,Nordeste,Bertolínia,200
+RS,Sul,Dilermando de Aguiar,200
 RS,Sul,Passa Sete,200
-PA,Norte,Limoeiro do Ajuru,200
-TO,Norte,Cachoeirinha,200
 SC,Sul,Brunópolis,200
+PA,Norte,Limoeiro do Ajuru,200
+SC,Sul,Bocaina do Sul,200
+TO,Norte,Cachoeirinha,200
+GO,Centro-Oeste,Nova Iguaçu de Goiás,200
+MG,Sudeste,Tabuleiro,200
 AM,Norte,Santa Isabel do Rio Negro,200
+MG,Sudeste,Córrego do Bom Jesus,200
+PR,Sul,Porto Barreiro,199
 PB,Nordeste,São José dos Cordeiros,199
 PB,Nordeste,São José do Bonfim,199
 RN,Nordeste,Lagoa Danta,199
-PR,Sul,Porto Barreiro,199
 RS,Sul,São José dos Ausentes,199
 PE,Nordeste,Tabira,198
+MG,Sudeste,Onça de Pitangui,198
+PI,Nordeste,Ribeira do Piauí,198
 RS,Sul,Porto Alegre,198
-RJ,Sudeste,Sumidouro,198
 PE,Nordeste,Machados,198
 PR,Sul,Colombo,198
-MG,Sudeste,Onça de Pitangui,198
 PR,Sul,Carlópolis,198
+PB,Nordeste,Dona Inês,198
 RS,Sul,Espumoso,198
 RS,Sul,Júlio de Castilhos,198
 SP,Sudeste,São Pedro do Turvo,198
-PB,Nordeste,Dona Inês,198
-PI,Nordeste,Ribeira do Piauí,198
+RJ,Sudeste,Sumidouro,198
+SP,Sudeste,Votuporanga,197
 PB,Nordeste,Desterro,197
 GO,Centro-Oeste,Itapaci,197
 MS,Centro-Oeste,Ivinhema,197
-SP,Sudeste,Votuporanga,197
 SP,Sudeste,Riversul,197
+SP,Sudeste,Promissão,196
 TO,Norte,Sucupira,196
 MG,Sudeste,Moeda,196
 PE,Nordeste,Calumbi,196
-SP,Sudeste,Promissão,196
 MG,Sudeste,Dores do Indaiá,196
-PB,Nordeste,Catingueira,196
 MG,Sudeste,Senhora dos Remédios,196
+PB,Nordeste,Catingueira,196
 MG,Sudeste,Aricanduva,195
+PR,Sul,Pato Branco,195
 MG,Sudeste,Luminárias,195
 MG,Sudeste,Patrocínio do Muriaé,195
 MG,Sudeste,Santa Maria de Itabira,195
-PR,Sul,Pato Branco,195
 MG,Sudeste,Mesquita,194
-SC,Sul,São Miguel do Oeste,194
-GO,Centro-Oeste,Campo Alegre de Goiás,194
-MG,Sudeste,Campo do Meio,194
 SC,Sul,Rio do Sul,194
+SC,Sul,São Miguel do Oeste,194
+PB,Nordeste,Lucena,194
 SP,Sudeste,Divinolândia,194
 MG,Sudeste,Estrela do Sul,194
-PB,Nordeste,Lucena,194
-MG,Sudeste,Antônio Dias,193
+GO,Centro-Oeste,Campo Alegre de Goiás,194
+MG,Sudeste,Campo do Meio,194
 MG,Sudeste,Vargem Alegre,193
-TO,Norte,Combinado,193
-PE,Nordeste,Granito,193
 PI,Nordeste,Cajueiro da Praia,193
 RS,Sul,Manoel Viana,193
-GO,Centro-Oeste,Itapirapuã,192
+MG,Sudeste,Antônio Dias,193
+PE,Nordeste,Granito,193
+TO,Norte,Combinado,193
 RS,Sul,Caibaté,192
+GO,Centro-Oeste,Itapirapuã,192
 RS,Sul,Barracão,192
-MG,Sudeste,Glaucilândia,191
+GO,Centro-Oeste,Inhumas,191
+PB,Nordeste,Congo,191
 MT,Centro-Oeste,Campo Novo do Parecis,191
 PE,Nordeste,Jupi,191
-GO,Centro-Oeste,Inhumas,191
-MG,Sudeste,Orizânia,191
 RS,Sul,Palmitinho,191
-PB,Nordeste,Congo,191
+MG,Sudeste,Glaucilândia,191
+MG,Sudeste,Orizânia,191
 PR,Sul,Agudos do Sul,190
-TO,Norte,Ipueiras,190
 CE,Nordeste,São João do Jaguaribe,190
-MG,Sudeste,José Gonçalves de Minas,190
-RN,Nordeste,Itajá,190
+TO,Norte,Ipueiras,190
 GO,Centro-Oeste,Santa Isabel,190
+RN,Nordeste,Itajá,190
+MG,Sudeste,José Gonçalves de Minas,190
 BA,Nordeste,Contendas do Sincorá,190
 PE,Nordeste,Chã Grande,189
+RN,Nordeste,Acari,189
 GO,Centro-Oeste,Araguapaz,189
 RN,Nordeste,Ipanguaçu,189
+MA,Nordeste,Senador Alexandre Costa,189
 MG,Sudeste,Arantina,189
-RN,Nordeste,Acari,189
 SC,Sul,Capão Alto,189
 SC,Sul,Corupá,189
 PI,Nordeste,São Miguel do Fidalgo,189
+AC,Norte,Santa Rosa do Purus,188
 TO,Norte,Fátima,188
-MG,Sudeste,Pedra do Anta,188
-RS,Sul,Tapes,188
-SP,Sudeste,Sarapuí,188
-MS,Centro-Oeste,Mundo Novo,188
-MG,Sudeste,Astolfo Dutra,188
-PB,Nordeste,São Francisco,188
 PI,Nordeste,Ipiranga do Piauí,188
 TO,Norte,Aliança do Tocantins,188
-PR,Sul,Adrianópolis,187
-MG,Sudeste,Dores de Guanhães,187
+MS,Centro-Oeste,Mundo Novo,188
+RS,Sul,Tapes,188
+MG,Sudeste,Astolfo Dutra,188
+SP,Sudeste,Sarapuí,188
+MG,Sudeste,Pedra do Anta,188
+PB,Nordeste,São Francisco,188
 RN,Nordeste,Jardim de Angicos,187
 MG,Sudeste,Biquinhas,187
+MG,Sudeste,Dores de Guanhães,187
 PE,Nordeste,Altinho,187
-PB,Nordeste,Itapororoca,187
 SC,Sul,Riqueza,187
+PB,Nordeste,Itapororoca,187
+PE,Nordeste,Ilha de Itamaracá,187
 PB,Nordeste,Nova Palmeira,187
 MG,Sudeste,Maravilhas,187
 MG,Sudeste,Santa Cruz do Escalvado,187
-PE,Nordeste,Ilha de Itamaracá,187
-SC,Sul,Bom Retiro,186
-MG,Sudeste,Conceição da Barra de Minas,186
-MG,Sudeste,Juramento,186
-TO,Norte,Alvorada,186
-PI,Nordeste,Santana do Piauí,186
-CE,Nordeste,Baixio,186
+PR,Sul,Adrianópolis,187
 RJ,Sudeste,Casimiro de Abreu,186
-BA,Nordeste,Milagres,185
+PI,Nordeste,Santana do Piauí,186
+MG,Sudeste,Juramento,186
+MG,Sudeste,Conceição da Barra de Minas,186
+CE,Nordeste,Baixio,186
+SC,Sul,Bom Retiro,186
+TO,Norte,Alvorada,186
+MG,Sudeste,Cana Verde,185
 PR,Sul,Almirante Tamandaré,185
 GO,Centro-Oeste,Caldas Novas,185
-RN,Nordeste,Arês,185
-RN,Nordeste,Serrinha dos Pintos,185
-MG,Sudeste,Cana Verde,185
 MG,Sudeste,Engenheiro Navarro,185
 PB,Nordeste,Amparo,185
-MA,Nordeste,Senador Alexandre Costa,185
+BA,Nordeste,Milagres,185
+RN,Nordeste,Arês,185
+RN,Nordeste,Serrinha dos Pintos,185
 SP,Sudeste,Avaré,185
-MS,Centro-Oeste,Angélica,184
-PB,Nordeste,Nazarezinho,184
 SC,Sul,Joinville,184
-MG,Sudeste,Natalândia,184
-MS,Centro-Oeste,Rio Negro,184
-PI,Nordeste,Santo Inácio do Piauí,184
-SP,Sudeste,Pedro de Toledo,184
 PB,Nordeste,Brejo do Cruz,184
+MG,Sudeste,Natalândia,184
+PI,Nordeste,Santo Inácio do Piauí,184
 TO,Norte,Centenário,184
-MG,Sudeste,Leme do Prado,183
+SP,Sudeste,Pedro de Toledo,184
+PB,Nordeste,Nazarezinho,184
+MS,Centro-Oeste,Rio Negro,184
+MS,Centro-Oeste,Angélica,184
 PR,Sul,Bocaiúva do Sul,183
-SC,Sul,Abdon Batista,183
 SP,Sudeste,Mirandópolis,183
-PR,Sul,Espigão Alto do Iguaçu,183
 RJ,Sudeste,Magé,183
-MG,Sudeste,Iraí de Minas,183
+MG,Sudeste,Leme do Prado,183
 RS,Sul,Garruchos,183
-GO,Centro-Oeste,Alexânia,182
-TO,Norte,Colinas do Tocantins,182
-PE,Nordeste,Brejinho,182
-PR,Sul,Marmeleiro,182
+SC,Sul,Abdon Batista,183
+MG,Sudeste,Iraí de Minas,183
+PR,Sul,Espigão Alto do Iguaçu,183
 GO,Centro-Oeste,Ipiranga de Goiás,182
-MG,Sudeste,Itaú de Minas,182
 MG,Sudeste,Santana do Paraíso,182
-PB,Nordeste,Itatuba,182
+GO,Centro-Oeste,Alexânia,182
+PE,Nordeste,Brejinho,182
+TO,Norte,Colinas do Tocantins,182
+PR,Sul,Marmeleiro,182
 MG,Sudeste,Pirapora,182
-MG,Sudeste,São José do Divino,181
+PB,Nordeste,Itatuba,182
+MG,Sudeste,Itaú de Minas,182
 PR,Sul,Catanduvas,181
+PB,Nordeste,São João do Rio do Peixe,181
 RS,Sul,Bom Retiro do Sul,181
-MT,Centro-Oeste,Sapezal,181
+MG,Sudeste,São José do Divino,181
 PR,Sul,Tunas do Paraná,181
 MG,Sudeste,Indianópolis,181
-PB,Nordeste,São João do Rio do Peixe,181
-CE,Nordeste,Guaramiranga,180
+MT,Centro-Oeste,Sapezal,181
 SP,Sudeste,Caiuá,180
 MG,Sudeste,Tombos,180
 MT,Centro-Oeste,Lucas do Rio Verde,180
+CE,Nordeste,Guaramiranga,180
 MG,Sudeste,Varjão de Minas,179
 MG,Sudeste,Machacalis,179
 RS,Sul,São Sebastião do Caí,179
 PB,Nordeste,Nova Olinda,179
 MG,Sudeste,Santa Rosa da Serra,179
-MG,Sudeste,Carrancas,178
-MG,Sudeste,Aiuruoca,178
 BA,Nordeste,Teodoro Sampaio,178
-SP,Sudeste,Biritiba-Mirim,178
-SP,Sudeste,Cerquilho,178
 PR,Sul,Pinhalão,178
-PR,Sul,Três Barras do Paraná,178
-PE,Nordeste,Jatobá,178
 AL,Nordeste,Teotônio Vilela,178
-RS,Sul,Jaboticaba,177
-MG,Sudeste,Fortaleza de Minas,177
+PR,Sul,Três Barras do Paraná,178
+SP,Sudeste,Cerquilho,178
+PE,Nordeste,Jatobá,178
+SP,Sudeste,Biritiba-Mirim,178
+MG,Sudeste,Aiuruoca,178
+MG,Sudeste,Carrancas,178
 SC,Sul,Presidente Getúlio,177
-CE,Nordeste,Granjeiro,177
 RJ,Sudeste,Resende,177
+MG,Sudeste,Fortaleza de Minas,177
+CE,Nordeste,Granjeiro,177
+SC,Sul,Fraiburgo,177
 ES,Sudeste,Vila Velha,177
+RS,Sul,Jaboticaba,177
 PB,Nordeste,Nova Floresta,177
 MG,Sudeste,São Sebastião da Vargem Alegre,177
-SC,Sul,Fraiburgo,177
-GO,Centro-Oeste,Montes Claros de Goiás,176
-SC,Sul,Xavantina,176
-AL,Nordeste,Pindoba,176
-TO,Norte,Chapada de Areia,176
-SC,Sul,Petrolândia,176
-PB,Nordeste,Sossêgo,176
 TO,Norte,Arapoema,176
-PR,Sul,Iretama,175
-RN,Nordeste,Lagoa de Pedras,175
+SC,Sul,Xavantina,176
+PB,Nordeste,Sossêgo,176
+AL,Nordeste,Pindoba,176
+GO,Centro-Oeste,Montes Claros de Goiás,176
+SC,Sul,Petrolândia,176
+TO,Norte,Chapada de Areia,176
 SC,Sul,Xaxim,175
 MT,Centro-Oeste,Santa Carmem,175
+PR,Sul,Iretama,175
+RN,Nordeste,Lagoa de Pedras,175
 RN,Nordeste,Ouro Branco,175
-SC,Sul,Imbuia,174
-MG,Sudeste,Cambuquira,174
-MG,Sudeste,Coroaci,174
-PB,Nordeste,Boa Ventura,174
-PR,Sul,Coronel Vivida,174
-RN,Nordeste,Serra de São Bento,174
-SC,Sul,Vidal Ramos,174
-SP,Sudeste,Iporanga,174
 SP,Sudeste,Guaraçaí,174
+SC,Sul,Imbuia,174
 MG,Sudeste,Pratápolis,174
 MG,Sudeste,Jesuânia,174
-MT,Centro-Oeste,Glória Doeste,173
+PR,Sul,Coronel Vivida,174
+SC,Sul,Vidal Ramos,174
+RN,Nordeste,Serra de São Bento,174
+MG,Sudeste,Coroaci,174
+PB,Nordeste,Boa Ventura,174
+SP,Sudeste,Iporanga,174
+MG,Sudeste,Cambuquira,174
+PE,Nordeste,Cachoeirinha,173
 RS,Sul,Charrua,173
 GO,Centro-Oeste,Paraúna,173
 PB,Nordeste,Bonito de Santa Fé,173
-PE,Nordeste,Cachoeirinha,173
 MG,Sudeste,Aguanil,173
+MT,Centro-Oeste,Glória Doeste,173
 RN,Nordeste,Parazinho,172
-MG,Sudeste,São Tomás de Aquino,172
-MG,Sudeste,Inhaúma,172
-MG,Sudeste,Conceição de Ipanema,172
 SC,Sul,Guaramirim,172
+MG,Sudeste,Conceição de Ipanema,172
 MG,Sudeste,Vargem Bonita,172
+MG,Sudeste,Inhaúma,172
+MG,Sudeste,São Tomás de Aquino,172
 RS,Sul,São Luiz Gonzaga,171
-TO,Norte,Tupirama,171
-PE,Nordeste,Calçado,171
-PB,Nordeste,Condado,171
-GO,Centro-Oeste,Ceres,171
-MG,Sudeste,Barra Longa,171
-MS,Centro-Oeste,Guia Lopes da Laguna,171
 SP,Sudeste,Fartura,171
+MG,Sudeste,Barra Longa,171
+PE,Nordeste,Calçado,171
+GO,Centro-Oeste,Ceres,171
+MS,Centro-Oeste,Guia Lopes da Laguna,171
+TO,Norte,Tupirama,171
+PB,Nordeste,Condado,171
 MG,Sudeste,Cabeceira Grande,170
-PE,Nordeste,Orobó,170
-SC,Sul,Iporã do Oeste,170
 PB,Nordeste,São José do Sabugi,170
+SC,Sul,Iporã do Oeste,170
 MG,Sudeste,Bom Jesus da Penha,170
 SC,Sul,Ponte Alta,170
-MT,Centro-Oeste,Figueirópolis Doeste,169
-TO,Norte,Lavandeira,169
-PE,Nordeste,Bezerros,169
-RN,Nordeste,Luís Gomes,169
-SP,Sudeste,Suzanápolis,169
+PE,Nordeste,Orobó,170
 PE,Nordeste,Ingazeira,169
+TO,Norte,Lavandeira,169
+MT,Centro-Oeste,Figueirópolis Doeste,169
+PE,Nordeste,Bezerros,169
+SP,Sudeste,Suzanápolis,169
+RN,Nordeste,Luís Gomes,169
 RS,Sul,Três de Maio,169
 SC,Sul,Rio do Campo,168
-SP,Sudeste,Pereira Barreto,168
-PB,Nordeste,Alagoinha,168
-MT,Centro-Oeste,Alto Garças,168
-SP,Sudeste,Andradina,168
 RS,Sul,Crissiumal,168
 MG,Sudeste,Antônio Carlos,168
-RS,Sul,Ibarama,167
+SP,Sudeste,Andradina,168
+PB,Nordeste,Alagoinha,168
+MT,Centro-Oeste,Alto Garças,168
+SP,Sudeste,Pereira Barreto,168
 MG,Sudeste,São José da Barra,167
-RS,Sul,Vitória das Missões,167
-MG,Sudeste,Sem-Peixe,167
-MG,Sudeste,Descoberto,167
-GO,Centro-Oeste,Itumbiara,167
-SC,Sul,São Lourenço do Oeste,167
 SP,Sudeste,Bom Sucesso de Itararé,167
-PR,Sul,Nova Cantu,166
-SP,Sudeste,Sumaré,166
+RS,Sul,Ibarama,167
+RS,Sul,Vitória das Missões,167
+MG,Sudeste,Descoberto,167
+SC,Sul,São Lourenço do Oeste,167
+GO,Centro-Oeste,Itumbiara,167
+MG,Sudeste,Sem-Peixe,167
 MG,Sudeste,Passa-Vinte,166
-PB,Nordeste,Umbuzeiro,166
+PR,Sul,Nova Cantu,166
 PB,Nordeste,Fagundes,166
-PR,Sul,São João,165
+PB,Nordeste,Umbuzeiro,166
+SP,Sudeste,Sumaré,166
 RS,Sul,Giruá,165
+TO,Norte,São Félix do Tocantins,165
+RS,Sul,Rolante,165
+SC,Sul,Ponte Serrada,165
 RS,Sul,Iraí,165
 PR,Sul,Apucarana,165
-SC,Sul,Ponte Serrada,165
-RS,Sul,Rolante,165
-TO,Norte,São Félix do Tocantins,165
-SC,Sul,Monte Carlo,164
+PR,Sul,São João,165
 RJ,Sudeste,Aperibé,164
-SC,Sul,Arabutã,164
-RJ,Sudeste,Petrópolis,164
+PB,Nordeste,Livramento,164
 SP,Sudeste,Pinhalzinho,164
 PB,Nordeste,Boa Vista,164
-PB,Nordeste,Livramento,164
+SC,Sul,Monte Carlo,164
+SC,Sul,Arabutã,164
+RJ,Sudeste,Petrópolis,164
+MS,Centro-Oeste,Sonora,163
 RN,Nordeste,Bom Jesus,163
 SC,Sul,Calmon,163
-MS,Centro-Oeste,Sonora,163
-GO,Centro-Oeste,Hidrolina,162
 BA,Nordeste,Dom Macedo Costa,162
-PE,Nordeste,Lajedo,162
-MG,Sudeste,Entre Folhas,162
-RS,Sul,Alpestre,162
-SC,Sul,Capinzal,162
 SC,Sul,Painel,162
 PE,Nordeste,Terra Nova,162
-MT,Centro-Oeste,Nova Santa Helena,161
-PB,Nordeste,Cabaceiras,161
-MS,Centro-Oeste,Glória de Dourados,161
-PR,Sul,Guaratuba,161
+SC,Sul,Capinzal,162
+MG,Sudeste,Entre Folhas,162
+GO,Centro-Oeste,Hidrolina,162
+PE,Nordeste,Lajedo,162
+RS,Sul,Alpestre,162
 MG,Sudeste,Jacutinga,161
 RS,Sul,São Nicolau,161
 SE,Nordeste,Siriri,161
+MS,Centro-Oeste,Glória de Dourados,161
+PB,Nordeste,Cabaceiras,161
+MT,Centro-Oeste,Nova Santa Helena,161
+PR,Sul,Guaratuba,161
+PR,Sul,Realeza,160
 PB,Nordeste,Mulungu,160
 GO,Centro-Oeste,Amorinópolis,160
-PR,Sul,Realeza,160
-SC,Sul,Aurora,159
 RS,Sul,Jacuizinho,159
+MG,Sudeste,Arapuá,159
 SP,Sudeste,Santa Cruz do Rio Pardo,159
 RS,Sul,Monte Alegre dos Campos,159
-MG,Sudeste,Arapuá,159
-MG,Sudeste,Ipanema,158
+SC,Sul,Aurora,159
+MG,Sudeste,Ritápolis,158
 MG,Sudeste,Catas Altas da Noruega,158
 PB,Nordeste,Cuité de Mamanguape,158
-MG,Sudeste,Ritápolis,158
-RS,Sul,Barra do Ribeiro,157
-RN,Nordeste,Severiano Melo,157
+MG,Sudeste,Ipanema,158
 MT,Centro-Oeste,Araputanga,157
 MG,Sudeste,Rio Piracicaba,157
+RN,Nordeste,Severiano Melo,157
 TO,Norte,Itaporã do Tocantins,157
-PR,Sul,Enéas Marques,156
+RS,Sul,Barra do Ribeiro,157
 CE,Nordeste,Alcântaras,156
+PR,Sul,Enéas Marques,156
 MT,Centro-Oeste,Vale de São Domingos,156
 PE,Nordeste,Poção,156
+MG,Sudeste,Jampruca,155
 MG,Sudeste,José Raydan,155
 MG,Sudeste,Guimarânia,155
-ES,Sudeste,Pedro Canário,155
 MG,Sudeste,Guarani,155
 PE,Nordeste,Sairé,155
-MG,Sudeste,Jampruca,155
-MG,Sudeste,Piranguinho,154
+ES,Sudeste,Pedro Canário,155
+SP,Sudeste,Jundiaí,154
 MG,Sudeste,Nova União,154
 PR,Sul,Balsa Nova,154
-SP,Sudeste,Jundiaí,154
-SC,Sul,Lontras,153
-MG,Sudeste,Virginópolis,153
-PR,Sul,Matelândia,153
+MG,Sudeste,Piranguinho,154
 MG,Sudeste,Olaria,153
-TO,Norte,Carrasco Bonito,152
-SE,Nordeste,Muribeca,152
-MG,Sudeste,Datas,152
+AP,Norte,Amapá,153
+PR,Sul,Matelândia,153
+MG,Sudeste,Virginópolis,153
+SC,Sul,Lontras,153
 MS,Centro-Oeste,Deodápolis,152
+TO,Norte,Carrasco Bonito,152
+MG,Sudeste,Datas,152
+SE,Nordeste,Muribeca,152
+GO,Centro-Oeste,Mossâmedes,152
 MG,Sudeste,Itabirinha,152
 RS,Sul,Segredo,152
-GO,Centro-Oeste,Mossâmedes,152
+SC,Sul,Agrolândia,151
+SP,Sudeste,Areias,151
+PI,Nordeste,São João do Piauí,151
 SP,Sudeste,Moji Mirim,151
 MS,Centro-Oeste,Batayporã,151
-SC,Sul,Agrolândia,151
-AP,Norte,Amapá,151
-SP,Sudeste,Areias,151
+SP,Sudeste,Águas de Santa Bárbara,150
+PB,Nordeste,Cachoeira dos Índios,150
+MG,Sudeste,Japaraíba,150
 PB,Nordeste,São José de Princesa,150
-PE,Nordeste,Limoeiro,150
 RN,Nordeste,Caiçara do Rio do Vento,150
 RN,Nordeste,Janduís,150
-PB,Nordeste,Cachoeira dos Índios,150
-SP,Sudeste,Águas de Santa Bárbara,150
-SE,Nordeste,Divina Pastora,150
-MG,Sudeste,Japaraíba,150
 MG,Sudeste,Nova Ponte,150
 RN,Nordeste,São Pedro,150
-TO,Norte,Fortaleza do Tabocão,149
-RS,Sul,Liberato Salzano,149
+PE,Nordeste,Limoeiro,150
+SE,Nordeste,Divina Pastora,150
+MT,Centro-Oeste,Indiavaí,149
 MG,Sudeste,Tupaciguara,149
 PR,Sul,Telêmaco Borba,149
-MG,Sudeste,Itutinga,149
-SP,Sudeste,São João da Boa Vista,149
-SC,Sul,Caibi,149
 GO,Centro-Oeste,Palestina de Goiás,149
-MT,Centro-Oeste,Indiavaí,149
+SP,Sudeste,São João da Boa Vista,149
+MG,Sudeste,Itutinga,149
 RS,Sul,Rolador,149
-AC,Norte,Santa Rosa do Purus,149
 RS,Sul,Dezesseis de Novembro,149
-RS,Sul,Gramado Xavier,148
-PE,Nordeste,Condado,148
-PI,Nordeste,São João do Piauí,148
+RS,Sul,Liberato Salzano,149
+SC,Sul,Caibi,149
+TO,Norte,Fortaleza do Tabocão,149
 BA,Nordeste,Almadina,148
-SP,Sudeste,Pirapozinho,148
-RS,Sul,Herveiras,148
-MG,Sudeste,Senhora do Porto,148
-RS,Sul,São Vicente do Sul,148
-MG,Sudeste,Mariana,148
-GO,Centro-Oeste,Sanclerlândia,148
-MG,Sudeste,Pedra Dourada,148
-SC,Sul,Palma Sola,148
 BA,Nordeste,Gongogi,148
+RS,Sul,São Vicente do Sul,148
+SP,Sudeste,Pirapozinho,148
+PE,Nordeste,Condado,148
+GO,Centro-Oeste,Sanclerlândia,148
+MG,Sudeste,Mariana,148
+SC,Sul,Palma Sola,148
+RS,Sul,Herveiras,148
+MA,Nordeste,Miranda do Norte,148
+MG,Sudeste,Pedra Dourada,148
 SP,Sudeste,Mongaguá,148
-MT,Centro-Oeste,Rio Branco,147
-MG,Sudeste,São Francisco de Sales,147
-MA,Nordeste,Miranda do Norte,147
+MG,Sudeste,Senhora do Porto,148
+RS,Sul,Gramado Xavier,148
 MG,Sudeste,São João Batista do Glória,147
-TO,Norte,Crixás do Tocantins,147
 PR,Sul,Pérola Doeste,147
-MG,Sudeste,Carmo da Mata,146
+MG,Sudeste,São Francisco de Sales,147
+TO,Norte,Crixás do Tocantins,147
+MT,Centro-Oeste,Rio Branco,147
 RN,Nordeste,José da Penha,146
-MT,Centro-Oeste,Campos de Júlio,146
 MG,Sudeste,Santo Antônio do Itambé,146
+MG,Sudeste,Carmo da Mata,146
+MT,Centro-Oeste,Campos de Júlio,146
 MS,Centro-Oeste,Eldorado,146
 MG,Sudeste,Heliodora,146
 PR,Sul,Guaíra,146
 PE,Nordeste,Lagoa do Carro,146
+PI,Nordeste,Várzea Grande,145
 SC,Sul,Balneário Piçarras,145
 MG,Sudeste,Leandro Ferreira,145
-PR,Sul,Paranaguá,145
 MG,Sudeste,Ibitiúra de Minas,145
-BA,Nordeste,São Francisco do Conde,144
-PI,Nordeste,Várzea Grande,144
+PR,Sul,Paranaguá,145
+BA,Nordeste,Barro Preto,145
 PR,Sul,Santa Terezinha de Itaipu,144
+BA,Nordeste,São Francisco do Conde,144
 RS,Sul,Riozinho,144
 MG,Sudeste,Moema,144
-RN,Nordeste,Encanto,144
-RS,Sul,Sapiranga,144
-GO,Centro-Oeste,Santa Cruz de Goiás,144
 RN,Nordeste,Jardim do Seridó,144
+RN,Nordeste,Encanto,144
 SC,Sul,Navegantes,144
-BA,Nordeste,Barro Preto,144
+GO,Centro-Oeste,Santa Cruz de Goiás,144
+RS,Sul,Sapiranga,144
+MA,Nordeste,Porto Rico do Maranhão,143
 PB,Nordeste,Puxinanã,143
 MG,Sudeste,Dona Eusébia,143
-SC,Sul,Chapadão do Lageado,143
+SE,Nordeste,Pedra Mole,143
 SC,Sul,São João do Oeste,143
 MG,Sudeste,Piedade de Caratinga,143
 PR,Sul,Honório Serpa,143
-MA,Nordeste,Porto Rico do Maranhão,143
-SE,Nordeste,Pedra Mole,143
 SP,Sudeste,Rio Claro,143
 PR,Sul,Santa Helena,143
+SC,Sul,Chapadão do Lageado,143
+RS,Sul,Fazenda Vilanova,142
 SP,Sudeste,Campos do Jordão,142
 MG,Sudeste,Argirita,142
-RS,Sul,Fazenda Vilanova,142
+GO,Centro-Oeste,Gameleira de Goiás,142
 PE,Nordeste,Cumaru,142
 GO,Centro-Oeste,Guaraíta,142
 GO,Centro-Oeste,Goiandira,142
-GO,Centro-Oeste,Gameleira de Goiás,142
+MG,Sudeste,Matutina,141
 MG,Sudeste,Caiana,141
 RN,Nordeste,Carnaúba dos Dantas,141
 MG,Sudeste,Estrela do Indaiá,141
 SC,Sul,Vitor Meireles,141
 RN,Nordeste,Riacho de Santana,141
-MG,Sudeste,Matutina,141
-MG,Sudeste,São Francisco de Paula,141
 MG,Sudeste,Conselheiro Lafaiete,141
+MG,Sudeste,São Francisco de Paula,141
+BA,Nordeste,Itaparica,141
 PB,Nordeste,Vieirópolis,141
 MG,Sudeste,Piranguçu,141
 MG,Sudeste,Prados,141
-BA,Nordeste,Itaparica,141
-RN,Nordeste,São Vicente,140
-SC,Sul,Cunha Porã,140
-GO,Centro-Oeste,Ouro Verde de Goiás,140
 PB,Nordeste,Damião,140
+RN,Nordeste,São Vicente,140
 PE,Nordeste,Joaquim Nabuco,140
-SP,Sudeste,Torre de Pedra,140
+GO,Centro-Oeste,Ouro Verde de Goiás,140
+SC,Sul,Cunha Porã,140
+ES,Sudeste,Anchieta,140
 MG,Sudeste,Sardoá,140
 RS,Sul,Mata,140
-ES,Sudeste,Anchieta,140
+SP,Sudeste,Torre de Pedra,140
 SC,Sul,Paraíso,139
-SP,Sudeste,Bom Jesus dos Perdões,139
 GO,Centro-Oeste,Corumbaíba,139
-RS,Sul,Encantado,139
+SP,Sudeste,Bom Jesus dos Perdões,139
 MS,Centro-Oeste,Itaporã,139
-RN,Nordeste,Espírito Santo,138
+RS,Sul,Encantado,139
+PI,Nordeste,Bocaina,139
 PB,Nordeste,Serraria,138
 RN,Nordeste,Rafael Fernandes,138
+RN,Nordeste,Espírito Santo,138
 PR,Sul,Planaltina do Paraná,138
 PB,Nordeste,São José dos Ramos,138
-PI,Nordeste,Bocaina,138
 RJ,Sudeste,Itaboraí,138
+PB,Nordeste,Caturité,137
 MG,Sudeste,Teixeiras,137
-MG,Sudeste,Barão de Cocais,137
 RS,Sul,Ipê,137
+MG,Sudeste,Natércia,137
 RJ,Sudeste,Rio das Ostras,137
 PB,Nordeste,Santa Teresinha,137
 PE,Nordeste,Tuparetama,137
-MG,Sudeste,Natércia,137
-PB,Nordeste,Caturité,137
+MG,Sudeste,Barão de Cocais,137
 SP,Sudeste,Avaí,136
-SC,Sul,Lindóia do Sul,136
 SC,Sul,Bandeirante,136
-SC,Sul,Erval Velho,135
+SC,Sul,Lindóia do Sul,136
 GO,Centro-Oeste,Rialma,135
+SC,Sul,Erval Velho,135
 PB,Nordeste,Monte Horebe,135
 SP,Sudeste,Marabá Paulista,134
-PE,Nordeste,São Joaquim do Monte,134
 RS,Sul,Pantano Grande,134
+PE,Nordeste,São Joaquim do Monte,134
+PB,Nordeste,Arara,133
 MG,Sudeste,Gonzaga,133
 RS,Sul,Arvorezinha,133
 MG,Sudeste,Pimenta,133
 SC,Sul,Irani,133
 RS,Sul,Toropi,133
-PB,Nordeste,Arara,133
+RS,Sul,Lagoa Bonita do Sul,132
 PR,Sul,Campo do Tenente,132
 ES,Sudeste,João Neiva,132
 PI,Nordeste,Guadalupe,132
 MG,Sudeste,Pains,132
 PI,Nordeste,São Gonçalo do Piauí,132
 GO,Centro-Oeste,Novo Brasil,132
-RS,Sul,Lagoa Bonita do Sul,132
 GO,Centro-Oeste,Damianópolis,131
+GO,Centro-Oeste,Simolândia,131
 PB,Nordeste,São João do Cariri,131
 SE,Nordeste,Cedro de São João,131
 MG,Sudeste,Funilândia,131
 RN,Nordeste,Venha-Ver,131
 AL,Nordeste,Jaramataia,131
-GO,Centro-Oeste,Simolândia,131
-SP,Sudeste,Coronel Macedo,131
 RS,Sul,Cacequi,131
+SP,Sudeste,Coronel Macedo,131
+MG,Sudeste,Igarapé,130
 RS,Sul,Alegria,130
+PR,Sul,Itapejara Doeste,130
 PI,Nordeste,Miguel Leão,130
 PR,Sul,Barracão,130
 MG,Sudeste,Carvalhópolis,130
 RS,Sul,Panambi,130
-MG,Sudeste,Igarapé,130
 PB,Nordeste,Diamante,130
 PB,Nordeste,Riachão do Poço,130
 PB,Nordeste,Malta,130
+SC,Sul,Saudades,130
 CE,Nordeste,Altaneira,130
-PR,Sul,Itapejara Doeste,130
 MG,Sudeste,Campanário,130
 SC,Sul,Piratuba,130
-SC,Sul,Saudades,130
+BA,Nordeste,Terra Nova,129
 GO,Centro-Oeste,Nova Glória,129
 MG,Sudeste,Pedro Leopoldo,129
 RN,Nordeste,Barcelona,129
 SC,Sul,Tunápolis,129
 MG,Sudeste,Comendador Gomes,129
 MG,Sudeste,Belo Oriente,129
-BA,Nordeste,Terra Nova,129
+GO,Centro-Oeste,São Patrício,128
 MA,Nordeste,Luís Domingues,128
 PB,Nordeste,Gurinhém,128
-GO,Centro-Oeste,São Patrício,128
+BA,Nordeste,Saubara,128
 MG,Sudeste,Nova Porteirinha,128
 RS,Sul,Horizontina,128
 MG,Sudeste,Alfredo Vasconcelos,128
-BA,Nordeste,Saubara,128
+PR,Sul,Verê,127
 SP,Sudeste,Anhembi,127
 PR,Sul,Diamante do Sul,127
 MG,Sudeste,Cuparaque,127
-PR,Sul,Verê,127
-PB,Nordeste,Belém,127
 RN,Nordeste,Tenente Laurentino Cruz,127
-RN,Nordeste,Alto do Rodrigues,127
+PB,Nordeste,Belém,127
 SP,Sudeste,Ipeúna,127
+RN,Nordeste,Alto do Rodrigues,127
+RN,Nordeste,Pau dos Ferros,126
 SC,Sul,Joaçaba,126
+PE,Nordeste,Carpina,126
 MA,Nordeste,Graça Aranha,126
 PI,Nordeste,Riacho Frio,126
-PE,Nordeste,Carpina,126
 PB,Nordeste,Ingá,126
-RN,Nordeste,Pau dos Ferros,126
 MG,Sudeste,Bom Jesus do Amparo,126
+PB,Nordeste,Capim,125
 SP,Sudeste,Manduri,125
 GO,Centro-Oeste,Sítio Dabadia,125
-PB,Nordeste,Capim,125
 SC,Sul,Gaspar,125
-SP,Sudeste,Euclides da Cunha Paulista,124
 SC,Sul,Urupema,124
 MG,Sudeste,Rio Casca,124
+SP,Sudeste,Euclides da Cunha Paulista,124
 PE,Nordeste,Itaquitinga,124
 SC,Sul,Matos Costa,123
+ES,Sudeste,Bom Jesus do Norte,123
 RS,Sul,Maçambara,123
 GO,Centro-Oeste,Diorama,123
-SC,Sul,Paial,123
-ES,Sudeste,Bom Jesus do Norte,123
-PB,Nordeste,Coxixola,123
 SC,Sul,Jaborá,123
-MG,Sudeste,São Geraldo do Baixio,122
+PB,Nordeste,Coxixola,123
+SC,Sul,Paial,123
 RS,Sul,Mato Leitão,122
-SC,Sul,Santo Amaro da Imperatriz,122
-RS,Sul,Capão do Leão,122
-RN,Nordeste,Coronel João Pessoa,122
-SP,Sudeste,Jales,122
 RJ,Sudeste,Italva,122
-MG,Sudeste,Divinésia,121
-MG,Sudeste,Rodeiro,121
+RS,Sul,Capão do Leão,122
+SC,Sul,Santo Amaro da Imperatriz,122
+SP,Sudeste,Jales,122
+RN,Nordeste,Coronel João Pessoa,122
+MG,Sudeste,São Geraldo do Baixio,122
 SC,Sul,Anitápolis,121
 RS,Sul,Paraíso do Sul,121
 MG,Sudeste,Belmiro Braga,121
 GO,Centro-Oeste,Jandaia,121
+MG,Sudeste,Rodeiro,121
+MG,Sudeste,Divinésia,121
 RN,Nordeste,Riachuelo,120
+MG,Sudeste,Careaçu,120
 RN,Nordeste,Fernando Pedroza,120
 PR,Sul,Bela Vista da Caroba,120
 PR,Sul,Bom Jesus do Sul,120
-MG,Sudeste,Careaçu,120
+PB,Nordeste,Sobrado,119
 GO,Centro-Oeste,Goiatuba,119
 PB,Nordeste,Zabelê,119
 RS,Sul,Independência,119
 PI,Nordeste,Nazaria,119
 PE,Nordeste,Jucati,119
-PB,Nordeste,Sobrado,119
-MG,Sudeste,Guaranésia,118
-SE,Nordeste,Maruim,118
-MG,Sudeste,Limeira do Oeste,118
-RS,Sul,Salto do Jacuí,118
 SP,Sudeste,Marília,118
 ES,Sudeste,Iconha,118
+MG,Sudeste,Guaranésia,118
+MG,Sudeste,Limeira do Oeste,118
+RS,Sul,Salto do Jacuí,118
+SE,Nordeste,Maruim,118
 SP,Sudeste,Presidente Epitácio,117
 MG,Sudeste,Canápolis,117
 MG,Sudeste,Presidente Kubitschek,117
 PB,Nordeste,São Mamede,117
 SE,Nordeste,Nossa Senhora do Socorro,117
+PI,Nordeste,Ilha Grande,117
 MG,Sudeste,Itamarati de Minas,117
 MG,Sudeste,Igaratinga,117
 RS,Sul,Santo Cristo,117
 AM,Norte,Japurá,117
 GO,Centro-Oeste,Indiara,116
-SP,Sudeste,Assis,116
-RN,Nordeste,São Rafael,116
 MG,Sudeste,Campo Florido,116
 MG,Sudeste,Bugre,116
+RS,Sul,Dom Pedro de Alcântara,116
 CE,Nordeste,Acarape,116
 PB,Nordeste,Areial,116
-PI,Nordeste,Ilha Grande,116
-RS,Sul,Dom Pedro de Alcântara,116
+SP,Sudeste,Assis,116
 MT,Centro-Oeste,Ponte Branca,116
-MG,Sudeste,Ibituruna,115
-SC,Sul,Águas de Chapecó,115
-SP,Sudeste,Salto de Pirapora,115
-PI,Nordeste,Santa Luz,115
-RS,Sul,Esmeralda,115
-RS,Sul,Itaqui,115
-PB,Nordeste,Gurjão,115
-PB,Nordeste,São Sebastião de Lagoa de Roça,115
-RS,Sul,Carlos Barbosa,115
-PE,Nordeste,Vertentes,115
+RN,Nordeste,São Rafael,116
 MG,Sudeste,Aracitaba,115
+MG,Sudeste,Ibituruna,115
 TO,Norte,Bandeirantes do Tocantins,115
-RS,Sul,Arroio do Meio,114
-MG,Sudeste,Central de Minas,114
-PR,Sul,Antonina,114
+PE,Nordeste,Vertentes,115
+PB,Nordeste,São Sebastião de Lagoa de Roça,115
+RS,Sul,Itaqui,115
+RS,Sul,Esmeralda,115
+PI,Nordeste,Santa Luz,115
+PB,Nordeste,Gurjão,115
+RS,Sul,Carlos Barbosa,115
+SP,Sudeste,Salto de Pirapora,115
+SC,Sul,Águas de Chapecó,115
 SC,Sul,Bom Jardim da Serra,114
+RS,Sul,Arroio do Meio,114
 GO,Centro-Oeste,Trindade,114
 PA,Norte,Sapucaia,114
+MG,Sudeste,Central de Minas,114
+PR,Sul,Antonina,114
 BA,Nordeste,Itapé,114
-MG,Sudeste,Itumirim,113
+PR,Sul,Piraquara,113
 PB,Nordeste,Olivedos,113
+MG,Sudeste,Engenheiro Caldas,113
+MG,Sudeste,Chalé,113
+SE,Nordeste,Telha,113
+MG,Sudeste,Dores de Campos,113
+MG,Sudeste,São Sebastião do Rio Preto,113
 MG,Sudeste,São Félix de Minas,113
 MG,Sudeste,São Sebastião da Bela Vista,113
+MG,Sudeste,Itumirim,113
 MG,Sudeste,Iturama,113
-MG,Sudeste,Engenheiro Caldas,113
 GO,Centro-Oeste,São Miguel do Passa Quatro,113
-SE,Nordeste,Telha,113
-MG,Sudeste,São Sebastião do Rio Preto,113
-MG,Sudeste,Chalé,113
-MG,Sudeste,Dores de Campos,113
 GO,Centro-Oeste,Buriti de Goiás,113
-PR,Sul,Piraquara,113
-SP,Sudeste,Cosmorama,112
-MG,Sudeste,Araújos,112
 PR,Sul,Saudade do Iguaçu,112
-PB,Nordeste,Igaracy,112
-GO,Centro-Oeste,Pires do Rio,112
-MG,Sudeste,Frei Inocêncio,112
 RS,Sul,Turuçu,112
-GO,Centro-Oeste,São Francisco de Goiás,112
+GO,Centro-Oeste,Pires do Rio,112
+MG,Sudeste,Araújos,112
+MG,Sudeste,Frei Inocêncio,112
 SP,Sudeste,Embu-Guaçu,112
+SP,Sudeste,Cosmorama,112
+GO,Centro-Oeste,São Francisco de Goiás,112
+PB,Nordeste,Igaracy,112
 PR,Sul,Virmond,111
-MG,Sudeste,Doresópolis,111
 GO,Centro-Oeste,Aurilândia,111
 RN,Nordeste,Angicos,111
-MS,Centro-Oeste,Laguna Carapã,111
-RS,Sul,Pinhal Grande,111
-PB,Nordeste,Santa Luzia,111
-SC,Sul,Angelina,111
 MG,Sudeste,Silveirânia,111
+RS,Sul,Pinhal Grande,111
+SC,Sul,Angelina,111
+MS,Centro-Oeste,Laguna Carapã,111
+MG,Sudeste,Doresópolis,111
+PB,Nordeste,Santa Luzia,111
 CE,Nordeste,Itaiçaba,110
-CE,Nordeste,Itaitinga,110
-RS,Sul,Farroupilha,110
-MG,Sudeste,Chiador,110
-RS,Sul,Três Coroas,110
-SP,Sudeste,Paulicéia,110
-MG,Sudeste,Santa Bárbara do Tugúrio,110
-RN,Nordeste,Senador Georgino Avelino,110
-MG,Sudeste,Carmésia,110
-MG,Sudeste,São Gonçalo do Rio Preto,110
 GO,Centro-Oeste,Varjão,110
+RS,Sul,Três Coroas,110
+RN,Nordeste,Senador Georgino Avelino,110
+CE,Nordeste,Itaitinga,110
+MG,Sudeste,Carmésia,110
 SC,Sul,Quilombo,110
-SP,Sudeste,Queluz,109
+MG,Sudeste,Chiador,110
+MG,Sudeste,São Gonçalo do Rio Preto,110
+MG,Sudeste,Santa Bárbara do Tugúrio,110
+RS,Sul,Farroupilha,110
+SP,Sudeste,Paulicéia,110
 RN,Nordeste,Francisco Dantas,109
 PE,Nordeste,Moreilândia,109
-MG,Sudeste,Carmo da Cachoeira,109
-SE,Nordeste,General Maynard,109
-MG,Sudeste,Santana de Cataguases,109
-PR,Sul,Querência do Norte,109
 RS,Sul,Seberi,109
+SP,Sudeste,Queluz,109
+SE,Nordeste,General Maynard,109
+PR,Sul,Querência do Norte,109
+MG,Sudeste,Santana de Cataguases,109
+MG,Sudeste,Carmo da Cachoeira,109
 TO,Norte,Pugmil,108
-GO,Centro-Oeste,Rianápolis,108
-PR,Sul,Rio Branco do Ivaí,108
-MG,Sudeste,Oliveira Fortes,108
-GO,Centro-Oeste,Campinorte,108
 SP,Sudeste,Botucatu,108
+MG,Sudeste,Oliveira Fortes,108
 SC,Sul,Flor do Sertão,108
-RS,Sul,Ibirapuitã,107
-SP,Sudeste,São José do Barreiro,107
-TO,Norte,Carmolândia,107
-RS,Sul,Ciríaco,107
-MT,Centro-Oeste,Santo Afonso,107
-SC,Sul,São João do Itaperiú,107
-MG,Sudeste,Cristina,107
-BA,Nordeste,Salinas da Margarida,107
-SP,Sudeste,Tietê,107
-MG,Sudeste,Frei Lagonegro,107
-PE,Nordeste,Terezinha,107
+PR,Sul,Rio Branco do Ivaí,108
+GO,Centro-Oeste,Campinorte,108
+GO,Centro-Oeste,Rianápolis,108
 PR,Sul,Nova Prata do Iguaçu,107
+RS,Sul,Ibirapuitã,107
+TO,Norte,Carmolândia,107
+SP,Sudeste,Tietê,107
+BA,Nordeste,Salinas da Margarida,107
+MT,Centro-Oeste,Santo Afonso,107
+PE,Nordeste,Terezinha,107
+RS,Sul,Ciríaco,107
+MG,Sudeste,Frei Lagonegro,107
+MG,Sudeste,Cristina,107
+SP,Sudeste,São José do Barreiro,107
+SC,Sul,São João do Itaperiú,107
 RS,Sul,São Martinho da Serra,106
-PB,Nordeste,Lastro,106
-PB,Nordeste,Frei Martinho,106
-RS,Sul,Frederico Westphalen,106
-PE,Nordeste,Quixaba,106
-RS,Sul,Sete de Setembro,106
-PB,Nordeste,Curral de Cima,106
-SP,Sudeste,Motuca,106
-PR,Sul,Godoy Moreira,106
-PI,Nordeste,Olho Dágua do Piauí,106
-GO,Centro-Oeste,Barro Alto,106
 PR,Sul,Astorga,106
+RS,Sul,Frederico Westphalen,106
 SP,Sudeste,Piraju,106
-TO,Norte,Sampaio,106
 GO,Centro-Oeste,Córrego do Ouro,106
-MG,Sudeste,Fernandes Tourinho,105
-GO,Centro-Oeste,Santa Helena de Goiás,105
-GO,Centro-Oeste,Cachoeira Alta,105
-RS,Sul,Campestre da Serra,105
-RS,Sul,Tiradentes do Sul,105
-GO,Centro-Oeste,Professor Jamil,105
-RS,Sul,Roque Gonzales,105
+TO,Norte,Sampaio,106
+PI,Nordeste,Olho Dágua do Piauí,106
+RS,Sul,Sete de Setembro,106
+PE,Nordeste,Quixaba,106
+PR,Sul,Godoy Moreira,106
+PB,Nordeste,Frei Martinho,106
+PB,Nordeste,Lastro,106
+SP,Sudeste,Motuca,106
+PB,Nordeste,Curral de Cima,106
+GO,Centro-Oeste,Barro Alto,106
 RN,Nordeste,Monte das Gameleiras,105
+RS,Sul,Roque Gonzales,105
+RS,Sul,Campestre da Serra,105
+MG,Sudeste,Fernandes Tourinho,105
+GO,Centro-Oeste,Cachoeira Alta,105
+GO,Centro-Oeste,Professor Jamil,105
 RN,Nordeste,São Francisco do Oeste,105
-MG,Sudeste,Capetinga,104
-MG,Sudeste,Sobrália,104
-MA,Nordeste,Igarapé Grande,104
-RS,Sul,Ametista do Sul,104
+GO,Centro-Oeste,Santa Helena de Goiás,105
+RS,Sul,Tiradentes do Sul,105
 RS,Sul,Santa Rosa,104
 GO,Centro-Oeste,Jaupaci,104
+MG,Sudeste,Capetinga,104
+MG,Sudeste,Sobrália,104
+RS,Sul,Ametista do Sul,104
+MA,Nordeste,Igarapé Grande,104
 SP,Sudeste,Conchal,104
 SC,Sul,Nova Itaberaba,103
+GO,Centro-Oeste,Águas Lindas de Goiás,103
+MG,Sudeste,São José do Goiabal,103
 MG,Sudeste,Rio Novo,103
 MG,Sudeste,Pequi,103
 PB,Nordeste,Poço de José de Moura,103
-GO,Centro-Oeste,Águas Lindas de Goiás,103
-MG,Sudeste,São José do Goiabal,103
-SC,Sul,Iraceminha,102
-PR,Sul,Foz do Iguaçu,102
-RS,Sul,Capão Bonito do Sul,102
-SP,Sudeste,Barretos,102
-SC,Sul,São Bernardino,102
-PB,Nordeste,Várzea,102
-RS,Sul,Jaquirana,102
 RN,Nordeste,São Fernando,102
+SC,Sul,São Bernardino,102
+RS,Sul,Jaquirana,102
 RS,Sul,Lajeado do Bugre,102
 MG,Sudeste,Oratórios,102
+SP,Sudeste,Barretos,102
+PR,Sul,Foz do Iguaçu,102
+RS,Sul,Capão Bonito do Sul,102
+SC,Sul,Iraceminha,102
+PB,Nordeste,Várzea,102
 TO,Norte,Rio da Conceição,102
 SP,Sudeste,Presidente Prudente,102
-SC,Sul,Abelardo Luz,101
-RJ,Sudeste,São Pedro da Aldeia,101
-SP,Sudeste,Pedra Bela,101
-GO,Centro-Oeste,Aragoiânia,101
-PB,Nordeste,Pedra Branca,101
-GO,Centro-Oeste,Ivolândia,101
-MG,Sudeste,Córrego Novo,101
-SP,Sudeste,Sud Mennucci,101
-GO,Centro-Oeste,Santa Rita do Araguaia,101
-SC,Sul,Tangará,101
-MG,Sudeste,Rio Acima,101
 MG,Sudeste,Umburatiba,101
+SC,Sul,Abelardo Luz,101
+GO,Centro-Oeste,Ivolândia,101
+RJ,Sudeste,São Pedro da Aldeia,101
+MG,Sudeste,Córrego Novo,101
 AL,Nordeste,Pilar,101
-PE,Nordeste,Lagoa do Itaenga,100
-MG,Sudeste,Dionísio,100
+SC,Sul,Tangará,101
+GO,Centro-Oeste,Aragoiânia,101
+GO,Centro-Oeste,Santa Rita do Araguaia,101
+PB,Nordeste,Pedra Branca,101
+SP,Sudeste,Pedra Bela,101
+MG,Sudeste,Rio Acima,101
+SP,Sudeste,Sud Mennucci,101
+PE,Nordeste,Agrestina,100
 GO,Centro-Oeste,Itauçu,100
 SC,Sul,Herval Doeste,100
-PE,Nordeste,Agrestina,100
-SP,Sudeste,Artur Nogueira,100
-MG,Sudeste,Tiradentes,100
 MG,Sudeste,Senhora de Oliveira,100
-MG,Sudeste,São Pedro dos Ferros,100
 SP,Sudeste,Maracaí,100
+MG,Sudeste,São Pedro dos Ferros,100
+MG,Sudeste,Tiradentes,100
+SP,Sudeste,Artur Nogueira,100
+MG,Sudeste,Dionísio,100
+PE,Nordeste,Lagoa do Itaenga,100
+RS,Sul,Dois Irmãos,99
 AL,Nordeste,Paripueira,99
-MG,Sudeste,Capitão Andrade,99
-MT,Centro-Oeste,Alto Taquari,99
 MT,Centro-Oeste,Ribeirãozinho,99
 GO,Centro-Oeste,Santa Tereza de Goiás,99
-SP,Sudeste,Alambari,99
 PB,Nordeste,Logradouro,99
-RS,Sul,Dois Irmãos,99
 RN,Nordeste,Passa e Fica,99
-SC,Sul,Barra Bonita,98
-PR,Sul,Santa Amélia,98
-RS,Sul,Unistalda,98
-SC,Sul,Rio do Oeste,98
-GO,Centro-Oeste,Cezarina,98
+MG,Sudeste,Capitão Andrade,99
+MT,Centro-Oeste,Alto Taquari,99
+SP,Sudeste,Alambari,99
 RN,Nordeste,Serrinha,98
-MG,Sudeste,Santo Antônio do Grama,98
-PR,Sul,Capitão Leônidas Marques,98
-PB,Nordeste,Lagoa de Dentro,98
+PR,Sul,Santa Amélia,98
 BA,Nordeste,Itaju do Colônia,98
-RS,Sul,Pirapó,97
-MG,Sudeste,São João do Manteninha,97
-RS,Sul,Benjamin Constant do Sul,97
-MS,Centro-Oeste,Fátima do Sul,97
+PB,Nordeste,Lagoa de Dentro,98
+PR,Sul,Capitão Leônidas Marques,98
+GO,Centro-Oeste,Cezarina,98
+SC,Sul,Rio do Oeste,98
+RS,Sul,Unistalda,98
+SC,Sul,Barra Bonita,98
+MG,Sudeste,Santo Antônio do Grama,98
 RS,Sul,São José do Herval,97
-RS,Sul,São Leopoldo,97
-MG,Sudeste,Senador José Bento,97
-SC,Sul,Coronel Freitas,97
 GO,Centro-Oeste,Nova América,97
+MS,Centro-Oeste,Fátima do Sul,97
+MG,Sudeste,São João do Manteninha,97
+SC,Sul,Coronel Freitas,97
+MG,Sudeste,Senador José Bento,97
+RS,Sul,Benjamin Constant do Sul,97
 GO,Centro-Oeste,Paranaiguara,97
-GO,Centro-Oeste,Mozarlândia,96
+RS,Sul,Pirapó,97
+RS,Sul,São Leopoldo,97
 RN,Nordeste,Tibau,96
+SC,Sul,Sul Brasil,96
 PB,Nordeste,Matinhas,96
 SP,Sudeste,Barão de Antonina,96
 SP,Sudeste,Álvares Florence,96
-SC,Sul,Sul Brasil,96
+GO,Centro-Oeste,Mozarlândia,96
+PB,Nordeste,Salgadinho,95
+MG,Sudeste,Quartel Geral,95
+PE,Nordeste,Ibirajuba,95
 RS,Sul,Tuparendi,95
 SP,Sudeste,Nova Independência,95
 RS,Sul,Capela de Santana,95
-PE,Nordeste,Ibirajuba,95
-MG,Sudeste,Quartel Geral,95
-MG,Sudeste,Carmo de Minas,95
 MG,Sudeste,União de Minas,95
-PB,Nordeste,Salgadinho,95
-SC,Sul,Araquari,94
+MG,Sudeste,Carmo de Minas,95
 MT,Centro-Oeste,Araguainha,94
-SC,Sul,Águas Mornas,94
-MG,Sudeste,Capinópolis,94
-RS,Sul,Faxinal do Soturno,94
-SP,Sudeste,Agudos,94
-GO,Centro-Oeste,Nova Veneza,94
-MG,Sudeste,Queluzito,94
 RS,Sul,Floriano Peixoto,94
+GO,Centro-Oeste,Nova Veneza,94
+SC,Sul,Araquari,94
+MG,Sudeste,Queluzito,94
+GO,Centro-Oeste,Buriti Alegre,94
+SP,Sudeste,Paraguaçu Paulista,94
+SC,Sul,Águas Mornas,94
 GO,Centro-Oeste,Itarumã,94
+MG,Sudeste,Capinópolis,94
 SP,Sudeste,Piquete,94
 RS,Sul,São Valério do Sul,94
-SP,Sudeste,Paraguaçu Paulista,94
+SP,Sudeste,Agudos,94
 MG,Sudeste,Pedro Teixeira,94
-GO,Centro-Oeste,Buriti Alegre,94
-RS,Sul,Guaíba,93
-SC,Sul,Vargeão,93
-PR,Sul,Bandeirantes,93
-GO,Centro-Oeste,Guapó,93
-RN,Nordeste,Carnaubais,93
-MG,Sudeste,São João do Oriente,93
-SP,Sudeste,Aguaí,93
-SP,Sudeste,Francisco Morato,93
-MG,Sudeste,Serranos,93
-RS,Sul,Butiá,93
-MG,Sudeste,Joanésia,93
+RS,Sul,Faxinal do Soturno,94
 GO,Centro-Oeste,Firminópolis,93
 GO,Centro-Oeste,Santa Fé de Goiás,93
+SC,Sul,Vargeão,93
+MG,Sudeste,São João do Oriente,93
+RN,Nordeste,Carnaubais,93
+GO,Centro-Oeste,Guapó,93
+RS,Sul,Butiá,93
+RS,Sul,Guaíba,93
 RS,Sul,Itaara,93
 SC,Sul,Ipira,93
-MG,Sudeste,São Vicente de Minas,92
-PR,Sul,Medianeira,92
-RN,Nordeste,Lagoa de Velhos,92
-TO,Norte,Presidente Kennedy,92
-RS,Sul,Pedro Osório,92
+PR,Sul,Bandeirantes,93
+SP,Sudeste,Francisco Morato,93
+SP,Sudeste,Aguaí,93
+MG,Sudeste,Joanésia,93
+MG,Sudeste,Serranos,93
 TO,Norte,Araguanã,92
-MG,Sudeste,Dom Silvério,92
+TO,Norte,Presidente Kennedy,92
+MG,Sudeste,São Vicente de Minas,92
 RS,Sul,Doutor Maurício Cardoso,92
-TO,Norte,Brasilândia do Tocantins,92
+MG,Sudeste,Dom Silvério,92
+PR,Sul,Medianeira,92
+RS,Sul,Pedro Osório,92
 GO,Centro-Oeste,Israelândia,92
-PR,Sul,Braganey,91
+RN,Nordeste,Lagoa de Velhos,92
+TO,Norte,Brasilândia do Tocantins,92
 MG,Sudeste,Ingaí,91
-RS,Sul,Arroio dos Ratos,91
 RS,Sul,Santo Ângelo,91
-SE,Nordeste,Carmópolis,91
+PR,Sul,Braganey,91
 MG,Sudeste,Tumiritinga,91
+RS,Sul,Arroio dos Ratos,91
+SE,Nordeste,Carmópolis,91
 SC,Sul,Ibirama,91
-SP,Sudeste,Ilhabela,90
+SP,Sudeste,Arapeí,90
 RN,Nordeste,Pilões,90
+RS,Sul,Chuí,90
+GO,Centro-Oeste,Itaguaru,90
+MG,Sudeste,Desterro do Melo,90
+SP,Sudeste,Ilhabela,90
+SP,Sudeste,Pedregulho,90
 AL,Nordeste,Jacaré dos Homens,90
 PR,Sul,Bom Sucesso do Sul,90
-SP,Sudeste,Arapeí,90
-MG,Sudeste,Desterro do Melo,90
-SP,Sudeste,Pedregulho,90
-GO,Centro-Oeste,Itaguaru,90
-RS,Sul,Chuí,90
-MG,Sudeste,Barroso,89
+RS,Sul,São Paulo das Missões,89
+PR,Sul,Arapongas,89
+PR,Sul,Santa Izabel do Oeste,89
 MG,Sudeste,Florestal,89
 SP,Sudeste,Cerqueira César,89
+SP,Sudeste,Urupês,89
 BA,Nordeste,Potiraguá,89
 SC,Sul,Laurentino,89
-PR,Sul,Arapongas,89
-RS,Sul,São Paulo das Missões,89
+MG,Sudeste,Barroso,89
 SP,Sudeste,Pirassununga,89
-SP,Sudeste,Urupês,89
-PR,Sul,Santa Izabel do Oeste,89
-AL,Nordeste,Santa Luzia do Norte,88
-GO,Centro-Oeste,Edéia,88
 SP,Sudeste,Narandiba,88
-GO,Centro-Oeste,Três Ranchos,88
-RN,Nordeste,Umarizal,88
-RS,Sul,Cândido Godói,88
-CE,Nordeste,Pacatuba,88
 RS,Sul,Roca Sales,88
 RS,Sul,Veranópolis,88
+RN,Nordeste,Umarizal,88
+GO,Centro-Oeste,Três Ranchos,88
+RS,Sul,Cândido Godói,88
+CE,Nordeste,Pacatuba,88
+AL,Nordeste,Santa Luzia do Norte,88
+GO,Centro-Oeste,Edéia,88
+PE,Nordeste,Barra de Guabiraba,87
 RN,Nordeste,São Bento do Norte,87
-RS,Sul,Erval Grande,87
 SC,Sul,Arvoredo,87
 SC,Sul,Barra Velha,87
 RS,Sul,Morro Reuter,87
-PE,Nordeste,Barra de Guabiraba,87
-MG,Sudeste,Braúnas,86
-GO,Centro-Oeste,Cidade Ocidental,86
-SE,Nordeste,Amparo de São Francisco,86
-RS,Sul,Santa Maria do Herval,86
-MG,Sudeste,Monjolos,86
-GO,Centro-Oeste,São Luíz do Norte,86
-MG,Sudeste,Pingo-Dágua,86
-PB,Nordeste,Riachão do Bacamarte,86
-RJ,Sudeste,Cabo Frio,86
+RS,Sul,Erval Grande,87
 SC,Sul,Pinhalzinho,86
 RS,Sul,Machadinho,86
 MG,Sudeste,Córrego Fundo,86
+RJ,Sudeste,Cabo Frio,86
 SC,Sul,José Boiteux,86
-SP,Sudeste,Tuiuti,85
-RN,Nordeste,Brejinho,85
-PR,Sul,Boa Esperança do Iguaçu,85
-PR,Sul,Boa Vista da Aparecida,85
-PR,Sul,Joaquim Távora,85
-MS,Centro-Oeste,Douradina,85
-RS,Sul,Nova Esperança do Sul,85
-SC,Sul,Princesa,85
-SP,Sudeste,Fernandópolis,85
-RN,Nordeste,Várzea,85
+GO,Centro-Oeste,Cidade Ocidental,86
+MG,Sudeste,Braúnas,86
+PB,Nordeste,Riachão do Bacamarte,86
+SE,Nordeste,Amparo de São Francisco,86
+RS,Sul,Santa Maria do Herval,86
+GO,Centro-Oeste,São Luíz do Norte,86
+MG,Sudeste,Pingo-Dágua,86
+MG,Sudeste,Monjolos,86
 PB,Nordeste,Pirpirituba,85
+PR,Sul,Boa Vista da Aparecida,85
+PR,Sul,Boa Esperança do Iguaçu,85
+RS,Sul,Nova Esperança do Sul,85
+RN,Nordeste,Várzea,85
+RN,Nordeste,Brejinho,85
 ES,Sudeste,Ibiraçu,85
 MG,Sudeste,Passa Quatro,85
-MS,Centro-Oeste,Bataguassu,84
-MG,Sudeste,Cantagalo,84
-RN,Nordeste,Montanhas,84
+SP,Sudeste,Fernandópolis,85
+PR,Sul,Joaquim Távora,85
+MS,Centro-Oeste,Douradina,85
+SP,Sudeste,Tuiuti,85
+SC,Sul,Princesa,85
 MG,Sudeste,Caetanópolis,84
-RN,Nordeste,São João do Sabugi,84
 MG,Sudeste,Raposos,84
-RS,Sul,Planalto,84
+MG,Sudeste,Cantagalo,84
 MG,Sudeste,Ijaci,84
 SP,Sudeste,Aparecida,84
+RN,Nordeste,São João do Sabugi,84
+RN,Nordeste,Montanhas,84
+MS,Centro-Oeste,Bataguassu,84
+RS,Sul,Planalto,84
 MG,Sudeste,Antônio Prado de Minas,84
 MT,Centro-Oeste,Santa Rita do Trivelato,83
-SP,Sudeste,Ocauçu,83
-SP,Sudeste,Itirapuã,83
-RS,Sul,Vicente Dutra,83
-MG,Sudeste,Dom Cavati,83
-SE,Nordeste,São Francisco,83
 RN,Nordeste,Cruzeta,83
-MG,Sudeste,Alto Caparaó,83
-MG,Sudeste,Santana dos Montes,83
+MG,Sudeste,Dom Cavati,83
+SP,Sudeste,Itirapuã,83
+SP,Sudeste,Ocauçu,83
+SC,Sul,Trombudo Central,83
 GO,Centro-Oeste,Mambaí,83
 MG,Sudeste,Couto de Magalhães de Minas,83
-SC,Sul,Trombudo Central,83
-RN,Nordeste,Taboleiro Grande,82
-MG,Sudeste,Santa Efigênia de Minas,82
-PB,Nordeste,Mato Grosso,82
-RS,Sul,Passo Fundo,82
+SE,Nordeste,São Francisco,83
+MG,Sudeste,Alto Caparaó,83
+MG,Sudeste,Santana dos Montes,83
+RS,Sul,Vicente Dutra,83
 RS,Sul,Boa Vista do Incra,82
+RS,Sul,Passo Fundo,82
 PR,Sul,Corumbataí do Sul,82
-BA,Nordeste,Itagimirim,81
-MG,Sudeste,Catas Altas,81
+PB,Nordeste,Mato Grosso,82
+MG,Sudeste,Santa Efigênia de Minas,82
+RN,Nordeste,Taboleiro Grande,82
+PB,Nordeste,Santo André,81
 MG,Sudeste,Cruzeiro da Fortaleza,81
-RS,Sul,Cerro Grande,81
 RS,Sul,Nova Palma,81
 RS,Sul,Rodeio Bonito,81
-MG,Sudeste,Romaria,81
+RS,Sul,Cerro Grande,81
 MG,Sudeste,Goiabeira,81
-PB,Nordeste,Santo André,81
-MT,Centro-Oeste,São Pedro da Cipa,80
-PR,Sul,Foz do Jordão,80
+MG,Sudeste,Romaria,81
+MG,Sudeste,Catas Altas,81
+BA,Nordeste,Itagimirim,81
+MG,Sudeste,Santana da Vargem,80
 TO,Norte,Novo Jardim,80
 MG,Sudeste,Serra da Saudade,80
-PR,Sul,Maringá,80
+MT,Centro-Oeste,São Pedro da Cipa,80
 PR,Sul,Altamira do Paraná,80
-MG,Sudeste,Santana da Vargem,80
+PR,Sul,Maringá,80
 PR,Sul,Arapoti,80
-PR,Sul,Vera Cruz do Oeste,79
-RS,Sul,Eugênio de Castro,79
-SP,Sudeste,Santo Antônio da Alegria,79
-RN,Nordeste,Messias Targino,79
-MG,Sudeste,Maripá de Minas,79
-MG,Sudeste,Santana do Deserto,79
-RS,Sul,Condor,79
-RS,Sul,Porto Lucena,79
+PR,Sul,Foz do Jordão,80
 SC,Sul,Guatambú,79
+RS,Sul,Condor,79
 PE,Nordeste,Abreu e Lima,79
-BA,Nordeste,Lajedão,78
-SP,Sudeste,Presidente Bernardes,78
-RS,Sul,Coronel Bicaco,78
-PR,Sul,São Jorge Doeste,78
-RS,Sul,Itapuca,78
-MG,Sudeste,Santana do Garambéu,78
-RS,Sul,Cambará do Sul,78
-PR,Sul,Jandaia do Sul,78
-GO,Centro-Oeste,Turvelândia,78
+RS,Sul,Porto Lucena,79
+RS,Sul,Eugênio de Castro,79
+PR,Sul,Vera Cruz do Oeste,79
+SP,Sudeste,Santo Antônio da Alegria,79
+MG,Sudeste,Santana do Deserto,79
+RN,Nordeste,Messias Targino,79
+MA,Nordeste,Altamira do Maranhão,79
+MG,Sudeste,Maripá de Minas,79
 SP,Sudeste,Pardinho,78
-MG,Sudeste,Seritinga,77
+PR,Sul,São Jorge Doeste,78
+SP,Sudeste,Presidente Bernardes,78
+GO,Centro-Oeste,Turvelândia,78
+RS,Sul,Itapuca,78
+RS,Sul,Cambará do Sul,78
+RS,Sul,Coronel Bicaco,78
+BA,Nordeste,Lajedão,78
+PR,Sul,Jandaia do Sul,78
+MG,Sudeste,Santana do Garambéu,78
 RN,Nordeste,Portalegre,77
-SP,Sudeste,Nhandeara,77
-MG,Sudeste,Conceição das Alagoas,77
 SC,Sul,Coronel Martins,77
-PR,Sul,Figueira,77
-RN,Nordeste,Paraú,77
+MG,Sudeste,Seritinga,77
+SP,Sudeste,Nhandeara,77
 RN,Nordeste,Doutor Severiano,77
+RN,Nordeste,Paraú,77
+MG,Sudeste,Conceição das Alagoas,77
+PR,Sul,Figueira,77
 RS,Sul,Teutônia,76
+RS,Sul,Cristal do Sul,76
+PE,Nordeste,Cupira,76
+SP,Sudeste,Itupeva,76
+SP,Sudeste,Bauru,76
+RS,Sul,Capivari do Sul,76
+MG,Sudeste,Caranaíba,76
 RN,Nordeste,Água Nova,76
 PB,Nordeste,João Pessoa,76
-RS,Sul,Cristal do Sul,76
-SP,Sudeste,Bauru,76
-MA,Nordeste,Altamira do Maranhão,76
-PE,Nordeste,Cupira,76
-RS,Sul,Capivari do Sul,76
-SP,Sudeste,Itupeva,76
-MG,Sudeste,Caranaíba,76
-SC,Sul,Alto Bela Vista,75
-SP,Sudeste,Bady Bassitt,75
-PB,Nordeste,Poço Dantas,75
-RS,Sul,São Marcos,75
-PR,Sul,Toledo,75
-MG,Sudeste,Nova Módica,75
-MG,Sudeste,Marilac,75
 RS,Sul,Sananduva,75
-RS,Sul,Pinheirinho do Vale,75
+SC,Sul,Alto Bela Vista,75
+PR,Sul,Toledo,75
+SP,Sudeste,Bady Bassitt,75
+RS,Sul,São Marcos,75
 PB,Nordeste,Carrapateira,75
-GO,Centro-Oeste,Damolândia,74
-MG,Sudeste,Fama,74
-SC,Sul,Nova Erechim,74
-PR,Sul,Cianorte,74
-MS,Centro-Oeste,Ladário,74
-MG,Sudeste,Ipatinga,74
+MG,Sudeste,Marilac,75
+MG,Sudeste,Nova Módica,75
+RS,Sul,Pinheirinho do Vale,75
+PB,Nordeste,Poço Dantas,75
 RN,Nordeste,Grossos,74
-RS,Sul,Ibiraiaras,74
+GO,Centro-Oeste,Damolândia,74
+MG,Sudeste,Ipatinga,74
 GO,Centro-Oeste,Urutaí,74
+MS,Centro-Oeste,Ladário,74
+PR,Sul,Cianorte,74
 PR,Sul,Abatiá,74
+MG,Sudeste,Fama,74
 RS,Sul,Gramado,74
+RS,Sul,Ibiraiaras,74
+SC,Sul,Nova Erechim,74
 GO,Centro-Oeste,Acreúna,73
-MG,Sudeste,Goianá,73
 MG,Sudeste,Morro da Garça,73
-MG,Sudeste,Itanhandu,73
-MS,Centro-Oeste,Novo Horizonte do Sul,73
-MG,Sudeste,Coronel Xavier Chaves,73
-RS,Sul,Novo Machado,73
-MS,Centro-Oeste,Naviraí,73
 SC,Sul,Treze Tílias,73
 SC,Sul,Pedras Grandes,73
-SC,Sul,Salete,72
-PB,Nordeste,Riacho de Santo Antônio,72
-GO,Centro-Oeste,Arenópolis,72
-MG,Sudeste,Santa Rita de Minas,72
-SP,Sudeste,Taciba,72
-GO,Centro-Oeste,Itaguari,72
-RJ,Sudeste,Saquarema,72
-MS,Centro-Oeste,Vicentina,72
+MS,Centro-Oeste,Novo Horizonte do Sul,73
+RS,Sul,Novo Machado,73
+MG,Sudeste,Goianá,73
+MS,Centro-Oeste,Naviraí,73
+MG,Sudeste,Coronel Xavier Chaves,73
+MG,Sudeste,Itanhandu,73
 MG,Sudeste,Capela Nova,72
-SP,Sudeste,Roseira,72
-SP,Sudeste,Santo Anastácio,72
+GO,Centro-Oeste,Arenópolis,72
+GO,Centro-Oeste,Itaguari,72
+MG,Sudeste,Santa Rita de Minas,72
+PB,Nordeste,Riacho de Santo Antônio,72
 MG,Sudeste,Senador Cortes,72
+MS,Centro-Oeste,Vicentina,72
 MT,Centro-Oeste,São José do Povo,72
+SP,Sudeste,Santo Anastácio,72
+SP,Sudeste,Roseira,72
+SP,Sudeste,Taciba,72
+RJ,Sudeste,Saquarema,72
+SC,Sul,Salete,72
 PB,Nordeste,Prata,71
 MG,Sudeste,Cordislândia,71
-PR,Sul,Mandaguari,71
-MG,Sudeste,Divisa Alegre,71
-SP,Sudeste,São Carlos,71
-PE,Nordeste,Angelim,71
-RS,Sul,Boa Vista do Cadeado,71
 SP,Sudeste,Iperó,71
-RN,Nordeste,São José do Seridó,71
 PR,Sul,Planalto,71
+MG,Sudeste,Divisa Alegre,71
+PE,Nordeste,Angelim,71
+RN,Nordeste,São José do Seridó,71
+PR,Sul,Mandaguari,71
+RS,Sul,Boa Vista do Cadeado,71
+SP,Sudeste,São Carlos,71
 SP,Sudeste,Miguelópolis,70
-SP,Sudeste,Martinópolis,70
-SP,Sudeste,Turiúba,70
-MG,Sudeste,Divino das Laranjeiras,70
 SP,Sudeste,Vargem,70
+SP,Sudeste,Turiúba,70
+SP,Sudeste,Martinópolis,70
+MG,Sudeste,Divino das Laranjeiras,70
+RN,Nordeste,Olho-Dágua do Borges,70
 GO,Centro-Oeste,Nerópolis,70
-SC,Sul,Jaguaruna,70
 SC,Sul,Luzerna,70
-SE,Nordeste,Malhada dos Bois,70
+GO,Centro-Oeste,Perolândia,70
 RS,Sul,Dois Irmãos das Missões,70
 PE,Nordeste,Salgadinho,70
-RN,Nordeste,Olho-Dágua do Borges,70
-GO,Centro-Oeste,Perolândia,70
 RS,Sul,Cruz Alta,70
+SE,Nordeste,Malhada dos Bois,70
+SC,Sul,Jaguaruna,70
 RS,Sul,Trindade do Sul,69
-GO,Centro-Oeste,Nova Aurora,69
-MG,Sudeste,Marliéria,69
-MG,Sudeste,Fortuna de Minas,69
-SC,Sul,Capivari de Baixo,69
 MG,Sudeste,Cristiano Otoni,69
+SC,Sul,Capivari de Baixo,69
 RJ,Sudeste,Rio das Flores,69
-PR,Sul,São João do Ivaí,69
-RJ,Sudeste,Cordeiro,69
+MG,Sudeste,Fortuna de Minas,69
 GO,Centro-Oeste,Ouvidor,69
 RS,Sul,Glorinha,69
+MG,Sudeste,Marliéria,69
+GO,Centro-Oeste,Nova Aurora,69
+RJ,Sudeste,Cordeiro,69
+PR,Sul,São João do Ivaí,69
 RJ,Sudeste,Guapimirim,68
-MG,Sudeste,Nacip Raydan,68
-SC,Sul,Porto Belo,68
-SC,Sul,Rio Rufino,68
-RS,Sul,Pontão,68
-SP,Sudeste,Santo Antônio do Jardim,68
 SC,Sul,Irati,68
+SC,Sul,Rio Rufino,68
+SP,Sudeste,Santo Antônio do Jardim,68
+MG,Sudeste,Nacip Raydan,68
+RS,Sul,Pontão,68
 PR,Sul,Salgado Filho,68
-GO,Centro-Oeste,Goiânia,67
-PB,Nordeste,Cacimba de Areia,67
-SC,Sul,Rio das Antas,67
+SC,Sul,Porto Belo,68
 RS,Sul,Lajeado,67
-SP,Sudeste,Monções,67
-PE,Nordeste,Itapissuma,67
-PB,Nordeste,Baraúna,67
-PR,Sul,Amaporã,67
-GO,Centro-Oeste,Cumari,67
-SC,Sul,Rancho Queimado,67
-RS,Sul,Mato Castelhano,67
 PB,Nordeste,Tenório,67
-PB,Nordeste,Passagem,67
-MG,Sudeste,Cedro do Abaeté,67
-RJ,Sudeste,Macuco,67
 SC,Sul,São Domingos,67
-PE,Nordeste,Camocim de São Félix,67
-GO,Centro-Oeste,Alto Horizonte,67
+RS,Sul,Mato Castelhano,67
 PR,Sul,Jaboti,67
+GO,Centro-Oeste,Cumari,67
+PE,Nordeste,Itapissuma,67
+GO,Centro-Oeste,Goiânia,67
+PB,Nordeste,Passagem,67
+PB,Nordeste,Baraúna,67
+SC,Sul,Rio das Antas,67
+SC,Sul,Rancho Queimado,67
+SP,Sudeste,Monções,67
+PB,Nordeste,Cacimba de Areia,67
+MG,Sudeste,Cedro do Abaeté,67
 SC,Sul,Atalanta,67
+PR,Sul,Amaporã,67
+RJ,Sudeste,Macuco,67
+GO,Centro-Oeste,Alto Horizonte,67
+PE,Nordeste,Camocim de São Félix,67
 PR,Sul,Tuneiras do Oeste,66
 PR,Sul,Marialva,66
+SP,Sudeste,Caieiras,66
 RS,Sul,Canudos do Vale,66
 SC,Sul,Celso Ramos,66
-PR,Sul,Flor da Serra do Sul,66
-PB,Nordeste,Parari,66
-SP,Sudeste,Caieiras,66
 TO,Norte,Novo Alegre,66
+PB,Nordeste,Parari,66
+PR,Sul,Flor da Serra do Sul,66
 RS,Sul,Ijuí,66
-MS,Centro-Oeste,Jateí,65
-RJ,Sudeste,São Gonçalo,65
-PR,Sul,Lindoeste,65
-PE,Nordeste,Araçoiaba,65
-MG,Sudeste,Centralina,65
-MG,Sudeste,Santo Hipólito,65
 GO,Centro-Oeste,Senador Canedo,65
-MG,Sudeste,São João da Mata,65
+PR,Sul,Lindoeste,65
+MG,Sudeste,Santo Hipólito,65
 PE,Nordeste,Solidão,65
-MG,Sudeste,Arceburgo,65
+RJ,Sudeste,São Gonçalo,65
 SP,Sudeste,Anhumas,65
-RS,Sul,Três Palmeiras,64
+MG,Sudeste,São João da Mata,65
+PE,Nordeste,Araçoiaba,65
+MS,Centro-Oeste,Jateí,65
+MG,Sudeste,Centralina,65
+MG,Sudeste,Arceburgo,65
 SP,Sudeste,Américo de Campos,64
-PE,Nordeste,Ferreiros,64
-MG,Sudeste,Marmelópolis,64
-SC,Sul,Garuva,64
-MG,Sudeste,Virgolândia,64
 RS,Sul,Santa Cruz do Sul,64
-BA,Nordeste,Santa Cruz da Vitória,64
-MG,Sudeste,Douradoquara,64
-RS,Sul,Caiçara,64
 SC,Sul,Mirim Doce,64
+SC,Sul,Garuva,64
+RS,Sul,Três Palmeiras,64
+MG,Sudeste,Douradoquara,64
+BA,Nordeste,Santa Cruz da Vitória,64
+MG,Sudeste,Virgolândia,64
+MG,Sudeste,Marmelópolis,64
+PE,Nordeste,Ferreiros,64
 SP,Sudeste,Gastão Vidigal,64
 SP,Sudeste,Álvares Machado,64
-GO,Centro-Oeste,Bonfinópolis,63
-RN,Nordeste,Major Sales,63
-PE,Nordeste,Camutanga,63
-GO,Centro-Oeste,Santa Rosa de Goiás,63
-PR,Sul,Campo Mourão,63
-RS,Sul,Três Passos,63
-RS,Sul,Novo Cabrais,63
+RS,Sul,Caiçara,64
 MG,Sudeste,São José da Varginha,63
+RS,Sul,Novo Cabrais,63
+RN,Nordeste,Major Sales,63
 SC,Sul,Biguaçu,63
-SC,Sul,Palhoça,62
-MG,Sudeste,Albertina,62
-SE,Nordeste,Santana do São Francisco,62
-MG,Sudeste,Caparaó,62
-MG,Sudeste,Coronel Pacheco,62
-MS,Centro-Oeste,Sete Quedas,62
-SP,Sudeste,Nantes,62
-SC,Sul,Guarujá do Sul,62
+GO,Centro-Oeste,Santa Rosa de Goiás,63
+RS,Sul,Três Passos,63
+GO,Centro-Oeste,Bonfinópolis,63
+PR,Sul,Campo Mourão,63
+PE,Nordeste,Camutanga,63
 PB,Nordeste,São José do Brejo do Cruz,62
+MG,Sudeste,Caparaó,62
+MS,Centro-Oeste,Sete Quedas,62
+SE,Nordeste,Santana do São Francisco,62
+MG,Sudeste,Albertina,62
 SP,Sudeste,Araras,62
-SP,Sudeste,São Simão,61
+MG,Sudeste,Coronel Pacheco,62
+SP,Sudeste,Nantes,62
+SC,Sul,Palhoça,62
+SC,Sul,Guarujá do Sul,62
+GO,Centro-Oeste,Lagoa Santa,61
+PR,Sul,Ibiporã,61
+SC,Sul,Itapema,61
+PB,Nordeste,Ouro Velho,61
+SP,Sudeste,Presidente Alves,61
 SP,Sudeste,Pedranópolis,61
 RN,Nordeste,Martins,61
-SC,Sul,Santa Helena,61
-PB,Nordeste,Juarez Távora,61
-SP,Sudeste,Taguaí,61
-SP,Sudeste,Presidente Alves,61
-PR,Sul,Pinhal de São Bento,61
-GO,Centro-Oeste,Lagoa Santa,61
-SC,Sul,Itapema,61
-RJ,Sudeste,Vassouras,61
-RN,Nordeste,Pendências,61
-GO,Centro-Oeste,Taquaral de Goiás,61
-PB,Nordeste,Ouro Velho,61
 CE,Nordeste,Maracanaú,61
-PR,Sul,Ibiporã,61
-RS,Sul,Senador Salgado Filho,60
-PR,Sul,Mamborê,60
-AL,Nordeste,Palestina,60
-PB,Nordeste,Quixabá,60
+RN,Nordeste,Pendências,61
+PR,Sul,Pinhal de São Bento,61
+RJ,Sudeste,Vassouras,61
+SC,Sul,Santa Helena,61
+SP,Sudeste,São Simão,61
+PB,Nordeste,Juarez Távora,61
+GO,Centro-Oeste,Taquaral de Goiás,61
+SP,Sudeste,Taguaí,61
 GO,Centro-Oeste,Panamá,60
-PR,Sul,Araruna,60
 PR,Sul,Ariranha do Ivaí,60
-PR,Sul,Assaí,60
 PR,Sul,Manfrinópolis,60
-RJ,Sudeste,Barra do Piraí,60
+PB,Nordeste,Quixabá,60
 SP,Sudeste,Palestina,60
 MG,Sudeste,Ressaquinha,60
-SC,Sul,Belmonte,60
+PR,Sul,Assaí,60
+AL,Nordeste,Palestina,60
+RS,Sul,Senador Salgado Filho,60
+RJ,Sudeste,Barra do Piraí,60
 MG,Sudeste,Juatuba,60
-SP,Sudeste,Macaubal,59
-SC,Sul,São Cristovão do Sul,59
-RN,Nordeste,Felipe Guerra,59
-MG,Sudeste,Divinolândia de Minas,59
-SP,Sudeste,Braúna,59
-SC,Sul,Ouro,59
+PR,Sul,Araruna,60
+SC,Sul,Belmonte,60
+PR,Sul,Mamborê,60
 SC,Sul,Witmarsum,59
 SC,Sul,Águas Frias,59
+SC,Sul,Ouro,59
+SP,Sudeste,Braúna,59
+SC,Sul,São Cristovão do Sul,59
+MG,Sudeste,Divinolândia de Minas,59
+SP,Sudeste,Macaubal,59
+RN,Nordeste,Felipe Guerra,59
 RS,Sul,Sertão,58
 RS,Sul,Cerro Largo,58
 RS,Sul,Nova Bréscia,58
@@ -4538,9 +4538,9 @@ RN,Nordeste,Jundiá,44
 MG,Sudeste,Ribeirão Vermelho,43
 PR,Sul,Pranchita,43
 GO,Centro-Oeste,Água Limpa,43
-SP,Sudeste,São Lourenço da Serra,43
+MA,Nordeste,Bom Lugar,43
 PR,Sul,Campina da Lagoa,43
-PE,Nordeste,Paulista,43
+SP,Sudeste,São Lourenço da Serra,43
 SP,Sudeste,Buritama,43
 RS,Sul,Boa Vista do Sul,43
 MG,Sudeste,Lagoa Santa,43
@@ -4552,17 +4552,17 @@ SP,Sudeste,Patrocínio Paulista,43
 SP,Sudeste,Valentim Gentil,43
 MT,Centro-Oeste,Santo Antônio do Leste,43
 MG,Sudeste,Periquito,43
+PE,Nordeste,Paulista,43
 SP,Sudeste,Campos Novos Paulista,43
-PR,Sul,Cruzeiro do Sul,43
 PR,Sul,Cruzeiro do Iguaçu,43
-RN,Nordeste,Santa Maria,43
+PR,Sul,Cruzeiro do Sul,43
 RS,Sul,Pouso Novo,43
+RN,Nordeste,Santa Maria,43
 SP,Sudeste,Herculândia,42
-RS,Sul,São João da Urtiga,42
 MG,Sudeste,São José do Alegre,42
+RS,Sul,São João da Urtiga,42
 SC,Sul,Botuverá,42
 RN,Nordeste,João Dias,42
-MA,Nordeste,Bom Lugar,42
 SC,Sul,Formosa do Sul,42
 SP,Sudeste,Catanduva,42
 PB,Nordeste,São Domingos do Cariri,42
@@ -5016,9 +5016,9 @@ SC,Sul,Pinheiro Preto,16
 SP,Sudeste,Sabino,16
 RS,Sul,Vale Real,15
 SP,Sudeste,Sandovalina,15
-PR,Sul,Iguatu,15
 PR,Sul,Tupãssi,15
-SP,Sudeste,Panorama,15
+MA,Nordeste,Tufilândia,15
+PR,Sul,Iguatu,15
 MG,Sudeste,Rio Doce,15
 SC,Sul,Arroio Trinta,15
 SP,Sudeste,Populina,15
@@ -5034,15 +5034,15 @@ SP,Sudeste,Tapiratiba,15
 RS,Sul,Muçum,15
 SP,Sudeste,Ibitinga,15
 SP,Sudeste,São José do Rio Preto,15
-PR,Sul,Cafelândia,15
+SP,Sudeste,Panorama,15
 SP,Sudeste,Riolândia,15
 RS,Sul,Casca,15
 PR,Sul,Alto Piquiri,15
-MA,Nordeste,Tufilândia,14
+PR,Sul,Cafelândia,15
 MG,Sudeste,São Bento Abade,14
 SP,Sudeste,Adolfo,14
-SP,Sudeste,Oriente,14
-PR,Sul,Presidente Castelo Branco,14
+SP,Sudeste,Ouro Verde,14
+SP,Sudeste,Pedreira,14
 SP,Sudeste,Santa Clara Doeste,14
 SP,Sudeste,Clementina,14
 SC,Sul,Canelinha,14
@@ -5058,12 +5058,12 @@ RS,Sul,Poço das Antas,14
 RS,Sul,Tupanci do Sul,14
 RS,Sul,Westfalia,14
 MG,Sudeste,Ribeirão das Neves,14
+PR,Sul,Presidente Castelo Branco,14
 RS,Sul,Ronda Alta,14
-SP,Sudeste,Ouro Verde,14
 PR,Sul,Jaguapitã,14
 PR,Sul,Mandaguaçu,14
 PR,Sul,Mariluz,14
-SP,Sudeste,Pedreira,14
+SP,Sudeste,Oriente,14
 RS,Sul,Chiapetta,14
 PR,Sul,Cafezal do Sul,14
 RS,Sul,Santa Bárbara do Sul,13
