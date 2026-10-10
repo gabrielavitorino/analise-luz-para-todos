@@ -2,15 +2,15 @@
   {
     "arquivo": "domicilios_atendidos.csv",
     "url": "https://dadosabertos.mme.gov.br/dataset/418de37c-1689-46b7-832d-8eb5b5df9987/resource/3e832dfa-9985-4c5f-a36b-cc72479217fb/download/domicilios_atendidos.csv",
-    "bytes": 35376377,
-    "sha256": "4f82987f85fe03cc96ed5a57cf999542dff31a29ab53416e52f8b1dda92ffce3",
-    "baixado_em_utc": "2026-09-10T14:08:40.042721+00:00"
+    "bytes": 35377125,
+    "sha256": "10a66d282716f99e95b24d4d85260352314cdc9874c229dc52d35b2bbc5aff52",
+    "baixado_em_utc": "2026-10-10T15:46:44.697673+00:00"
   },
   {
     "arquivo": "recursos_aplicados.csv",
     "url": "https://dadosabertos.mme.gov.br/dataset/418de37c-1689-46b7-832d-8eb5b5df9987/resource/3cb6e681-e150-4c30-baeb-3cde5618576f/download/recursos_aplicados.csv",
-    "bytes": 71546,
-    "sha256": "ef0015b5dd0dad6a93e5626bbf2dfaac56a61fcd4c4a97e8c21da4feb2bfa3b9",
-    "baixado_em_utc": "2026-09-10T14:08:41.162613+00:00"
+    "bytes": 71573,
+    "sha256": "83f9ece8aefd8d604a88d86d72fa5d581d77110a974ac302e3ab41073568a5ed",
+    "baixado_em_utc": "2026-10-10T15:46:45.613752+00:00"
   }
 ]
